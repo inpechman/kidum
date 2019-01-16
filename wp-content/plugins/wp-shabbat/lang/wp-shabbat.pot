@@ -1,0 +1,344 @@
+# Copyright (C) 2016 wp-shabbat
+# This file is distributed under the same license as the wp-shabbat package.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shabbat 2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-shabbat\n"
+"POT-Creation-Date: 2016-02-25 08:58:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: wp-shabbat-closed-page.php:30 wp-shabbat-closed-page.php:35
+#: wp-shabbat-popup.php:29 wp-shabbat-popup.php:34
+msgid "Today is : "
+msgstr ""
+
+#: wp-shabbat-closed-page.php:31 wp-shabbat-closed-page.php:36
+#: wp-shabbat-popup.php:30 wp-shabbat-popup.php:35
+msgid "Please come back "
+msgstr ""
+
+#: wp-shabbat-countdown.php:22
+msgid "site will close due to "
+msgstr ""
+
+#: wp-shabbat-countdown.php:22
+msgid " in"
+msgstr ""
+
+#: wp-shabbat-countdown.php:31
+msgid "The site is now closed for browsing"
+msgstr ""
+
+#: wp-shabbat-functions.php:197 wp-shabbat-functions.php:202
+#: wp-shabbat-functions.php:207 wp-shabbat-functions.php:217
+#: wp-shabbat-functions.php:221 wp-shabbat-functions.php:226
+#: wp-shabbat-functions.php:231 wp-shabbat-functions.php:279
+#: wp-shabbat-functions.php:284 wp-shabbat-functions.php:289
+#: wp-shabbat-functions.php:296 wp-shabbat-functions.php:301
+#: wp-shabbat-functions.php:309 wp-shabbat-functions.php:314
+#: wp-shabbat.php:234
+msgid "Holiday"
+msgstr ""
+
+#: wp-shabbat-functions.php:198 wp-shabbat-functions.php:202
+#: wp-shabbat-functions.php:244 wp-shabbat-functions.php:248
+#: wp-shabbat-functions.php:297 wp-shabbat-functions.php:301
+#: wp-shabbat-functions.php:325 wp-shabbat-functions.php:329
+#: wp-shabbat.php:234
+msgid "tommorow at "
+msgstr ""
+
+#: wp-shabbat-functions.php:218 wp-shabbat-functions.php:221
+#: wp-shabbat-functions.php:280 wp-shabbat-functions.php:284
+msgid "two day at "
+msgstr ""
+
+#: wp-shabbat-functions.php:227 wp-shabbat-functions.php:231
+#: wp-shabbat-functions.php:262 wp-shabbat-functions.php:266
+#: wp-shabbat-functions.php:310 wp-shabbat-functions.php:314
+#: wp-shabbat-functions.php:343 wp-shabbat-functions.php:347
+msgid "at "
+msgstr ""
+
+#: wp-shabbat-functions.php:243 wp-shabbat-functions.php:248
+#: wp-shabbat-functions.php:253 wp-shabbat-functions.php:261
+#: wp-shabbat-functions.php:266 wp-shabbat-functions.php:324
+#: wp-shabbat-functions.php:329 wp-shabbat-functions.php:334
+#: wp-shabbat-functions.php:342 wp-shabbat-functions.php:347
+msgid "Shabbat"
+msgstr ""
+
+#: wp-shabbat-popup.php:41
+msgid "Close Window "
+msgstr ""
+
+#: wp-shabbat-update.php:35
+msgid "file downloaded and extracted successfully"
+msgstr ""
+
+#: wp-shabbat-update.php:39
+msgid "problem with file extraction"
+msgstr ""
+
+#: wp-shabbat-update.php:44
+msgid "problem with file download"
+msgstr ""
+
+#: wp-shabbat-update.php:61
+msgid "WP-Shabbat plugin DB update status"
+msgstr ""
+
+#: wp-shabbat-update.php:71
+msgid "Hello "
+msgstr ""
+
+#: wp-shabbat-update.php:72
+msgid "this email sent to inform you the DB update status"
+msgstr ""
+
+#: wp-shabbat-update.php:73
+msgid "and thank you for using WP-Shabbat Plugin this plugin is"
+msgstr ""
+
+#: wp-shabbat-update.php:73
+msgid "free so please support us"
+msgstr ""
+
+#: wp-shabbat-update.php:73
+msgid "By helping us with the cost of the plugin"
+msgstr ""
+
+#: wp-shabbat-update.php:75
+msgid "and by helping us with your important review at "
+msgstr ""
+
+#: wp-shabbat-update.php:75
+msgid "the wordpress.org plugin page"
+msgstr ""
+
+#: wp-shabbat.php:21
+msgid "WP Shabbat Plugin Settings"
+msgstr ""
+
+#: wp-shabbat.php:22
+msgid "Display popup announcement message"
+msgstr ""
+
+#: wp-shabbat.php:23
+msgid "Candle light Minutes"
+msgstr ""
+
+#: wp-shabbat.php:24
+msgid "Havdala Minutes"
+msgstr ""
+
+#: wp-shabbat.php:25 wp-shabbat.php:31
+msgid "Enter your message"
+msgstr ""
+
+#: wp-shabbat.php:29
+msgid "WP Shabbat rich editor Settings"
+msgstr ""
+
+#: wp-shabbat.php:30
+msgid "Enable user content"
+msgstr ""
+
+#: wp-shabbat.php:37
+msgid "WP Shabbat hide css class/id"
+msgstr ""
+
+#: wp-shabbat.php:38
+msgid "css class/id to hide"
+msgstr ""
+
+#: wp-shabbat.php:39
+msgid "Disable support link"
+msgstr ""
+
+#: wp-shabbat.php:42
+msgid ""
+"the website will close to user based on his location, when it is shabbat in "
+"user location the site will be closed but for user from other location where "
+"its not shabbat the site will be open"
+msgstr ""
+
+#: wp-shabbat.php:43
+msgid ""
+"WP-Shabbat currently using a free database that needed to be updated "
+"weekly , the plugin will download it automatically"
+msgstr ""
+
+#: wp-shabbat.php:44
+msgid ""
+"We recommend that every site owner will consult with a rabbi for the time to "
+"close his site"
+msgstr ""
+
+#: wp-shabbat.php:45
+msgid ""
+"WP-Shabbat is SEO friendly and as requested by Google, search engine bots "
+"get http header 503"
+msgstr ""
+
+#: wp-shabbat.php:46
+msgid ""
+"WP-Shabbat is wordpress plugin that close website in shabbat and holidays "
+"base on user location,"
+msgstr ""
+
+#: wp-shabbat.php:50
+msgid ""
+"Here you can enable and add your own content below the default message of "
+"the plugin"
+msgstr ""
+
+#: wp-shabbat.php:54
+msgid ""
+"Here you can add css classes or id's to be disabled when the site is closed"
+msgstr ""
+
+#: wp-shabbat.php:60
+msgid ""
+"click to display popup message and not close the site - for some Poskim "
+"opinion its enough"
+msgstr ""
+
+#: wp-shabbat.php:65
+msgid ""
+"insert minutes for candle light time, number of minutes before sunset "
+"minimum - 20 min ,max - 600 min."
+msgstr ""
+
+#: wp-shabbat.php:70
+msgid ""
+"insert minutes for havdala time, number of jewish minutes after sunset "
+"minimum - 18 min ,max - 72 min."
+msgstr ""
+
+#: wp-shabbat.php:70
+msgid "(jewish hour is calculated from sunrise to sunset divided by 12)"
+msgstr ""
+
+#: wp-shabbat.php:75
+msgid "please enter your message for the user or leave blank for default"
+msgstr ""
+
+#: wp-shabbat.php:80
+msgid ""
+"Enter css class/id that you want to hide when site closed, separated by "
+"space or leave blank to use/restore default"
+msgstr ""
+
+#: wp-shabbat.php:87
+msgid ""
+"click to disable Site Observe Shabbat BY WP-Shabbat link (please dont and "
+"show us your support)"
+msgstr ""
+
+#: wp-shabbat.php:94
+msgid ""
+"Click to enable rich text editor content below the default plugin message"
+msgstr ""
+
+#: wp-shabbat.php:137 wp-shabbat.php:362
+msgid "Enter your own content, it will be presented below the original message"
+msgstr ""
+
+#: wp-shabbat.php:167
+msgid ""
+"Invalid Candle light time, please enter valid input, default was loaded."
+msgstr ""
+
+#: wp-shabbat.php:177
+msgid ""
+"Invalid Havdalah light time, please enter valid input, default was loaded."
+msgstr ""
+
+#: wp-shabbat.php:199
+msgid "General"
+msgstr ""
+
+#: wp-shabbat.php:200
+msgid "Add content"
+msgstr ""
+
+#: wp-shabbat.php:201
+msgid "Disable class/id"
+msgstr ""
+
+#: wp-shabbat.php:223
+msgid ""
+"This plugin is currently free please help us keep it that way and show us "
+"your sincere support by your considerate donation"
+msgstr ""
+
+#: wp-shabbat.php:233
+msgid "How hermetically closed page look like?"
+msgstr ""
+
+#: wp-shabbat.php:234 wp-shabbat.php:236
+msgid "Test Page"
+msgstr ""
+
+#: wp-shabbat.php:235
+msgid "How popup message look like?"
+msgstr ""
+
+#: wp-shabbat.php:252
+msgid "Ip DataBase last updated at : "
+msgstr ""
+
+#: wp-shabbat.php:253
+msgid "Update Status : "
+msgstr ""
+
+#: wp-shabbat.php:254
+msgid "Next Update : "
+msgstr ""
+
+#: wp-shabbat.php:265 wp-shabbat.php:291 wp-shabbat.php:312
+msgid "Save Changes"
+msgstr ""
+
+#: wp-shabbat.php:274
+msgid "This product includes GeoLite data created by MaxMind, available from"
+msgstr ""
+
+#: wp-shabbat.php:354 wp-shabbat.php:355
+msgid "We Dont Work Today"
+msgstr ""
+
+#: wp-shabbat.php:375
+msgid "Plugin DataBase need to be updated"
+msgstr ""
+
+#: wp-shabbat.php:423 wp-shabbat.php:425
+msgid "Site Observe Shabbat BY WP-Shabbat"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "wp-shabbat"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (wp-shabbat 2.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (wp-shabbat 2.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "www.dossihost.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Site closing on Saturday and Holidays by identifying the address of the user "
+"IP and close to 40 km"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DrMosko"
+msgstr ""

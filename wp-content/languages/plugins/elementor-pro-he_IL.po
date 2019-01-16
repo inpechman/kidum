@@ -1,0 +1,2922 @@
+# Translation of Elementor Pro in Hebrew
+# This file is distributed under the same license as the Elementor Pro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-01 20:20:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: he_IL\n"
+"Project-Id-Version: Elementor Pro\n"
+
+#: elementor-pro/modules/global-widget/module.php:76
+msgid "Global"
+msgstr "גלובלי"
+
+#: elementor-pro/modules/global-widget/module.php:80
+msgid "Linked to Global"
+msgstr "מקושר לגלובלי"
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:232
+msgid "Recaptcha"
+msgstr ""
+
+#: elementor-pro/modules/global-widget/module.php:29
+msgid "Save %s"
+msgstr "שמירת %s"
+
+#: elementor-pro/modules/global-widget/module.php:29
+msgid "Widget"
+msgstr "וידג'ט"
+
+#: elementor-pro/includes/admin.php:66
+msgid "Rollback Pro Version"
+msgstr "להחזיר גרסה"
+
+#: elementor-pro/includes/admin.php:69
+msgid "Reinstall Pro v%s"
+msgstr "התקנת פרו v%s מחדש"
+
+#: elementor-pro/includes/admin.php:70
+msgid "Warning: Please backup your database before making the rollback."
+msgstr "אזהרה! אנא גבה את מסד הנתונים לפני החזרת גרסה לאחור."
+
+#: elementor-pro/includes/admin.php:95
+msgid "Rollback to Previous Version"
+msgstr "החזרת גרסה לאחור"
+
+#: elementor-pro/modules/query-control/module.php:31
+msgid "Exclude"
+msgstr "אל תכלול"
+
+#: elementor-pro/modules/query-control/module.php:35
+msgid "Current Post"
+msgstr "פוסט נוכחי"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:28
+msgid "Cards"
+msgstr ""
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:76
+msgid "Show Image"
+msgstr "הצגת תמונה"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:124
+#: elementor-pro/modules/posts/skins/skin-cards.php:306
+msgid "Badge"
+msgstr "תווית"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:269
+#: elementor-pro/modules/posts/skins/skin-cards.php:334
+msgid "Avatar"
+msgstr "צלמית-משתמש"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:318
+msgid "Badge Taxonomy"
+msgstr "טקסונומיית תווית"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:354
+msgid "Card"
+msgstr ""
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:440
+msgid "Box Shadow"
+msgstr "הצללת תיבה"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:453
+msgid "Hover Effect"
+msgstr "אפקט מעבר"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:472
+msgid "Meta Border Color"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:141
+msgid "Redirect After Login"
+msgstr "הפניה מחדש לאחר התחברות"
+
+#: elementor-pro/modules/forms/widgets/login.php:157
+msgid "Note: Because of security reasons, you can ONLY use your current domain here."
+msgstr "שים לב: בגלל סיבות אבטחה, ניתן להפנות אך ורק לקישור מתוך האתר הנוכחי."
+
+#: elementor-pro/modules/forms/actions/mailchimp.php:88
+#: elementor-pro/modules/forms/actions/mailpoet.php:56
+msgid "Field Mapping"
+msgstr "מיפוי שדות"
+
+#: elementor-pro/modules/forms/actions/email.php:64
+msgid "Email Content"
+msgstr "תוכן אימייל"
+
+#: elementor-pro/modules/forms/actions/email.php:68
+msgid "By default, all form fields are sent via shortcode: <code>[all-fields]</code>. Want to customize sent fields? Copy the shortcode that appears inside the field and paste it above."
+msgstr "כברירת מחדל כל שדות הטופס נשלחים באמצעות השורטקוד <code>[all-fields]</code>. רוצים להתאים את התוכן אישית? יש להעתיק את השורטקוד שנמצא בתוך כל שדה ולהדביק אותה פה למעלה."
+
+#: elementor-pro/modules/forms/actions/email.php:163
+msgid "Send As"
+msgstr "שלח כ"
+
+#: elementor-pro/modules/forms/actions/email.php:168
+msgid "HTML"
+msgstr "HTML"
+
+#: elementor-pro/modules/forms/actions/email.php:169
+msgid "Plain"
+msgstr "פשוט"
+
+#: elementor-pro/modules/forms/actions/webhook.php:47
+msgid "Advanced Data"
+msgstr "דטא מתקדם"
+
+#: elementor-pro/modules/forms/classes/form-record.php:121
+msgid "Powered by"
+msgstr "מופעל על ידי"
+
+#: elementor-pro/modules/forms/widgets/form.php:281
+msgid "Custom ID"
+msgstr "ID מותאם אישית"
+
+#: elementor-pro/modules/forms/widgets/form.php:283
+msgid "Please make sure the ID is unique and not used elsewhere in this form. This field allows <code>A-z 0-9</code> & underscore chars without spaces."
+msgstr "יש להגדיר ID ייחודי שלא קיים בשדה אחר בטופס. זה ניתן להזין תווים מסוג <code>A-z 0-9</code> או קו תחתון ללא רווחים."
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:391
+msgid "Border Size"
+msgstr "גודל בורדר"
+
+#: elementor-pro/includes/templates/editor.php:7
+msgid "Activate License"
+msgstr "הפעל רישיון"
+
+#: elementor-pro/modules/forms/actions/email.php:37
+msgid "To"
+msgstr "אל"
+
+#: elementor-pro/modules/forms/actions/email.php:111
+msgid "Cc"
+msgstr "עותק"
+
+#: elementor-pro/modules/forms/actions/email.php:123
+msgid "Bcc"
+msgstr "עותק מוסתר"
+
+#: elementor-pro/modules/forms/actions/email2.php:15
+msgid "Email 2"
+msgstr "אימייל 2"
+
+#: elementor-pro/modules/forms/actions/mailchimp.php:21
+#: elementor-pro/modules/forms/actions/mailchimp.php:28
+msgid "MailChimp"
+msgstr "MailChimp"
+
+#: elementor-pro/modules/forms/actions/mailchimp.php:38
+msgid "API Key"
+msgstr "מפתח API"
+
+#: elementor-pro/modules/forms/actions/mailchimp.php:59
+msgid "Groups"
+msgstr "קבוצות"
+
+#: elementor-pro/modules/forms/actions/mailchimp.php:74
+msgid "Double Opt-In"
+msgstr "אימות כפול"
+
+#: elementor-pro/modules/forms/actions/mailpoet.php:26
+msgid "MailPoet"
+msgstr "MailPoet"
+
+#: elementor-pro/modules/forms/actions/mailpoet.php:61
+msgid "First Name"
+msgstr "שם פרטי"
+
+#: elementor-pro/modules/forms/actions/mailpoet.php:66
+msgid "Last Name"
+msgstr "שם משפחה"
+
+#: elementor-pro/modules/forms/actions/redirect.php:17
+#: elementor-pro/modules/forms/actions/redirect.php:24
+msgid "Redirect"
+msgstr "הפניית URL"
+
+#: elementor-pro/modules/forms/actions/webhook.php:17
+#: elementor-pro/modules/forms/actions/webhook.php:24
+msgid "Webhook"
+msgstr "Webhook"
+
+#: elementor-pro/modules/forms/classes/ajax-handler.php:34
+msgid "The form was sent successfully!"
+msgstr "הטופס נשלח בהצלחה!"
+
+#: elementor-pro/modules/forms/widgets/form.php:543
+msgid "Actions After Submit"
+msgstr "פעולות אחרי שליחה"
+
+#: elementor-pro/modules/forms/widgets/form.php:558
+msgid "Add Action"
+msgstr "הוספת פעולה"
+
+#: elementor-pro/modules/forms/widgets/form.php:567
+msgid "Add actions that will be performed after a visitor submits the form (e.g. send an email notification). Choosing an action will add its setting below."
+msgstr "הוספת פעולות לאחר שהגולש שולח את הטופס (לדוגמא: לשלוח התראה לאימייל). בחירת פעולה תפתח אזור הגדרות לקמן."
+
+#: elementor-pro/modules/forms/widgets/form.php:580
+#: elementor-pro/modules/forms/widgets/login.php:134
+msgid "Additional Options"
+msgstr "אפשרויות נוספות"
+
+#: elementor-pro/modules/forms/widgets/login.php:21
+msgid "Login"
+msgstr "התחברות"
+
+#: elementor-pro/modules/forms/widgets/login.php:399
+msgid "Fields"
+msgstr "שדות"
+
+#: elementor-pro/modules/forms/widgets/login.php:226
+msgid "Username Label"
+msgstr "שדה שם משתמש"
+
+#: elementor-pro/modules/forms/widgets/login.php:228
+#: elementor-pro/modules/forms/widgets/login.php:241
+msgid " Username or Email Address"
+msgstr "שם משתמש או כתובת אימייל"
+
+#: elementor-pro/modules/forms/widgets/login.php:239
+msgid "Username Placeholder"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:252
+msgid "Password Label"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:254
+#: elementor-pro/modules/forms/widgets/login.php:267
+msgid "Password"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:265
+msgid "Password Placeholder"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:81
+msgid "Log In"
+msgstr "התחברות"
+
+#: elementor-pro/modules/forms/widgets/login.php:167
+#: elementor-pro/modules/forms/widgets/login.php:795
+#: elementor-pro/modules/forms/widgets/login.php:855
+msgid "Lost your password?"
+msgstr "שחזור סיסמה?"
+
+#: elementor-pro/modules/forms/widgets/login.php:179
+#: elementor-pro/modules/forms/widgets/login.php:804
+#: elementor-pro/modules/forms/widgets/login.php:865
+msgid "Register"
+msgstr "הרשמה"
+
+#: elementor-pro/modules/forms/widgets/login.php:191
+#: elementor-pro/modules/forms/widgets/login.php:774
+#: elementor-pro/modules/forms/widgets/login.php:838
+msgid "Remember Me"
+msgstr "זכור אותי"
+
+#: elementor-pro/modules/forms/widgets/login.php:202
+msgid "Logged in Message"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:309
+msgid "Links Color"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:324
+msgid "Links Hover Color"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/login.php:738
+msgid "You are Logged in as %1$s (<a href=\"%2$s\">Logout</a>)"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/subscribe.php:13
+#: elementor-pro/modules/forms/widgets/subscribe.php:28
+msgid "Subscribe"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/subscribe.php:24
+msgid "Subscribe Form"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/module.info.php:5
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:33
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:52
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:269
+msgid "Share Buttons"
+msgstr "כפתורי שיתוף"
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:65
+msgid "Network"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:157
+msgid "Skin"
+msgstr "סקין"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:458
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:160
+msgid "Gradient"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:161
+msgid "Minimal"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:163
+msgid "Boxed Icon"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:164
+msgid "Flat"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:178
+msgid "Rounded"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:224
+msgid "Justify"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:238
+msgid "Target URL"
+msgstr ""
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:241
+msgid "Current Page"
+msgstr "עמוד נוכחי"
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:306
+msgid "Button Size"
+msgstr "גודל כפתור"
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:359
+msgid "Button Height"
+msgstr "גובה כפתור"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:89
+msgctxt "Currency Symbol"
+msgid "Rupee (Indian)"
+msgstr "Rupee (Indian)"
+
+#: elementor-pro/includes/admin.php:112
+msgid "More information about %s"
+msgstr "מידע נוסף אודות %s"
+
+#: elementor-pro/includes/admin.php:114
+msgid "View details"
+msgstr "הצגת פרטים"
+
+#: elementor-pro/includes/admin.php:116
+msgid "View Elementor Pro Changelog"
+msgstr "הצגת יומן שינויים של אלמנטור פרו"
+
+#: elementor-pro/includes/admin.php:116
+msgid "Changelog"
+msgstr "יומן שינויים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:73
+msgctxt "Background Control"
+msgid "Image"
+msgstr ""
+
+#: elementor-pro/modules/slides/widgets/slides.php:84
+msgctxt "Background Control"
+msgid "Size"
+msgstr ""
+
+#: elementor-pro/modules/slides/widgets/slides.php:524
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:38
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:419
+msgid "Front"
+msgstr "קדמי"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:206
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:878
+msgid "Back"
+msgstr "אחורי"
+
+#: elementor-pro/elementor-pro.php:116
+msgid "A new version of Elementor is available. For better performance and compatibility of Elementor Pro, we recommend updating to the latest version."
+msgstr "גרסה חדש של אלמנטור עכשיו זמינה. לביצועים ולתאימות טוב יותר עם אלמנטור פור, אנחנו ממליצים לעדכן אותו לגרסה האחרונה."
+
+#: elementor-pro/modules/flip-box/module.info.php:5
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:22
+msgid "Flip Box"
+msgstr "קופסה מתהפכת"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:49
+msgid "Graphic Element"
+msgstr "אלמנט גראפי"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:73
+msgid "Choose Image"
+msgstr "בחירת תמונה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:115
+msgid "Stacked"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:116
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:162
+msgid "Framed"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:128
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:174
+msgid "Shape"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:131
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:179
+msgid "Circle"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:132
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:177
+msgid "Square"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:147
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:219
+msgid "This is the heading"
+msgstr "כותרת אלמנט"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:148
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:220
+msgid "Your Title"
+msgstr "הכותרת שלך"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:159
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:230
+#: elementor-pro/modules/slides/widgets/slides.php:424
+#: elementor-pro/modules/slides/widgets/slides.php:430
+#: elementor-pro/modules/slides/widgets/slides.php:436
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet consectetur adipiscing elit dolor"
+msgstr "יש ללחוץ על כפתור העריכה כדי לשנות את הטקסט הזה. לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:160
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:231
+msgid "Your Description"
+msgstr "התיאור שלך"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:161
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:232
+msgid "Input image text here"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:264
+msgid "Whole Box"
+msgstr "כל הקופסה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:312
+msgid "Settings"
+msgstr "הגדרות"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:360
+msgid "Flip Effect"
+msgstr "אפקט היפוך"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:364
+msgid "Flip"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:366
+msgid "Push"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:367
+msgid "Zoom In"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:368
+msgid "Zoom Out"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:378
+msgid "Flip Direction"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:401
+msgid "3D Depth"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:539
+msgid "Size (%)"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:563
+msgid "Opacity (%)"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:588
+msgid "Image Border"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:652
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:447
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:500
+msgid "Primary Color"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:668
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:468
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:520
+msgid "Secondary Color"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:685
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:324
+msgid "Icon Size"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:705
+msgid "Icon Padding"
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:726
+msgid "Icon Rotate"
+msgstr ""
+
+#: elementor-pro/modules/posts/skins/skin-base.php:66
+#: elementor-pro/modules/posts/widgets/portfolio.php:120
+msgid "Masonry"
+msgstr ""
+
+#: elementor-pro/modules/posts/skins/skin-base.php:190
+#: elementor-pro/modules/posts/widgets/portfolio.php:100
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor-pro/modules/posts/skins/skin-base.php:904
+#: elementor-pro/modules/posts/widgets/posts.php:160
+#: elementor-pro/modules/posts/widgets/posts.php:167
+#: elementor-pro/modules/posts/widgets/posts.php:270
+msgid "Pagination"
+msgstr "עימוד"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:893
+msgid "Page"
+msgstr "עמוד"
+
+#: elementor-pro/modules/posts/widgets/posts.php:172
+#: elementor-pro/modules/posts/widgets/posts.php:174
+msgid "Numbers"
+msgstr "מספרים"
+
+#: elementor-pro/modules/posts/widgets/posts.php:173
+#: elementor-pro/modules/posts/widgets/posts.php:174
+msgid "Previous/Next"
+msgstr "הקודם/הבא"
+
+#: elementor-pro/modules/posts/widgets/posts.php:182
+msgid "Page Limit"
+msgstr ""
+
+#: elementor-pro/modules/posts/widgets/posts.php:193
+msgid "Shorten"
+msgstr ""
+
+#: elementor-pro/modules/posts/widgets/posts.php:211
+msgid "Previous Label"
+msgstr ""
+
+#: elementor-pro/modules/posts/widgets/posts.php:212
+msgid "&laquo; Previous"
+msgstr ""
+
+#: elementor-pro/modules/posts/widgets/posts.php:225
+msgid "Next Label"
+msgstr ""
+
+#: elementor-pro/modules/posts/widgets/posts.php:226
+msgid "Next &raquo;"
+msgstr ""
+
+#: elementor-pro/modules/posts/widgets/posts.php:290
+msgid "Colors"
+msgstr "צבעים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:89
+msgctxt "Background Control"
+msgid "Contain"
+msgstr ""
+
+#: elementor-pro/modules/slides/widgets/slides.php:110
+msgid "Ken Burns Effect"
+msgstr ""
+
+#: elementor-pro/modules/slides/widgets/slides.php:132
+msgid "Zoom Direction"
+msgstr ""
+
+#: elementor-pro/modules/slides/widgets/slides.php:136
+msgid "In"
+msgstr ""
+
+#: elementor-pro/modules/slides/widgets/slides.php:137
+msgid "Out"
+msgstr ""
+
+#: elementor-pro/modules/forms/widgets/form.php:673
+#: elementor-pro/modules/posts/skins/skin-base.php:340
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:277
+msgid "Columns Gap"
+msgstr "ריווח בין עמודות"
+
+#: elementor-pro/modules/forms/widgets/form.php:694
+#: elementor-pro/modules/forms/widgets/login.php:288
+#: elementor-pro/modules/posts/skins/skin-base.php:361
+#: elementor-pro/modules/pricing/widgets/price-list.php:334
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:292
+msgid "Rows Gap"
+msgstr "ריווח בין שורות"
+
+#: elementor-pro/modules/forms/classes/honeypot-handler.php:15
+msgid "Honeypot"
+msgstr "מלכודת דבש"
+
+#: elementor-pro/modules/forms/classes/honeypot-handler.php:57
+msgid "Invalid Form."
+msgstr "טופס לא תקין."
+
+#: elementor-pro/modules/forms/widgets/form.php:385
+msgid "Required Mark"
+msgstr "סימון שדה חובה"
+
+#: elementor-pro/modules/forms/widgets/form.php:773
+msgid "Mark Color"
+msgstr "צבע סימון"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:533
+msgid "Meta"
+msgstr "מטא"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:22
+msgid "Price Table"
+msgstr "טבלת מחיר"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:38
+#: elementor-pro/modules/pricing/widgets/price-table.php:316
+msgid "Header"
+msgstr "כותרת עליונה"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:47
+msgid "I am title"
+msgstr "אני כותרת"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:54
+msgid "Subtitle"
+msgstr "כותרת משנה"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:56
+msgid "I am subtitle"
+msgstr "אני כותרת משנה"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:72
+#: elementor-pro/modules/pricing/widgets/price-table.php:465
+msgid "Currency Symbol"
+msgstr "סמל מטבע"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:76
+msgctxt "Currency Symbol"
+msgid "Dollar"
+msgstr "דולר"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:77
+msgctxt "Currency Symbol"
+msgid "Euro"
+msgstr "אירו"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:78
+msgctxt "Currency Symbol"
+msgid "Baht"
+msgstr "Baht"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:79
+msgctxt "Currency Symbol"
+msgid "Franc"
+msgstr "פראנק"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:80
+msgctxt "Currency Symbol"
+msgid "Guilder"
+msgstr "Guilder"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:81
+msgctxt "Currency Symbol"
+msgid "Krona"
+msgstr "Krona"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:82
+msgctxt "Currency Symbol"
+msgid "Lira"
+msgstr "לירה"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:83
+msgctxt "Currency Symbol"
+msgid "Peseta"
+msgstr "Peseta"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:84
+msgctxt "Currency Symbol"
+msgid "Peso"
+msgstr "Peso"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:85
+msgctxt "Currency Symbol"
+msgid "Pound Sterling"
+msgstr "פאונד סטרלינג"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:86
+msgctxt "Currency Symbol"
+msgid "Real"
+msgstr "ריאל"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:87
+msgctxt "Currency Symbol"
+msgid "Ruble"
+msgstr "רובל"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:88
+msgctxt "Currency Symbol"
+msgid "Rupee"
+msgstr "רופי"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:90
+msgctxt "Currency Symbol"
+msgid "Shekel"
+msgstr "שקל"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:91
+msgctxt "Currency Symbol"
+msgid "Yen/Yuan"
+msgstr "Yen/Yuan"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:92
+msgctxt "Currency Symbol"
+msgid "Won"
+msgstr "Won"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:102
+msgid "Custom Symbol"
+msgstr "סמל מותאם אישית"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:134
+#: elementor-pro/modules/pricing/widgets/price-table.php:590
+msgid "Original Price"
+msgstr "מחיר מקורי"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:146
+#: elementor-pro/modules/pricing/widgets/price-table.php:671
+msgid "Period"
+msgstr "פרק זמן"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:148
+msgid "Monthly"
+msgstr "חודשי"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:157
+#: elementor-pro/modules/pricing/widgets/price-table.php:732
+msgid "Features"
+msgstr "תכונות"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:168
+msgid "List Item"
+msgstr "פריט רשימה"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:184
+msgid "Icon Color"
+msgstr "צבע אייקון"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:199
+msgid "List Item #1"
+msgstr "פריט רשימה #1"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:203
+msgid "List Item #2"
+msgstr "פריט רשימה #2"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:207
+msgid "List Item #3"
+msgstr "פריט רשימה #3"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:220
+#: elementor-pro/modules/pricing/widgets/price-table.php:950
+msgid "Footer"
+msgstr "אזור תחתון"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:248
+#: elementor-pro/modules/pricing/widgets/price-table.php:1184
+msgid "Additional Info"
+msgstr "מידע נוסף"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:250
+msgid "This is text element"
+msgstr "זהו אלמנט טקסט"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:260
+#: elementor-pro/modules/pricing/widgets/price-table.php:1250
+msgid "Ribbon"
+msgstr "ריבון"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:282
+msgid "Popular"
+msgstr "פופולרי"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:381
+msgid "Sub Title"
+msgstr "כותרת משנה"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:532
+msgid "Fractional Part"
+msgstr "שבר עשרוני"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:713
+msgid "Position"
+msgstr "מיקום"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:816
+#: elementor-pro/modules/pricing/widgets/price-table.php:910
+msgid "Width"
+msgstr "רוחב"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:833
+msgid "Divider"
+msgstr "מפרידון"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:924
+msgid "Gap"
+msgstr "רווח"
+
+#: elementor-pro/modules/posts/skins/skin-cards.php:233
+#: elementor-pro/modules/pricing/widgets/price-table.php:1226
+msgid "Margin"
+msgstr "שוליים"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:1279
+msgid "Distance"
+msgstr "מרחק"
+
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:17
+msgid "Woo - Add To Cart"
+msgstr "Woo - הוספה לסל"
+
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:38
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:45
+#: elementor-pro/modules/woocommerce/widgets/elements.php:62
+msgid "Product"
+msgstr "מוצר"
+
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:72
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:73
+msgid "Add to Cart"
+msgstr "הוספה לסל"
+
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:91
+msgid "Please set the product"
+msgstr ""
+
+#: elementor-pro/modules/woocommerce/widgets/add-to-cart.php:120
+#: elementor-pro/modules/woocommerce/widgets/elements.php:94
+msgid "Please set a valid product"
+msgstr ""
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:18
+msgid "Woo - Categories"
+msgstr "Woo - קטגוריות"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:58
+msgid "Categories Count"
+msgstr "מספר קטגוריות"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:80
+msgid "Show All"
+msgstr "הצג הכל"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:82
+msgid "By Parent"
+msgstr "לפי הורה"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:98
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:110
+msgid "Only Top Level"
+msgstr "רק רמה עליונה"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:114
+msgid "Parent"
+msgstr "הורה"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:127
+msgid "Hide Empty"
+msgstr "הסתר ריק"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:144
+msgid "Slug"
+msgstr "מזהה לכתובת"
+
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:143
+#: elementor-pro/modules/woocommerce/widgets/categories.php:146
+msgid "Count"
+msgstr "מספר"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:18
+msgid "Woo - Elements"
+msgstr "Woo - אלמנטים"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:39
+#: elementor-pro/modules/woocommerce/widgets/elements.php:46
+msgid "Element"
+msgstr "אלמנט"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:50
+msgid "Cart Page"
+msgstr "עמוד סל קניות"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:51
+msgid "Single Product Page"
+msgstr "עמוד מוצר בודד"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:52
+msgid "Checkout Page"
+msgstr "עמוד הזמנה"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:53
+msgid "Order Tracking Form"
+msgstr "טופס מעקב הזמנה"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:54
+msgid "My Account"
+msgstr "החשבון שלי"
+
+#: elementor-pro/modules/woocommerce/widgets/elements.php:123
+msgid "Your cart is currently empty."
+msgstr "סל הקניות שלך ריק כרגע."
+
+#: elementor-pro/modules/woocommerce/widgets/products.php:26
+msgid "Woo - Products"
+msgstr "Woo - מוצרים"
+
+#: elementor-pro/modules/forms/module.php:42
+msgid "{0} Field"
+msgstr "שדה {0}"
+
+#: elementor-pro/modules/query-control/controls/group-control-posts.php:97
+msgctxt "Posts Query Control"
+msgid "Manual Selection"
+msgstr "בחירה ידנית"
+
+#: elementor-pro/modules/query-control/controls/group-control-posts.php:44
+#: elementor-pro/modules/woocommerce/widgets/categories.php:77
+msgctxt "Posts Query Control"
+msgid "Source"
+msgstr "מקור"
+
+#: elementor-pro/modules/query-control/controls/group-control-posts.php:62
+msgctxt "Posts Query Control"
+msgid "Author"
+msgstr "מחבר"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:559
+msgid "Separator Color"
+msgstr "צבע מפריד"
+
+#: elementor-pro/modules/slides/widgets/slides.php:88
+msgctxt "Background Control"
+msgid "Cover"
+msgstr "Cover"
+
+#: elementor-pro/modules/slides/widgets/slides.php:90
+msgctxt "Background Control"
+msgid "Auto"
+msgstr "Auto"
+
+#: elementor-pro/modules/woocommerce/widgets/products.php:97
+msgid "Filter By"
+msgstr "סנן לפי"
+
+#: elementor-pro/modules/woocommerce/widgets/products.php:102
+msgid "Featured"
+msgstr "נבחר"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:122
+#: elementor-pro/modules/woocommerce/widgets/products.php:103
+msgid "Sale"
+msgstr "מבצע"
+
+#: elementor-pro/base/module-base.php:33 elementor-pro/base/module-base.php:44
+#: elementor-pro/plugin.php:49 elementor-pro/plugin.php:60
+msgid "Cheatin&#8217; huh?"
+msgstr "מרמה, אה?"
+
+#: elementor-pro/elementor-pro.php:78
+msgid "Elementor Pro not working because you need to activate the Elementor plugin."
+msgstr "אלמנטור פרו אינו עובד, יש להפעיל לפני הכל את התוסף אלמנטור."
+
+#: elementor-pro/elementor-pro.php:79
+msgid "Activate Elementor Now"
+msgstr "הפעל אלמנטור עכשיו"
+
+#: elementor-pro/elementor-pro.php:87
+msgid "Elementor Pro not working because you need to install the Elemenor plugin"
+msgstr "אלמנטור פרו אינו עובד, יש להתקין לפני הכל את התוסף אלמנטור."
+
+#: elementor-pro/elementor-pro.php:88
+msgid "Install Elementor Now"
+msgstr "התקן את אלמנטור עכשיו"
+
+#: elementor-pro/elementor-pro.php:102
+msgid "Elementor Pro not working because you are using an old version of Elementor."
+msgstr "אלמנטור פרו אינו עובד כי אתה משתמש בגרסה ישנה של התוסף אלמנטור."
+
+#: elementor-pro/elementor-pro.php:103 elementor-pro/elementor-pro.php:117
+msgid "Update Elementor Now"
+msgstr "עדכן את אלמנטור עכשיו"
+
+#: elementor-pro/license/admin.php:47
+msgid "Please enter your license key."
+msgstr "יש להזין מפתח רישיון."
+
+#: elementor-pro/includes/admin.php:107 elementor-pro/license/admin.php:47
+#: elementor-pro/license/admin.php:54 elementor-pro/license/admin.php:72
+msgid "Elementor Pro"
+msgstr "אלמנטור פרו"
+
+#: elementor-pro/license/admin.php:59
+msgid "You have no more activations left. Please upgrade your licence for auto updates."
+msgstr "לא נשארו לך הפעלות. אנא עדכן את הרישיון שלך כדי לקבל עדכונים אוטומטיים."
+
+#: elementor-pro/license/admin.php:60
+msgid "Your license has expired. Please renew your licence in order to get auto-updates."
+msgstr "מפתח הרישיון שלך פג. אנא חדש את הרישיון שלך כדי להמשיך לקבל עדכונים אוטומטיים."
+
+#: elementor-pro/license/admin.php:61
+msgid "Your license is missing. Please check your key again."
+msgstr "משהו חסר במפתח הרישיון שלך. אנא בדוק שוב את מפתח הרישיון."
+
+#: elementor-pro/license/admin.php:62
+msgid "Your license has been revoked."
+msgstr "מפתח הרישיון שלך בוטל."
+
+#: elementor-pro/license/admin.php:63
+msgid "Your license has a name mismatch. Please go to <a href=\"%s\" target=\"_blank\">your purchases</a> and choose the proper key."
+msgstr "מפתח הרישיון שלך אינו תואם. אנא עבור אל <a href=\"%s\" target=\"_blank\">הרכישות שלך</a> ובחר את מפתח הרישיון המתאים."
+
+#: elementor-pro/license/admin.php:69 elementor-pro/license/api.php:53
+#: elementor-pro/license/api.php:178
+msgid "An error occurred, please try again"
+msgstr "התרחשה שגיאה, אנא נסה שוב"
+
+#: elementor-pro/license/admin.php:94
+msgid "License"
+msgstr "רישיון"
+
+#: elementor-pro/license/admin.php:114
+msgid "License Setting"
+msgstr "הגדרות רישיון"
+
+#: elementor-pro/license/admin.php:119
+msgid "Using this settings page you can set the license key that you purchased, then you can get automatic updates for Elementor Pro."
+msgstr "באמצעות עמוד הגדרות זה תוכל להגדיר את מפתח הרישיון שרכשת, על מנת שתוכל להקבל עדכונים אוטומטיים עבור אלמנטור פרו."
+
+#: elementor-pro/license/admin.php:121
+msgid "Your License"
+msgstr "הרישיון שלך"
+
+#: elementor-pro/license/admin.php:123
+msgid "A license key qualifies you for support and enables automatic updates straight to your dashboard. Simply enter your license key where indicated and get started. If you don't have a license key, and haven't bought Elementor Pro yet, <a href=\"%s\" target=\"_blank\">buy it in our website</a>."
+msgstr "מפתח הרישיון מאפשר לך לקבל תמיכה ועדכונים אוטומטים ישירות מלוח הבקרה שלך. פשוט הזן את מפתח הרישיון שלך ותתחיל לעבוד. אם אין לך מפתח רישיון ועדיין לא רכשת עדיין את מפתח הרישיון, <a href=\"%s\" target=\"_blank\">רכוש אותו עכשיו עבור האתר שלך</a>."
+
+#: elementor-pro/license/admin.php:128 elementor-pro/license/admin.php:142
+msgid "License Key"
+msgstr "מפתח רישיון"
+
+#: elementor-pro/license/admin.php:130
+msgid "Place Elementor Pro license key here"
+msgstr "הזן כאן את מפתח הרישיון של אלמנטור פרו"
+
+#: elementor-pro/license/admin.php:132
+msgid "Activate"
+msgstr "הפעל"
+
+#: elementor-pro/license/admin.php:134
+msgid "Please enter your license key. You can find your key in <a href=\"%s\" target=\"_blank\">your purchases</a>. License key looks similar to this: fb351f05958872E193feb37a505a84be"
+msgstr "אנא הזן את מפתח הרישיןו שלך. תוכל למצוא אותו באזור <a href=\"%s\" target=\"_blank\">הרכישות שלך</a>. מפתח הרישיון אמור להיראות כך: fb351f05958872E193feb37a505a84be"
+
+#: elementor-pro/license/admin.php:146
+msgid "Deactivate"
+msgstr "כיבוי"
+
+#: elementor-pro/license/admin.php:149
+msgid "Status"
+msgstr "סטטוס"
+
+#: elementor-pro/license/admin.php:151
+msgid "Expired"
+msgstr "פג תוקף"
+
+#: elementor-pro/license/admin.php:153
+msgid "No Match"
+msgstr "לא תואם"
+
+#: elementor-pro/license/admin.php:155
+#: elementor-pro/modules/posts/widgets/posts.php:341
+msgid "Active"
+msgstr "פעיל"
+
+#: elementor-pro/license/admin.php:160
+msgid "<strong>Your license has expired!</strong> Please <a href=\"https://my.elementor.com/purchases/\" target=\"_blank\">renew it or purchase a new one</a> in order to get updates."
+msgstr "<strong>מפתח הרישיון שלך פג!</strong> אנא <a href=\"https://my.elementor.com/purchases/\" target=\"_blank\">חדש אותו או רכוש אחד חדש</a> כדי להמשיך לקבל עדכונים."
+
+#: elementor-pro/license/admin.php:174
+msgid "<strong>Welcome to Elementor Pro!</strong> Please <a href=\"%s\">activate your license key</a> to enable automatic updates."
+msgstr "<strong>ברוכים הבאים לאלמנטור פרו!</strong> אנא <a href=\"%s\">הפעל את מפתח הרישיון</a> כדי לקבל עדכונים אוטומטיים."
+
+#: elementor-pro/license/admin.php:185
+msgid "License is disabled"
+msgstr "הרישיון אינו פעיל"
+
+#: elementor-pro/license/admin.php:186
+msgid "License is expired"
+msgstr "פג תוקף הרישיון"
+
+#: elementor-pro/license/admin.php:187
+msgid "Something went wrong with license key is activated on your site. Please go to <a href=\"%s\">your account in Elementor</a> to get an updated license key."
+msgstr "התרחשה שגיאה עם מפתח הרישיון שהופעל באתר שלך. עבור אל  <a href=\"%s\">החשבון שלך באלמנטור</a> to כדי לקבל מפתח רישיון מעודכן."
+
+#: elementor-pro/license/admin.php:188
+msgid "The license does not match the domain registered in the system, please <a href=\"%s\">deactivate the license</a> and try reinserting it to receive updates."
+msgstr "מפתח הרישיון אינו תואם לדומיין שנרשם במערכת, אנא <a href=\"%s\">כבה את הרישיון</a> ונסה להזין אותו מחדש כדי להמשיך לקבל עדכונים."
+
+#: elementor-pro/license/admin.php:201
+msgid "<strong>Note:</strong> Your license key will expire in %s."
+msgstr "<strong>שים לב:</strong> מפתח הרישיון שלך עומד לפוג בעוד %s."
+
+#: elementor-pro/license/api.php:48 elementor-pro/license/api.php:173
+msgid "HTTP Error"
+msgstr "שגיאת HTTP"
+
+#: elementor-pro/modules/countdown/module.info.php:5
+#: elementor-pro/modules/countdown/widgets/countdown.php:21
+#: elementor-pro/modules/countdown/widgets/countdown.php:36
+msgid "Countdown"
+msgstr "ספירה לאחור"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:43
+msgid "Due Date"
+msgstr "תאריך יעד"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:46
+msgid "Date set according to your timezone: %s."
+msgstr "התאריך מוגדר על פי אזור הזמן שלך: %s."
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:53
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:111
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:110
+msgid "View"
+msgstr "סוג תצוגה"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:56
+msgid "Block"
+msgstr "בלוק"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:57
+#: elementor-pro/modules/forms/widgets/form.php:404
+msgid "Inline"
+msgstr "בתוך השורה"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:67
+#: elementor-pro/modules/countdown/widgets/countdown.php:142
+#: elementor-pro/modules/countdown/widgets/countdown.php:144
+#: elementor-pro/modules/countdown/widgets/countdown.php:145
+#: elementor-pro/modules/countdown/widgets/countdown.php:407
+msgid "Days"
+msgstr "ימים"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:69
+#: elementor-pro/modules/countdown/widgets/countdown.php:81
+#: elementor-pro/modules/countdown/widgets/countdown.php:93
+#: elementor-pro/modules/countdown/widgets/countdown.php:105
+#: elementor-pro/modules/countdown/widgets/countdown.php:117
+#: elementor-pro/modules/forms/widgets/form.php:374
+#: elementor-pro/modules/forms/widgets/form.php:387
+#: elementor-pro/modules/forms/widgets/login.php:47
+#: elementor-pro/modules/forms/widgets/login.php:171
+#: elementor-pro/modules/forms/widgets/login.php:183
+#: elementor-pro/modules/forms/widgets/login.php:195
+#: elementor-pro/modules/forms/widgets/login.php:206
+#: elementor-pro/modules/posts/skins/skin-base.php:203
+#: elementor-pro/modules/posts/skins/skin-base.php:242
+#: elementor-pro/modules/posts/skins/skin-base.php:268
+#: elementor-pro/modules/posts/skins/skin-cards.php:308
+#: elementor-pro/modules/posts/skins/skin-cards.php:336
+#: elementor-pro/modules/posts/widgets/portfolio.php:273
+#: elementor-pro/modules/pricing/widgets/price-table.php:267
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:130
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:145
+msgid "Show"
+msgstr "הצג"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:70
+#: elementor-pro/modules/countdown/widgets/countdown.php:82
+#: elementor-pro/modules/countdown/widgets/countdown.php:94
+#: elementor-pro/modules/countdown/widgets/countdown.php:106
+#: elementor-pro/modules/countdown/widgets/countdown.php:118
+#: elementor-pro/modules/forms/widgets/form.php:375
+#: elementor-pro/modules/forms/widgets/form.php:388
+#: elementor-pro/modules/forms/widgets/login.php:46
+#: elementor-pro/modules/forms/widgets/login.php:170
+#: elementor-pro/modules/forms/widgets/login.php:182
+#: elementor-pro/modules/forms/widgets/login.php:194
+#: elementor-pro/modules/forms/widgets/login.php:205
+#: elementor-pro/modules/posts/skins/skin-base.php:204
+#: elementor-pro/modules/posts/skins/skin-base.php:243
+#: elementor-pro/modules/posts/skins/skin-base.php:269
+#: elementor-pro/modules/posts/skins/skin-cards.php:309
+#: elementor-pro/modules/posts/skins/skin-cards.php:337
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:131
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:146
+msgid "Hide"
+msgstr "הסתר"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:79
+#: elementor-pro/modules/countdown/widgets/countdown.php:157
+#: elementor-pro/modules/countdown/widgets/countdown.php:159
+#: elementor-pro/modules/countdown/widgets/countdown.php:160
+#: elementor-pro/modules/countdown/widgets/countdown.php:408
+msgid "Hours"
+msgstr "שעות"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:91
+#: elementor-pro/modules/countdown/widgets/countdown.php:172
+#: elementor-pro/modules/countdown/widgets/countdown.php:174
+#: elementor-pro/modules/countdown/widgets/countdown.php:175
+#: elementor-pro/modules/countdown/widgets/countdown.php:409
+msgid "Minutes"
+msgstr "דקות"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:103
+#: elementor-pro/modules/countdown/widgets/countdown.php:187
+#: elementor-pro/modules/countdown/widgets/countdown.php:189
+#: elementor-pro/modules/countdown/widgets/countdown.php:190
+#: elementor-pro/modules/countdown/widgets/countdown.php:410
+msgid "Seconds"
+msgstr "שניות"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:115
+msgid "Show Label"
+msgstr "הצג כותרת"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:128
+#: elementor-pro/modules/forms/widgets/login.php:213
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:79
+msgid "Custom Label"
+msgstr "כותרת מותאמת אישית"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:130
+#: elementor-pro/modules/forms/actions/mailchimp.php:78
+#: elementor-pro/modules/forms/actions/webhook.php:49
+#: elementor-pro/modules/forms/widgets/form.php:104
+#: elementor-pro/modules/forms/widgets/form.php:151
+#: elementor-pro/modules/forms/widgets/form.php:592
+#: elementor-pro/modules/forms/widgets/login.php:216
+#: elementor-pro/modules/posts/skins/skin-cards.php:78
+#: elementor-pro/modules/posts/skins/skin-cards.php:442
+#: elementor-pro/modules/posts/widgets/posts.php:196
+#: elementor-pro/modules/pricing/widgets/price-table.php:269
+#: elementor-pro/modules/pricing/widgets/price-table.php:835
+#: elementor-pro/modules/slides/widgets/slides.php:112
+#: elementor-pro/modules/slides/widgets/slides.php:156
+#: elementor-pro/modules/slides/widgets/slides.php:267
+#: elementor-pro/modules/slides/widgets/slides.php:502
+#: elementor-pro/modules/slides/widgets/slides.php:514
+#: elementor-pro/modules/slides/widgets/slides.php:541
+msgid "Yes"
+msgstr "כן"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:131
+#: elementor-pro/modules/forms/actions/mailchimp.php:77
+#: elementor-pro/modules/forms/actions/webhook.php:50
+#: elementor-pro/modules/forms/widgets/form.php:105
+#: elementor-pro/modules/forms/widgets/form.php:152
+#: elementor-pro/modules/forms/widgets/form.php:593
+#: elementor-pro/modules/forms/widgets/login.php:215
+#: elementor-pro/modules/posts/skins/skin-cards.php:79
+#: elementor-pro/modules/posts/skins/skin-cards.php:443
+#: elementor-pro/modules/posts/widgets/posts.php:197
+#: elementor-pro/modules/pricing/widgets/price-table.php:270
+#: elementor-pro/modules/pricing/widgets/price-table.php:836
+#: elementor-pro/modules/slides/widgets/slides.php:113
+#: elementor-pro/modules/slides/widgets/slides.php:157
+#: elementor-pro/modules/slides/widgets/slides.php:268
+#: elementor-pro/modules/slides/widgets/slides.php:503
+#: elementor-pro/modules/slides/widgets/slides.php:515
+#: elementor-pro/modules/slides/widgets/slides.php:542
+msgid "No"
+msgstr "לא"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:204
+msgid "Boxes"
+msgstr "קופסאות"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:212
+msgid "Container Width"
+msgstr "רוחב העוטף"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:244
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1157
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1211
+#: elementor-pro/modules/forms/widgets/form.php:835
+#: elementor-pro/modules/forms/widgets/form.php:931
+#: elementor-pro/modules/forms/widgets/form.php:1001
+#: elementor-pro/modules/forms/widgets/login.php:431
+#: elementor-pro/modules/forms/widgets/login.php:527
+#: elementor-pro/modules/forms/widgets/login.php:597
+#: elementor-pro/modules/posts/skins/skin-cards.php:162
+#: elementor-pro/modules/posts/skins/skin-cards.php:362
+#: elementor-pro/modules/posts/widgets/portfolio.php:354
+#: elementor-pro/modules/pricing/widgets/price-table.php:325
+#: elementor-pro/modules/pricing/widgets/price-table.php:421
+#: elementor-pro/modules/pricing/widgets/price-table.php:741
+#: elementor-pro/modules/pricing/widgets/price-table.php:959
+#: elementor-pro/modules/pricing/widgets/price-table.php:1053
+#: elementor-pro/modules/pricing/widgets/price-table.php:1141
+#: elementor-pro/modules/pricing/widgets/price-table.php:1262
+#: elementor-pro/modules/slides/widgets/slides.php:910
+#: elementor-pro/modules/slides/widgets/slides.php:947
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:260
+#: elementor-pro/modules/forms/widgets/form.php:946
+#: elementor-pro/modules/forms/widgets/login.php:542
+#: elementor-pro/modules/pricing/widgets/price-table.php:1071
+msgid "Border"
+msgstr "מסגרת"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:269
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:341
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:600
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:759
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1264
+#: elementor-pro/modules/forms/widgets/form.php:877
+#: elementor-pro/modules/forms/widgets/form.php:957
+#: elementor-pro/modules/forms/widgets/login.php:473
+#: elementor-pro/modules/forms/widgets/login.php:553
+#: elementor-pro/modules/posts/skins/skin-base.php:420
+#: elementor-pro/modules/posts/skins/skin-cards.php:194
+#: elementor-pro/modules/posts/skins/skin-cards.php:402
+#: elementor-pro/modules/posts/widgets/portfolio.php:332
+#: elementor-pro/modules/pricing/widgets/price-list.php:289
+#: elementor-pro/modules/pricing/widgets/price-table.php:1085
+#: elementor-pro/modules/slides/widgets/slides.php:877
+msgid "Border Radius"
+msgstr "עיגול פינות"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:281
+#: elementor-pro/modules/posts/widgets/portfolio.php:450
+#: elementor-pro/modules/posts/widgets/posts.php:363
+msgid "Space Between"
+msgstr "מרווח מפריד"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:304
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:427
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:886
+#: elementor-pro/modules/posts/skins/skin-cards.php:420
+#: elementor-pro/modules/pricing/widgets/price-table.php:340
+#: elementor-pro/modules/pricing/widgets/price-table.php:432
+#: elementor-pro/modules/pricing/widgets/price-table.php:753
+#: elementor-pro/modules/pricing/widgets/price-table.php:970
+#: elementor-pro/modules/slides/widgets/slides.php:632
+msgid "Padding"
+msgstr "שוליים פנימיים"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:318
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:44
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:212
+#: elementor-pro/modules/forms/widgets/form.php:52
+#: elementor-pro/modules/posts/skins/skin-base.php:464
+#: elementor-pro/modules/slides/widgets/slides.php:196
+msgid "Content"
+msgstr "תוכן"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:326
+msgid "Digits"
+msgstr "ספרות"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:334
+#: elementor-pro/modules/countdown/widgets/countdown.php:363
+#: elementor-pro/modules/posts/skins/skin-base.php:483
+#: elementor-pro/modules/posts/skins/skin-base.php:545
+#: elementor-pro/modules/posts/skins/skin-base.php:617
+#: elementor-pro/modules/posts/skins/skin-base.php:675
+#: elementor-pro/modules/posts/widgets/portfolio.php:369
+#: elementor-pro/modules/posts/widgets/portfolio.php:410
+#: elementor-pro/modules/posts/widgets/posts.php:308
+#: elementor-pro/modules/posts/widgets/posts.php:328
+#: elementor-pro/modules/posts/widgets/posts.php:348
+#: elementor-pro/modules/pricing/widgets/price-list.php:123
+#: elementor-pro/modules/pricing/widgets/price-list.php:157
+#: elementor-pro/modules/pricing/widgets/price-list.php:232
+#: elementor-pro/modules/pricing/widgets/price-table.php:361
+#: elementor-pro/modules/pricing/widgets/price-table.php:390
+#: elementor-pro/modules/pricing/widgets/price-table.php:444
+#: elementor-pro/modules/pricing/widgets/price-table.php:603
+#: elementor-pro/modules/pricing/widgets/price-table.php:683
+#: elementor-pro/modules/pricing/widgets/price-table.php:765
+#: elementor-pro/modules/pricing/widgets/price-table.php:867
+#: elementor-pro/modules/pricing/widgets/price-table.php:1196
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:419
+#: elementor-pro/modules/slides/widgets/slides.php:61
+#: elementor-pro/modules/slides/widgets/slides.php:176
+msgid "Color"
+msgstr "צבע"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:354
+#: elementor-pro/modules/forms/widgets/form.php:68
+#: elementor-pro/modules/forms/widgets/form.php:372
+#: elementor-pro/modules/forms/widgets/form.php:715
+#: elementor-pro/modules/forms/widgets/login.php:43
+#: elementor-pro/modules/forms/widgets/login.php:341
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:128
+msgid "Label"
+msgstr "תווית"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:405
+msgid "Months"
+msgstr "חודשים"
+
+#: elementor-pro/modules/countdown/widgets/countdown.php:406
+msgid "Weeks"
+msgstr "שבועות"
+
+#: elementor-pro/modules/custom-css/module.info.php:5
+#: elementor-pro/modules/custom-css/module.php:49
+msgid "Custom CSS"
+msgstr "CSS מותאם אישית"
+
+#: elementor-pro/modules/custom-css/module.php:58
+msgid "Add your own custom CSS here"
+msgstr "הוסף קוד CSS מותאם אישית כאן"
+
+#: elementor-pro/modules/custom-css/module.php:67
+msgid "Use \"selector\" to target wrapper element. Examples:<br>selector {color: red;} // For main element<br>selector .child-element {margin: 10px;} // For child element<br>.my-class {text-align: center;} // Or use any custom selector"
+msgstr "השתמש ב \"selector\" כדי להגדיר את האלמנט העוטף. לדוגמא<br>selector {color: red;} // עבור אלמנט ראשי element<br>selector .child-element {margin: 10px;} // עבור אלמנט בן<br>.my-class {text-align: center;} // או בחר סלקטור מותאם אישית"
+
+#: elementor-pro/modules/forms/classes/form-record.php:17
+msgid "No Label"
+msgstr "אין תווית"
+
+#: elementor-pro/modules/forms/classes/ajax-handler.php:35
+msgid "There's something wrong... Please fill in the required fields."
+msgstr "משהו השתבש... אנא מלא את כל השדות חובה."
+
+#: elementor-pro/modules/forms/classes/ajax-handler.php:36
+#: elementor-pro/modules/forms/widgets/form.php:102
+msgid "Required"
+msgstr "חובה"
+
+#: elementor-pro/modules/forms/classes/ajax-handler.php:37
+msgid "There's something wrong... The form is invalid."
+msgstr "משהו השתבש.. הטופס אינו חוקי."
+
+#: elementor-pro/modules/forms/classes/ajax-handler.php:38
+msgid "Server error. Form not sent."
+msgstr "שגיאת שרת. הטופס אינו נשלח."
+
+#: elementor-pro/modules/forms/classes/ajax-handler.php:52
+msgid "Unknown"
+msgstr "לא ידוע"
+
+#: elementor-pro/modules/forms/actions/email.php:149
+#: elementor-pro/modules/forms/classes/form-record.php:87
+#: elementor-pro/modules/posts/skins/skin-base.php:301
+#: elementor-pro/modules/posts/widgets/portfolio.php:225
+#: elementor-pro/modules/posts/widgets/posts.php:117
+#: elementor-pro/modules/woocommerce/widgets/products.php:115
+msgid "Date"
+msgstr "תאריך"
+
+#: elementor-pro/modules/forms/actions/email.php:150
+#: elementor-pro/modules/forms/classes/form-record.php:94
+#: elementor-pro/modules/posts/skins/skin-base.php:302
+msgid "Time"
+msgstr "זמן"
+
+#: elementor-pro/modules/forms/actions/email.php:151
+#: elementor-pro/modules/forms/classes/form-record.php:101
+msgid "Page URL"
+msgstr "קישור לעמוד"
+
+#: elementor-pro/modules/forms/actions/email.php:152
+#: elementor-pro/modules/forms/classes/form-record.php:108
+msgid "User Agent"
+msgstr "פרטי משתמש"
+
+#: elementor-pro/modules/forms/actions/email.php:153
+#: elementor-pro/modules/forms/classes/form-record.php:115
+msgid "Remote IP"
+msgstr "IP השולח"
+
+#: elementor-pro/modules/forms/actions/email.php:47
+#: elementor-pro/modules/forms/actions/email.php:202
+msgid "New message from \"%s\""
+msgstr "הודעה חדשה מאת \"%s\""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:33
+msgid "To use reCAPTCHA, you need to add the API key and complete the setup process in Dashboard > Elementor > Settings > reCAPTCHA."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:38
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:66
+#: elementor-pro/modules/forms/widgets/form.php:44
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:40
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:68
+msgid "<a target=\"_blank\" href=\"https://www.google.com/recaptcha/\">reCAPTCHA</a> is a free service by Google that protects your website from spam and abuse. It does this while letting your valid users pass through with ease."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:44
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:76
+msgid "Site Key"
+msgstr "מפתח אתר"
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:50
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:91
+msgid "Secret Key"
+msgstr "מפתח סודי"
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:141
+msgid "The Captcha field cannot be blank. Please enter a value."
+msgstr "שדה Captcha לא יכול להיות ריק. אנא הכנס ערך."
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:146
+msgid "The secret parameter is missing."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:147
+msgid "The secret parameter is invalid or malformed."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:148
+msgid "The response parameter is missing."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:149
+msgid "The response parameter is invalid or malformed."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:169
+msgid "Can not connect to the reCAPTCHA server (%d)."
+msgstr ""
+
+#: elementor-pro/modules/forms/classes/recaptcha-handler.php:178
+msgid "Invalid Form"
+msgstr "טופס לא חוקי"
+
+#: elementor-pro/modules/forms/module.info.php:5
+msgid "Forms"
+msgstr "טפסים"
+
+#: elementor-pro/modules/forms/widgets/form.php:803
+msgid "Field"
+msgstr "שדה"
+
+#: elementor-pro/modules/forms/widgets/form.php:24
+#: elementor-pro/modules/forms/widgets/form.php:665
+#: elementor-pro/modules/forms/widgets/login.php:280
+msgid "Form"
+msgstr "טופס"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1104
+#: elementor-pro/modules/forms/classes/form-base.php:34
+#: elementor-pro/modules/forms/widgets/form.php:358
+#: elementor-pro/modules/forms/widgets/login.php:57
+#: elementor-pro/modules/forms/widgets/login.php:91
+#: elementor-pro/modules/pricing/widgets/price-table.php:998
+#: elementor-pro/modules/slides/widgets/slides.php:36
+msgid "Extra Small"
+msgstr "קטנטן"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1105
+#: elementor-pro/modules/forms/classes/form-base.php:35
+#: elementor-pro/modules/forms/widgets/form.php:359
+#: elementor-pro/modules/forms/widgets/login.php:58
+#: elementor-pro/modules/forms/widgets/login.php:92
+#: elementor-pro/modules/pricing/widgets/price-table.php:999
+#: elementor-pro/modules/slides/widgets/slides.php:37
+msgid "Small"
+msgstr "קטן"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1106
+#: elementor-pro/modules/forms/classes/form-base.php:36
+#: elementor-pro/modules/forms/widgets/form.php:360
+#: elementor-pro/modules/forms/widgets/login.php:59
+#: elementor-pro/modules/forms/widgets/login.php:93
+#: elementor-pro/modules/pricing/widgets/price-table.php:1000
+#: elementor-pro/modules/slides/widgets/slides.php:38
+msgid "Medium"
+msgstr "בינוני"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1107
+#: elementor-pro/modules/forms/classes/form-base.php:37
+#: elementor-pro/modules/forms/widgets/form.php:361
+#: elementor-pro/modules/forms/widgets/login.php:60
+#: elementor-pro/modules/forms/widgets/login.php:94
+#: elementor-pro/modules/pricing/widgets/price-table.php:1001
+#: elementor-pro/modules/slides/widgets/slides.php:39
+msgid "Large"
+msgstr "גדול"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1108
+#: elementor-pro/modules/forms/classes/form-base.php:38
+#: elementor-pro/modules/forms/widgets/form.php:362
+#: elementor-pro/modules/forms/widgets/login.php:61
+#: elementor-pro/modules/forms/widgets/login.php:95
+#: elementor-pro/modules/pricing/widgets/price-table.php:1002
+#: elementor-pro/modules/slides/widgets/slides.php:40
+msgid "Extra Large"
+msgstr "ענק"
+
+#: elementor-pro/modules/forms/widgets/form.php:58
+msgid "Type"
+msgstr "סוג"
+
+#: elementor-pro/modules/forms/widgets/form.php:35
+#: elementor-pro/modules/forms/widgets/form.php:425
+#: elementor-pro/modules/forms/widgets/login.php:79
+#: elementor-pro/modules/pricing/widgets/price-table.php:166
+msgid "Text"
+msgstr "טקסט"
+
+#: elementor-pro/modules/forms/widgets/form.php:36
+msgid "Tel"
+msgstr "טלפון"
+
+#: elementor-pro/modules/forms/actions/email.php:19
+#: elementor-pro/modules/forms/actions/mailpoet.php:71
+#: elementor-pro/modules/forms/widgets/form.php:37
+#: elementor-pro/modules/forms/widgets/form.php:336
+#: elementor-pro/modules/forms/widgets/form.php:337
+msgid "Email"
+msgstr "אימייל"
+
+#: elementor-pro/modules/forms/widgets/form.php:38
+msgid "Textarea"
+msgstr "שדה טקסט"
+
+#: elementor-pro/modules/forms/widgets/form.php:39
+msgid "Number"
+msgstr "מספר"
+
+#: elementor-pro/modules/forms/widgets/form.php:40
+#: elementor-pro/modules/library/widgets/template.php:58
+#: elementor-pro/modules/library/wp-widgets/elementor-library.php:97
+#: elementor-pro/modules/woocommerce/widgets/elements.php:49
+msgid "Select"
+msgstr "תפריט בחירה"
+
+#: elementor-pro/modules/forms/widgets/form.php:41
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:252
+msgid "URL"
+msgstr "כתובת URL"
+
+#: elementor-pro/modules/forms/widgets/form.php:42
+msgid "Checkbox"
+msgstr "תיבות סימון"
+
+#: elementor-pro/modules/forms/widgets/form.php:43
+msgid "Radio"
+msgstr "אפשרויות בחירה"
+
+#: elementor-pro/modules/forms/widgets/form.php:77
+msgid "Placeholder"
+msgstr "טקסט תוך השדה"
+
+#: elementor-pro/modules/forms/widgets/form.php:126
+msgid "Options"
+msgstr "אפשרויות"
+
+#: elementor-pro/modules/forms/widgets/form.php:129
+msgid "Enter each option in a separate line"
+msgstr "יש להזין אפשרות אחת בכל שורה"
+
+#: elementor-pro/modules/forms/widgets/form.php:149
+msgid "Inline List"
+msgstr "רשימה בתוך השורה"
+
+#: elementor-pro/modules/forms/widgets/form.php:173
+#: elementor-pro/modules/forms/widgets/form.php:445
+msgid "Column Width"
+msgstr "רוחב עמודה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:114
+#: elementor-pro/modules/forms/widgets/form.php:176
+#: elementor-pro/modules/forms/widgets/form.php:448
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: elementor-pro/modules/forms/widgets/form.php:206
+msgid "Rows"
+msgstr "שורות"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1100
+#: elementor-pro/modules/forms/widgets/form.php:223
+#: elementor-pro/modules/forms/widgets/form.php:435
+#: elementor-pro/modules/forms/widgets/login.php:88
+#: elementor-pro/modules/posts/skins/skin-cards.php:213
+#: elementor-pro/modules/posts/skins/skin-cards.php:282
+#: elementor-pro/modules/pricing/widgets/price-table.php:477
+#: elementor-pro/modules/pricing/widgets/price-table.php:541
+#: elementor-pro/modules/pricing/widgets/price-table.php:994
+#: elementor-pro/modules/slides/widgets/slides.php:829
+msgid "Size"
+msgstr "גודל"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1133
+#: elementor-pro/modules/forms/widgets/form.php:227
+#: elementor-pro/modules/forms/widgets/form.php:902
+#: elementor-pro/modules/forms/widgets/login.php:498
+#: elementor-pro/modules/posts/widgets/posts.php:301
+#: elementor-pro/modules/pricing/widgets/price-table.php:1015
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:437
+#: elementor-pro/modules/slides/widgets/slides.php:894
+msgid "Normal"
+msgstr "רגיל"
+
+#: elementor-pro/modules/forms/widgets/form.php:228
+msgid "Compact"
+msgstr "קומפקטי"
+
+#: elementor-pro/modules/forms/widgets/form.php:244
+#: elementor-pro/modules/pricing/widgets/price-list.php:191
+#: elementor-pro/modules/pricing/widgets/price-table.php:846
+#: elementor-pro/modules/slides/widgets/slides.php:260
+msgid "Style"
+msgstr "סגנון"
+
+#: elementor-pro/modules/forms/widgets/form.php:248
+msgid "Light"
+msgstr "בהיר"
+
+#: elementor-pro/modules/forms/widgets/form.php:249
+msgid "Dark"
+msgstr "כהה"
+
+#: elementor-pro/modules/forms/widgets/form.php:265
+msgid "CSS Classes"
+msgstr "CSS Classes"
+
+#: elementor-pro/modules/forms/widgets/form.php:268
+msgid "Add your custom class WITHOUT the dot. e.g: my-class"
+msgstr "ניתן להוסיף מחלקות CSS מותאמות אישית ללא נקודה, לדוגמא: my-class"
+
+#: elementor-pro/modules/forms/widgets/form.php:305
+#: elementor-pro/modules/forms/widgets/login.php:36
+msgid "Form Fields"
+msgstr "שדות טופס"
+
+#: elementor-pro/modules/forms/widgets/form.php:312
+#: elementor-pro/modules/forms/widgets/form.php:315
+msgid "Form Name"
+msgstr "שם טופס"
+
+#: elementor-pro/modules/forms/widgets/form.php:314
+msgid "New Form"
+msgstr "טופס חדש"
+
+#: elementor-pro/modules/forms/widgets/form.php:328
+#: elementor-pro/modules/forms/widgets/form.php:329
+#: elementor-pro/modules/woocommerce/widgets/categories.php:143
+msgid "Name"
+msgstr "שם"
+
+#: elementor-pro/modules/forms/widgets/form.php:343
+#: elementor-pro/modules/forms/widgets/form.php:344
+msgid "Message"
+msgstr "הודעה"
+
+#: elementor-pro/modules/forms/widgets/form.php:355
+#: elementor-pro/modules/forms/widgets/login.php:54
+msgid "Input Size"
+msgstr "גודל שדה"
+
+#: elementor-pro/modules/forms/widgets/form.php:400
+msgid "Label Position"
+msgstr "מיקום תווית"
+
+#: elementor-pro/modules/forms/widgets/form.php:403
+msgid "Above"
+msgstr "מתחת"
+
+#: elementor-pro/modules/forms/widgets/form.php:418
+msgid "Submit Button"
+msgstr "כפתור שליחה"
+
+#: elementor-pro/modules/forms/widgets/form.php:427
+#: elementor-pro/modules/forms/widgets/form.php:428
+msgid "Send"
+msgstr "שליחה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:439
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:898
+#: elementor-pro/modules/forms/widgets/form.php:467
+#: elementor-pro/modules/forms/widgets/login.php:104
+#: elementor-pro/modules/posts/skins/skin-base.php:381
+#: elementor-pro/modules/posts/widgets/posts.php:239
+#: elementor-pro/modules/pricing/widgets/price-table.php:790
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:208
+msgid "Alignment"
+msgstr "יישור"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:382
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:444
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:903
+#: elementor-pro/modules/forms/widgets/form.php:471
+#: elementor-pro/modules/forms/widgets/login.php:108
+#: elementor-pro/modules/posts/skins/skin-base.php:55
+#: elementor-pro/modules/posts/skins/skin-base.php:386
+#: elementor-pro/modules/posts/skins/skin-cards.php:141
+#: elementor-pro/modules/posts/widgets/posts.php:243
+#: elementor-pro/modules/pricing/widgets/price-table.php:297
+#: elementor-pro/modules/pricing/widgets/price-table.php:795
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:212
+#: elementor-pro/modules/slides/widgets/slides.php:282
+#: elementor-pro/modules/slides/widgets/slides.php:362
+#: elementor-pro/modules/slides/widgets/slides.php:581
+#: elementor-pro/modules/slides/widgets/slides.php:650
+#: elementor-pro/modules/slides/widgets/slides.php:699
+msgid "Left"
+msgstr "שמאל"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:448
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:907
+#: elementor-pro/modules/forms/widgets/form.php:475
+#: elementor-pro/modules/forms/widgets/login.php:112
+#: elementor-pro/modules/posts/skins/skin-base.php:390
+#: elementor-pro/modules/posts/widgets/posts.php:247
+#: elementor-pro/modules/pricing/widgets/price-list.php:363
+#: elementor-pro/modules/pricing/widgets/price-table.php:799
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:216
+#: elementor-pro/modules/slides/widgets/slides.php:286
+#: elementor-pro/modules/slides/widgets/slides.php:366
+#: elementor-pro/modules/slides/widgets/slides.php:654
+#: elementor-pro/modules/slides/widgets/slides.php:703
+msgid "Center"
+msgstr "ממורכז"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:383
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:452
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:911
+#: elementor-pro/modules/forms/widgets/form.php:479
+#: elementor-pro/modules/forms/widgets/login.php:116
+#: elementor-pro/modules/posts/skins/skin-base.php:56
+#: elementor-pro/modules/posts/skins/skin-base.php:394
+#: elementor-pro/modules/posts/skins/skin-cards.php:145
+#: elementor-pro/modules/posts/widgets/posts.php:251
+#: elementor-pro/modules/pricing/widgets/price-table.php:301
+#: elementor-pro/modules/pricing/widgets/price-table.php:803
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:220
+#: elementor-pro/modules/slides/widgets/slides.php:290
+#: elementor-pro/modules/slides/widgets/slides.php:370
+#: elementor-pro/modules/slides/widgets/slides.php:580
+#: elementor-pro/modules/slides/widgets/slides.php:658
+#: elementor-pro/modules/slides/widgets/slides.php:707
+msgid "Right"
+msgstr "ימין"
+
+#: elementor-pro/modules/forms/widgets/form.php:483
+#: elementor-pro/modules/forms/widgets/login.php:120
+msgid "Justified"
+msgstr "מיושר לצדדים"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:62
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:99
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:621
+#: elementor-pro/modules/forms/widgets/form.php:495
+#: elementor-pro/modules/pricing/widgets/price-table.php:175
+msgid "Icon"
+msgstr "אייקון"
+
+#: elementor-pro/modules/forms/widgets/form.php:505
+msgid "Icon Position"
+msgstr "מיקום אייקון"
+
+#: elementor-pro/modules/forms/widgets/form.php:509
+msgid "Before"
+msgstr "לפני"
+
+#: elementor-pro/modules/forms/widgets/form.php:510
+msgid "After"
+msgstr "אחרי"
+
+#: elementor-pro/modules/forms/widgets/form.php:521
+msgid "Icon Spacing"
+msgstr "ריווח אייקון"
+
+#: elementor-pro/modules/forms/actions/email.php:42
+#: elementor-pro/modules/forms/actions/email.php:115
+#: elementor-pro/modules/forms/actions/email.php:127
+msgid "Separate emails with commas"
+msgstr "ניתן להפריד אימיילים עם פסיקים"
+
+#: elementor-pro/modules/forms/actions/email.php:52
+msgid "Email Subject"
+msgstr "כותרת אימייל"
+
+#: elementor-pro/modules/forms/actions/email.php:79
+msgid "From Email"
+msgstr "אימייל השולח"
+
+#: elementor-pro/modules/forms/actions/email.php:89
+msgid "From Name"
+msgstr "שם השולח"
+
+#: elementor-pro/modules/forms/actions/email.php:99
+msgid "Reply-To"
+msgstr "אימייל תגובה"
+
+#: elementor-pro/modules/forms/actions/email.php:135
+#: elementor-pro/modules/posts/skins/skin-base.php:294
+msgid "Meta Data"
+msgstr "פרטי מידע"
+
+#: elementor-pro/modules/forms/actions/email.php:154
+msgid "Credit"
+msgstr "קרדיט"
+
+#: elementor-pro/modules/forms/actions/redirect.php:34
+msgid "Redirect To"
+msgstr "הפניה אל עמוד תודה"
+
+#: elementor-pro/modules/forms/actions/webhook.php:34
+msgid "Webhook URL"
+msgstr "Webhook URL"
+
+#: elementor-pro/modules/forms/actions/webhook.php:39
+msgid "Enter the integration URL (like Zapier) that will receive the form's submitted data."
+msgstr "יש להזין את כתובת URL של האינטגרציה (לדוגמא Zapier) שתאפשר לך לקבל את פרטי המשוב במערכת שלך."
+
+#: elementor-pro/modules/forms/widgets/form.php:588
+msgid "Custom Messages"
+msgstr "הודעות מותאמות אישית"
+
+#: elementor-pro/modules/forms/widgets/form.php:603
+msgid "Success Message"
+msgstr "הודעת הצלחה"
+
+#: elementor-pro/modules/forms/widgets/form.php:618
+msgid "Error Message"
+msgstr "הודעת שגיאה"
+
+#: elementor-pro/modules/forms/widgets/form.php:633
+msgid "Required field Message"
+msgstr "הודעת שדה חובה"
+
+#: elementor-pro/modules/forms/widgets/form.php:648
+msgid "Invalid Message"
+msgstr "הודעה לא חוקית"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:519
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:632
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:787
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:979
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1039
+#: elementor-pro/modules/forms/widgets/form.php:727
+#: elementor-pro/modules/forms/widgets/login.php:352
+#: elementor-pro/modules/posts/skins/skin-base.php:435
+#: elementor-pro/modules/posts/skins/skin-base.php:514
+#: elementor-pro/modules/posts/skins/skin-base.php:586
+#: elementor-pro/modules/posts/skins/skin-base.php:644
+#: elementor-pro/modules/posts/skins/skin-base.php:706
+#: elementor-pro/modules/posts/widgets/portfolio.php:471
+#: elementor-pro/modules/pricing/widgets/price-list.php:250
+#: elementor-pro/modules/pricing/widgets/price-list.php:301
+#: elementor-pro/modules/slides/widgets/slides.php:731
+#: elementor-pro/modules/slides/widgets/slides.php:780
+msgid "Spacing"
+msgstr "מרווח"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:808
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:848
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:999
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1060
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1143
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1197
+#: elementor-pro/modules/forms/widgets/form.php:755
+#: elementor-pro/modules/forms/widgets/form.php:811
+#: elementor-pro/modules/forms/widgets/form.php:909
+#: elementor-pro/modules/forms/widgets/form.php:990
+#: elementor-pro/modules/forms/widgets/login.php:373
+#: elementor-pro/modules/forms/widgets/login.php:407
+#: elementor-pro/modules/forms/widgets/login.php:505
+#: elementor-pro/modules/forms/widgets/login.php:586
+#: elementor-pro/modules/posts/skins/skin-cards.php:180
+#: elementor-pro/modules/pricing/widgets/price-table.php:1025
+#: elementor-pro/modules/pricing/widgets/price-table.php:1127
+#: elementor-pro/modules/pricing/widgets/price-table.php:1296
+#: elementor-pro/modules/slides/widgets/slides.php:748
+#: elementor-pro/modules/slides/widgets/slides.php:797
+#: elementor-pro/modules/slides/widgets/slides.php:838
+#: elementor-pro/modules/slides/widgets/slides.php:899
+#: elementor-pro/modules/slides/widgets/slides.php:936
+msgid "Text Color"
+msgstr "צבע טקסט"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1171
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1225
+#: elementor-pro/modules/forms/widgets/form.php:849
+#: elementor-pro/modules/forms/widgets/form.php:1012
+#: elementor-pro/modules/forms/widgets/login.php:445
+#: elementor-pro/modules/forms/widgets/login.php:608
+#: elementor-pro/modules/posts/skins/skin-cards.php:373
+#: elementor-pro/modules/pricing/widgets/price-table.php:1155
+#: elementor-pro/modules/slides/widgets/slides.php:921
+#: elementor-pro/modules/slides/widgets/slides.php:958
+msgid "Border Color"
+msgstr "צבע מסגרת"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1089
+#: elementor-pro/modules/forms/widgets/form.php:892
+#: elementor-pro/modules/forms/widgets/login.php:72
+#: elementor-pro/modules/forms/widgets/login.php:488
+#: elementor-pro/modules/pricing/widgets/price-table.php:982
+#: elementor-pro/modules/slides/widgets/slides.php:821
+msgid "Button"
+msgstr "כפתור"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:824
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:864
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1015
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1076
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1120
+#: elementor-pro/modules/forms/widgets/form.php:922
+#: elementor-pro/modules/forms/widgets/login.php:518
+#: elementor-pro/modules/posts/skins/skin-base.php:502
+#: elementor-pro/modules/posts/skins/skin-base.php:574
+#: elementor-pro/modules/posts/skins/skin-base.php:632
+#: elementor-pro/modules/posts/skins/skin-base.php:694
+#: elementor-pro/modules/posts/skins/skin-cards.php:256
+#: elementor-pro/modules/posts/widgets/portfolio.php:385
+#: elementor-pro/modules/posts/widgets/portfolio.php:441
+#: elementor-pro/modules/pricing/widgets/price-list.php:139
+#: elementor-pro/modules/pricing/widgets/price-list.php:173
+#: elementor-pro/modules/pricing/widgets/price-table.php:1041
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:545
+#: elementor-pro/modules/slides/widgets/slides.php:761
+#: elementor-pro/modules/slides/widgets/slides.php:810
+#: elementor-pro/modules/slides/widgets/slides.php:851
+msgid "Typography"
+msgstr "טיפוגרפיה"
+
+#: elementor-pro/modules/forms/widgets/form.php:969
+#: elementor-pro/modules/forms/widgets/login.php:565
+#: elementor-pro/modules/pricing/widgets/price-table.php:1100
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:554
+msgid "Text Padding"
+msgstr "שוליים של הטקסט"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1187
+#: elementor-pro/modules/forms/widgets/form.php:983
+#: elementor-pro/modules/forms/widgets/login.php:579
+#: elementor-pro/modules/posts/widgets/posts.php:321
+#: elementor-pro/modules/pricing/widgets/price-table.php:1117
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:490
+#: elementor-pro/modules/slides/widgets/slides.php:931
+msgid "Hover"
+msgstr "הובר"
+
+#: elementor-pro/modules/forms/widgets/form.php:1026
+#: elementor-pro/modules/forms/widgets/login.php:622
+#: elementor-pro/modules/pricing/widgets/price-table.php:1169
+msgid "Animation"
+msgstr "אנימציה"
+
+#: elementor-pro/modules/global-widget/module.info.php:5
+msgid "Global Widget"
+msgstr "וידג'ט גלובלי"
+
+#: elementor-pro/modules/global-widget/module.php:73
+#: elementor-pro/modules/global-widget/views/panel-template.php:18
+msgid "Unlink"
+msgstr "לנתק"
+
+#: elementor-pro/modules/global-widget/module.php:74
+msgid "Cancel"
+msgstr "ביטול"
+
+#: elementor-pro/modules/global-widget/module.php:75
+msgid "Unlink Widget"
+msgstr "ניתוק וידג'ט"
+
+#: elementor-pro/modules/global-widget/module.php:77
+msgid "This will make the widget stop being global. It'll be reverted into being just a regular widget."
+msgstr "פעולה זו תנתק את הוידג'ט מגלובל ותהפוך אותו בחזרה לוידג'ט רגיל."
+
+#: elementor-pro/modules/global-widget/module.php:78
+msgid "Save your widget as a global widget"
+msgstr "שמור את הוידג'ט כוידג'ט גלובלי"
+
+#: elementor-pro/modules/global-widget/module.php:79
+msgid "You'll be able to add this global widget to multiple areas on your site, and edit it from one single place."
+msgstr "את הוידג'ט הגלובלי תוכל להטמיע במקומות רבים באתר שלך, אך תוכל לעדכן אותו בו זמנית בכל המקומות בהם הוא הוטמע בקלות."
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:8
+msgid "Your Widget is Now Locked"
+msgstr "הוידג'ט שלך נעול כרגע לעריכה"
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:9
+msgid "Edit this global widget to simultaneously update every place you used it, or unlink it so it gets back to being regular widget."
+msgstr "ערוך את הוידג'ט הגלובלי כדי לעדכן אותו בו זמנית בכל מקום שהשתמשת בו, או נתק אותו מהגלובל והפוך אותו חזרה לוידג'ט רגיל."
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:13
+msgid "Edit global widget"
+msgstr "ערוך וידג'ט גלובלי"
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:14
+msgid "Edit"
+msgstr "עריכה"
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:17
+msgid "Unlink from global"
+msgstr "נתק מגלובלי"
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:28
+msgid "Save Your First Global Widget"
+msgstr "שמור את הוידג'ט הגלובלי הראשון שלך"
+
+#: elementor-pro/modules/global-widget/views/panel-template.php:29
+msgid "Save a widget as global, then add it to multiple areas. All areas will be editable from one single place."
+msgstr "שמור את הוידג'ט כגלובל, ואז הוסף אותו לכל מקום. כל עריכה תעדכן אותו בו זמנית בכל מקום."
+
+#: elementor-pro/modules/forms/widgets/form.php:291
+#: elementor-pro/modules/library/classes/shortcode.php:19
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: elementor-pro/modules/library/module.info.php:5
+msgid "Library"
+msgstr "ספריה"
+
+#: elementor-pro/modules/library/module.php:39
+#: elementor-pro/modules/library/wp-widgets/elementor-library.php:118
+msgid "Edit Template"
+msgstr "עריכת טמפלט"
+
+#: elementor-pro/modules/library/module.php:68
+msgid "You Haven’t Saved Templates Yet."
+msgstr "לא שמרת עדיין טמפלטים."
+
+#: elementor-pro/modules/library/module.php:69
+msgid "What is Library?"
+msgstr "מה זה ספריה?"
+
+#: elementor-pro/modules/library/module.php:69
+msgid "Read our tutorial on using Library templates."
+msgstr "קרא את התיעוד איך להשתמש בספריית הטמפלטים"
+
+#: elementor-pro/modules/library/widgets/template.php:18
+#: elementor-pro/modules/library/widgets/template.php:37
+msgid "Template"
+msgstr "טמפלט"
+
+#: elementor-pro/modules/library/widgets/template.php:71
+#: elementor-pro/modules/library/wp-widgets/elementor-library.php:95
+msgid "Choose Template"
+msgstr "בחירת טמפלט"
+
+#: elementor-pro/modules/library/wp-widgets/elementor-library.php:17
+msgid "Elementor Library"
+msgstr "ספריית אלמנטור"
+
+#: elementor-pro/modules/library/wp-widgets/elementor-library.php:19
+msgid "Embed your saved elements."
+msgstr "הטמע אלמנטים ששמרת."
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:776
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:968
+#: elementor-pro/modules/library/wp-widgets/elementor-library.php:90
+#: elementor-pro/modules/posts/skins/skin-base.php:201
+#: elementor-pro/modules/posts/skins/skin-base.php:472
+#: elementor-pro/modules/posts/widgets/portfolio.php:226
+#: elementor-pro/modules/posts/widgets/posts.php:118
+#: elementor-pro/modules/pricing/widgets/price-table.php:45
+#: elementor-pro/modules/pricing/widgets/price-table.php:280
+#: elementor-pro/modules/pricing/widgets/price-table.php:352
+#: elementor-pro/modules/slides/widgets/slides.php:723
+#: elementor-pro/modules/woocommerce/widgets/products.php:116
+msgid "Title"
+msgstr "כותרת"
+
+#: elementor-pro/modules/query-control/module.php:36
+#: elementor-pro/modules/woocommerce/widgets/categories.php:81
+msgid "Manual Selection"
+msgstr "בחירה ידנית"
+
+#: elementor-pro/modules/query-control/controls/group-control-posts.php:49
+#: elementor-pro/modules/query-control/module.php:45
+msgctxt "Posts Query Control"
+msgid "Search & Select"
+msgstr "חיפוש ובחירה"
+
+#: elementor-pro/modules/posts/module.info.php:5
+#: elementor-pro/modules/posts/widgets/portfolio.php:206
+#: elementor-pro/modules/posts/widgets/posts.php:31
+#: elementor-pro/modules/posts/widgets/posts.php:98
+msgid "Posts"
+msgstr "פוסטים"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:50
+msgid "Image Position"
+msgstr "מיקום תמונה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:471
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:931
+#: elementor-pro/modules/posts/skins/skin-base.php:54
+#: elementor-pro/modules/pricing/widgets/price-list.php:361
+#: elementor-pro/modules/pricing/widgets/price-table.php:502
+#: elementor-pro/modules/pricing/widgets/price-table.php:563
+#: elementor-pro/modules/pricing/widgets/price-table.php:640
+#: elementor-pro/modules/slides/widgets/slides.php:322
+#: elementor-pro/modules/slides/widgets/slides.php:675
+msgid "Top"
+msgstr "עליון"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:54
+#: elementor-pro/modules/posts/skins/skin-base.php:57
+#: elementor-pro/modules/posts/skins/skin-cards.php:457
+#: elementor-pro/modules/posts/widgets/posts.php:171
+#: elementor-pro/modules/pricing/widgets/price-list.php:198
+#: elementor-pro/modules/pricing/widgets/price-table.php:75
+#: elementor-pro/modules/slides/widgets/slides.php:492
+#: elementor-pro/modules/slides/widgets/slides.php:577
+#: elementor-pro/modules/woocommerce/widgets/products.php:101
+msgid "None"
+msgstr "ללא"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:83
+msgid "Thumbnail Size"
+msgstr "גודל תמונה ראשית"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:96
+msgid "Image Ratio"
+msgstr "יחס תמונה"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:128
+msgid "Image Width"
+msgstr "רוחב תמונה"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:167
+#: elementor-pro/modules/posts/widgets/portfolio.php:80
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:189
+#: elementor-pro/modules/woocommerce/skins/skin-classic.php:36
+#: elementor-pro/modules/woocommerce/widgets/categories.php:41
+msgid "Columns"
+msgstr "עמודות"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:214
+#: elementor-pro/modules/posts/widgets/portfolio.php:172
+msgid "Title HTML Tag"
+msgstr "תגית HTML כותרת"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:217
+#: elementor-pro/modules/posts/widgets/portfolio.php:175
+msgid "H1"
+msgstr "H1"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:218
+#: elementor-pro/modules/posts/widgets/portfolio.php:176
+msgid "H2"
+msgstr "H2"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:219
+#: elementor-pro/modules/posts/widgets/portfolio.php:177
+msgid "H3"
+msgstr "H3"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:220
+#: elementor-pro/modules/posts/widgets/portfolio.php:178
+msgid "H4"
+msgstr "H4"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:221
+#: elementor-pro/modules/posts/widgets/portfolio.php:179
+msgid "H5"
+msgstr "H5"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:222
+#: elementor-pro/modules/posts/widgets/portfolio.php:180
+msgid "H6"
+msgstr "H6"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:223
+#: elementor-pro/modules/posts/widgets/portfolio.php:181
+msgid "div"
+msgstr "div"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:224
+#: elementor-pro/modules/posts/widgets/portfolio.php:182
+msgid "span"
+msgstr "span"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:225
+#: elementor-pro/modules/posts/widgets/portfolio.php:183
+msgid "p"
+msgstr "p"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:240
+#: elementor-pro/modules/posts/skins/skin-base.php:605
+msgid "Excerpt"
+msgstr "תקציר"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:252
+msgid "Excerpt Length"
+msgstr "אורך תקציר"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:266
+#: elementor-pro/modules/posts/skins/skin-base.php:663
+msgid "Read More"
+msgstr "קרא עוד"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:279
+msgid "Read More Text"
+msgstr "טקסט קרא עוד"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:281
+#: elementor-pro/modules/posts/skins/skin-base.php:282
+msgid "Read More »"
+msgstr "קרא עוד »"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:300
+msgid "Author"
+msgstr "מחבר"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:303
+msgid "Comments"
+msgstr "תגובות"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:312
+msgid "Separator Between"
+msgstr "מפרידון"
+
+#: elementor-pro/modules/posts/skins/skin-base.php:332
+#: elementor-pro/modules/posts/widgets/portfolio.php:72
+#: elementor-pro/modules/posts/widgets/posts.php:79
+#: elementor-pro/modules/woocommerce/widgets/categories.php:33
+#: elementor-pro/modules/woocommerce/widgets/products.php:54
+msgid "Layout"
+msgstr "פריסה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:58
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:508
+#: elementor-pro/modules/posts/skins/skin-base.php:409
+#: elementor-pro/modules/pricing/widgets/price-list.php:68
+msgid "Image"
+msgstr "תמונה"
+
+#: elementor-pro/modules/posts/skins/skin-classic.php:13
+#: elementor-pro/modules/woocommerce/skins/skin-classic.php:23
+msgid "Classic"
+msgstr "קלאסי"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:32
+msgid "Portfolio"
+msgstr "פורטפוליו"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:88
+#: elementor-pro/modules/posts/widgets/portfolio.php:110
+#: elementor-pro/modules/pricing/widgets/price-list.php:281
+msgid "Image Size"
+msgstr "גודל תמונה"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:135
+msgid "Item Ratio"
+msgstr "יחס פריט"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:161
+msgid "Show Title"
+msgstr "הצג כותרת"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:404
+#: elementor-pro/modules/forms/widgets/login.php:144
+#: elementor-pro/modules/posts/skins/skin-base.php:68
+#: elementor-pro/modules/posts/widgets/portfolio.php:122
+#: elementor-pro/modules/posts/widgets/portfolio.php:164
+#: elementor-pro/modules/posts/widgets/portfolio.php:275
+#: elementor-pro/modules/pricing/widgets/price-table.php:125
+msgid "Off"
+msgstr "Off"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:403
+#: elementor-pro/modules/forms/widgets/login.php:145
+#: elementor-pro/modules/posts/skins/skin-base.php:69
+#: elementor-pro/modules/posts/widgets/portfolio.php:123
+#: elementor-pro/modules/posts/widgets/portfolio.php:165
+#: elementor-pro/modules/posts/widgets/portfolio.php:276
+#: elementor-pro/modules/pricing/widgets/price-table.php:124
+msgid "On"
+msgstr "On"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:197
+#: elementor-pro/modules/posts/widgets/posts.php:89
+#: elementor-pro/modules/woocommerce/widgets/categories.php:69
+#: elementor-pro/modules/woocommerce/widgets/products.php:73
+msgid "Query"
+msgstr "שאילתא"
+
+#: elementor-pro/modules/forms/widgets/form.php:275
+#: elementor-pro/modules/posts/widgets/portfolio.php:213
+#: elementor-pro/modules/posts/widgets/posts.php:105
+#: elementor-pro/modules/woocommerce/widgets/products.php:89
+msgid "Advanced"
+msgstr "מתקדם"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:221
+#: elementor-pro/modules/posts/widgets/posts.php:113
+msgid "Order By"
+msgstr "סדר לפי"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:227
+#: elementor-pro/modules/posts/widgets/posts.php:119
+#: elementor-pro/modules/woocommerce/widgets/products.php:121
+msgid "Menu Order"
+msgstr "סדר תפריט"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:228
+#: elementor-pro/modules/posts/widgets/posts.php:120
+#: elementor-pro/modules/woocommerce/widgets/products.php:120
+msgid "Random"
+msgstr "אקראי"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:236
+#: elementor-pro/modules/posts/widgets/posts.php:128
+#: elementor-pro/modules/woocommerce/widgets/categories.php:154
+#: elementor-pro/modules/woocommerce/widgets/products.php:129
+msgid "Order"
+msgstr "מיון לפי"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:240
+#: elementor-pro/modules/posts/widgets/posts.php:132
+#: elementor-pro/modules/woocommerce/widgets/categories.php:158
+#: elementor-pro/modules/woocommerce/widgets/products.php:133
+msgid "ASC"
+msgstr "סדר עולה"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:241
+#: elementor-pro/modules/posts/widgets/posts.php:133
+#: elementor-pro/modules/woocommerce/widgets/categories.php:159
+#: elementor-pro/modules/woocommerce/widgets/products.php:134
+msgid "DESC"
+msgstr "סדר יורד"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:249
+#: elementor-pro/modules/posts/widgets/posts.php:141
+msgid "Offset"
+msgstr "דילוג"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:265
+#: elementor-pro/modules/posts/widgets/portfolio.php:399
+msgid "Filter Bar"
+msgstr "שורת סינון"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:283
+msgid "Taxonomy"
+msgstr "טקסונומי"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:300
+msgid "Items"
+msgstr "פריטים"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:308
+msgid "Item Gap"
+msgstr "מרווח בין פריטים"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:346
+msgid "Item Overlay"
+msgstr "מעבר על פריט"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:425
+msgid "Active Color"
+msgstr "צבע מצב פעיל"
+
+#: elementor-pro/modules/posts/widgets/portfolio.php:595
+msgid "All"
+msgstr "הכל"
+
+#: elementor-pro/modules/posts/widgets/posts.php:147
+msgid "Use this setting to skip over posts (e.g. '2' to skip over 2 posts)."
+msgstr "השתמש בהגדרה זו כדי לדלג על פוסטים (לדוגמא '2' כדי לדלג על שני פוסטים)."
+
+#: elementor-pro/modules/pricing/module.info.php:5
+#: elementor-pro/modules/pricing/widgets/price-table.php:65
+#: elementor-pro/modules/pricing/widgets/price-table.php:412
+msgid "Pricing"
+msgstr "מחירון"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:20
+msgid "Price List"
+msgstr "רשימת מחירים"
+
+#: elementor-pro/modules/forms/actions/mailchimp.php:46
+#: elementor-pro/modules/forms/actions/mailpoet.php:45
+#: elementor-pro/modules/pricing/widgets/price-list.php:35
+msgid "List"
+msgstr "רשימה"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:43
+msgid "List Items"
+msgstr "רשימת פריטים"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:48
+#: elementor-pro/modules/pricing/widgets/price-table.php:113
+#: elementor-pro/modules/woocommerce/widgets/products.php:117
+msgid "Price"
+msgstr "מחיר"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:145
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:217
+#: elementor-pro/modules/pricing/widgets/price-list.php:54
+#: elementor-pro/modules/slides/widgets/slides.php:201
+msgid "Title & Description"
+msgstr "כותרת ותיאור"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:157
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:228
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:837
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1028
+#: elementor-pro/modules/pricing/widgets/price-list.php:61
+#: elementor-pro/modules/pricing/widgets/price-list.php:148
+#: elementor-pro/modules/slides/widgets/slides.php:211
+#: elementor-pro/modules/slides/widgets/slides.php:772
+#: elementor-pro/modules/woocommerce/widgets/categories.php:145
+msgid "Description"
+msgstr "תיאור"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:252
+#: elementor-pro/modules/pricing/widgets/price-list.php:74
+#: elementor-pro/modules/pricing/widgets/price-table.php:236
+#: elementor-pro/modules/slides/widgets/slides.php:230
+msgid "Link"
+msgstr "קישור"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:81
+msgid "First item on the list"
+msgstr "הפריט הראשון ברשימה"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:82
+#: elementor-pro/modules/pricing/widgets/price-list.php:88
+#: elementor-pro/modules/pricing/widgets/price-list.php:94
+msgid "I am item content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr ""
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:87
+msgid "Second item on the list"
+msgstr "הפריט השני ברשימה"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:93
+msgid "Third item on the list"
+msgstr "הפריט השלישי ברשימה"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:107
+msgid "List Style"
+msgstr "סגנון רשימה"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:115
+msgid "Title & Price"
+msgstr "כותרת ומחיר"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:182
+msgid "Separator"
+msgstr "מפרידון"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:194
+#: elementor-pro/modules/pricing/widgets/price-table.php:849
+msgid "Solid"
+msgstr "רגיל"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:195
+#: elementor-pro/modules/pricing/widgets/price-table.php:851
+msgid "Dotted"
+msgstr "מנוקד"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:196
+#: elementor-pro/modules/pricing/widgets/price-table.php:852
+msgid "Dashed"
+msgstr "מקווקו"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:197
+#: elementor-pro/modules/pricing/widgets/price-table.php:850
+msgid "Double"
+msgstr "כפול"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:210
+#: elementor-pro/modules/pricing/widgets/price-table.php:886
+msgid "Weight"
+msgstr "משקל"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:271
+msgid "Image Style"
+msgstr "סגנון תמונה"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:325
+msgid "Item Style"
+msgstr "סגנון פריט"
+
+#: elementor-pro/modules/pricing/widgets/price-list.php:358
+msgid "Vertical Align"
+msgstr "יישור אנכי"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:479
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:939
+#: elementor-pro/modules/pricing/widgets/price-list.php:362
+#: elementor-pro/modules/pricing/widgets/price-table.php:510
+#: elementor-pro/modules/pricing/widgets/price-table.php:571
+#: elementor-pro/modules/pricing/widgets/price-table.php:648
+#: elementor-pro/modules/slides/widgets/slides.php:330
+#: elementor-pro/modules/slides/widgets/slides.php:683
+msgid "Bottom"
+msgstr "תחתון"
+
+#: elementor-pro/modules/slides/module.info.php:5
+#: elementor-pro/modules/slides/widgets/slides.php:19
+#: elementor-pro/modules/slides/widgets/slides.php:48
+#: elementor-pro/modules/slides/widgets/slides.php:418
+#: elementor-pro/modules/slides/widgets/slides.php:592
+msgid "Slides"
+msgstr "סליידים"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:170
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:276
+#: elementor-pro/modules/slides/widgets/slides.php:56
+msgid "Background"
+msgstr "רקע"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:184
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:290
+#: elementor-pro/modules/slides/widgets/slides.php:154
+msgid "Background Overlay"
+msgstr "שכבת רקע"
+
+#: elementor-pro/modules/slides/widgets/slides.php:203
+msgid "Slide Heading"
+msgstr "כותרת שקופית"
+
+#: elementor-pro/modules/slides/widgets/slides.php:213
+msgid "I am slide content. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:242
+#: elementor-pro/modules/pricing/widgets/price-table.php:227
+#: elementor-pro/modules/slides/widgets/slides.php:221
+msgid "Button Text"
+msgstr "טקסט כפתור"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:244
+#: elementor-pro/modules/pricing/widgets/price-table.php:229
+#: elementor-pro/modules/slides/widgets/slides.php:223
+#: elementor-pro/modules/slides/widgets/slides.php:425
+#: elementor-pro/modules/slides/widgets/slides.php:431
+#: elementor-pro/modules/slides/widgets/slides.php:437
+msgid "Click Here"
+msgstr "לחץ כאן"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:254
+#: elementor-pro/modules/slides/widgets/slides.php:232
+msgid "http://your-link.com"
+msgstr "http://your-link.com"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:261
+#: elementor-pro/modules/slides/widgets/slides.php:239
+msgid "Apply Link On"
+msgstr "החל קישור על"
+
+#: elementor-pro/modules/slides/widgets/slides.php:242
+msgid "Whole Slide"
+msgstr "כל השקופית"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:265
+#: elementor-pro/modules/slides/widgets/slides.php:243
+msgid "Button Only"
+msgstr "כפתור בלבד"
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:93
+#: elementor-pro/modules/share-buttons/widgets/share-buttons.php:242
+#: elementor-pro/modules/slides/widgets/slides.php:265
+msgid "Custom"
+msgstr "מותאם"
+
+#: elementor-pro/modules/slides/widgets/slides.php:270
+msgid "Set custom style that will only affect this specific slide."
+msgstr "הגדר סגנון מותאם אישית שישפיע רק על השקופית הספציפית הזו."
+
+#: elementor-pro/modules/pricing/widgets/price-table.php:292
+#: elementor-pro/modules/slides/widgets/slides.php:277
+#: elementor-pro/modules/slides/widgets/slides.php:644
+msgid "Horizontal Position"
+msgstr "מיקום אופקי"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:466
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:926
+#: elementor-pro/modules/pricing/widgets/price-table.php:497
+#: elementor-pro/modules/pricing/widgets/price-table.php:558
+#: elementor-pro/modules/pricing/widgets/price-table.php:635
+#: elementor-pro/modules/slides/widgets/slides.php:317
+#: elementor-pro/modules/slides/widgets/slides.php:669
+msgid "Vertical Position"
+msgstr "מיקום אנכי"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:475
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:935
+#: elementor-pro/modules/pricing/widgets/price-table.php:506
+#: elementor-pro/modules/pricing/widgets/price-table.php:567
+#: elementor-pro/modules/pricing/widgets/price-table.php:644
+#: elementor-pro/modules/slides/widgets/slides.php:326
+#: elementor-pro/modules/slides/widgets/slides.php:679
+msgid "Middle"
+msgstr "אמצע"
+
+#: elementor-pro/modules/slides/widgets/slides.php:357
+#: elementor-pro/modules/slides/widgets/slides.php:694
+msgid "Text Align"
+msgstr "יישור טקסט"
+
+#: elementor-pro/modules/slides/widgets/slides.php:392
+msgid "Content Color"
+msgstr "צבע תוכן"
+
+#: elementor-pro/modules/slides/widgets/slides.php:423
+msgid "Slide 1 Heading"
+msgstr "כותרת שקופית 1"
+
+#: elementor-pro/modules/slides/widgets/slides.php:429
+msgid "Slide 2 Heading"
+msgstr "כותרת שקופית 2"
+
+#: elementor-pro/modules/slides/widgets/slides.php:435
+msgid "Slide 3 Heading"
+msgstr "כותרת שקופית 3"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:319
+#: elementor-pro/modules/slides/widgets/slides.php:449
+msgid "Height"
+msgstr "גובה\t"
+
+#: elementor-pro/modules/slides/widgets/slides.php:477
+msgid "Slider Options"
+msgstr "אפשרויות מצגת"
+
+#: elementor-pro/modules/slides/widgets/slides.php:485
+#: elementor-pro/modules/slides/widgets/slides.php:975
+msgid "Navigation"
+msgstr "ניווט"
+
+#: elementor-pro/modules/slides/widgets/slides.php:489
+msgid "Arrows and Dots"
+msgstr "חיצים ונקודות"
+
+#: elementor-pro/modules/slides/widgets/slides.php:490
+#: elementor-pro/modules/slides/widgets/slides.php:986
+msgid "Arrows"
+msgstr "חצים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:491
+#: elementor-pro/modules/slides/widgets/slides.php:1048
+msgid "Dots"
+msgstr "נקודות"
+
+#: elementor-pro/modules/slides/widgets/slides.php:500
+msgid "Pause on Hover"
+msgstr "השהה במעבר עכבר"
+
+#: elementor-pro/modules/slides/widgets/slides.php:512
+msgid "Autoplay"
+msgstr "הפעלה אוטומטית"
+
+#: elementor-pro/modules/slides/widgets/slides.php:539
+msgid "Infinite Loop"
+msgstr "לולאה אינסופית"
+
+#: elementor-pro/modules/slides/widgets/slides.php:551
+msgid "Transition"
+msgstr "מעבר"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:365
+#: elementor-pro/modules/slides/widgets/slides.php:555
+msgid "Slide"
+msgstr "שקופית"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:369
+#: elementor-pro/modules/slides/widgets/slides.php:556
+msgid "Fade"
+msgstr "עמעום"
+
+#: elementor-pro/modules/slides/widgets/slides.php:564
+msgid "Transition Speed (ms)"
+msgstr "מהירות מעבר (ms)"
+
+#: elementor-pro/modules/slides/widgets/slides.php:573
+msgid "Content Animation"
+msgstr "אנימציית תוכן"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:385
+#: elementor-pro/modules/slides/widgets/slides.php:578
+msgid "Down"
+msgstr "למטה"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:384
+#: elementor-pro/modules/slides/widgets/slides.php:579
+msgid "Up"
+msgstr "למעלה"
+
+#: elementor-pro/modules/slides/widgets/slides.php:582
+msgid "Zoom"
+msgstr "זום"
+
+#: elementor-pro/modules/slides/widgets/slides.php:600
+msgid "Content Width"
+msgstr "רוחב תוכן"
+
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:744
+#: elementor-pro/modules/flip-box/widgets/flip-box.php:1243
+#: elementor-pro/modules/forms/widgets/form.php:863
+#: elementor-pro/modules/forms/widgets/login.php:459
+#: elementor-pro/modules/posts/skins/skin-cards.php:384
+#: elementor-pro/modules/slides/widgets/slides.php:860
+msgid "Border Width"
+msgstr "רוחב מסגרת"
+
+#: elementor-pro/modules/slides/widgets/slides.php:998
+msgid "Arrows Position"
+msgstr "מיקום חיצים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1002
+#: elementor-pro/modules/slides/widgets/slides.php:1065
+msgid "Inside"
+msgstr "בפנים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1003
+#: elementor-pro/modules/slides/widgets/slides.php:1064
+msgid "Outside"
+msgstr "בחוץ"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1014
+msgid "Arrows Size"
+msgstr "גודל חיצים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1034
+msgid "Arrows Color"
+msgstr "צבע חיצים"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1060
+msgid "Dots Position"
+msgstr "מיקום נקודות"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1076
+msgid "Dots Size"
+msgstr "גודל נקודות"
+
+#: elementor-pro/modules/slides/widgets/slides.php:1096
+msgid "Dots Color"
+msgstr "צבע נקודות"
+
+#: elementor-pro/modules/woocommerce/module.info.php:7
+msgid "WooCommerce"
+msgstr "ווקומרס"
+
+#: elementor-pro/modules/woocommerce/widgets/products.php:62
+msgid "Products Count"
+msgstr "מספר מוצרים"
+
+#: elementor-pro/modules/woocommerce/widgets/categories.php:139
+#: elementor-pro/modules/woocommerce/widgets/products.php:111
+msgid "Order by"
+msgstr "סדר לפי"
+
+#: elementor-pro/modules/woocommerce/widgets/products.php:118
+msgid "Popularity"
+msgstr "פופולרי"
+
+#: elementor-pro/modules/woocommerce/widgets/products.php:119
+msgid "Rating"
+msgstr "דירוג"
+
+#: elementor-pro/plugin.php:243
+msgid "Pro Elements"
+msgstr "אלמנטים פרו"

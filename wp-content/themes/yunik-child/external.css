@@ -1,0 +1,3 @@
+body:not(.vc_editor) header {
+	top: 0 !important;
+}

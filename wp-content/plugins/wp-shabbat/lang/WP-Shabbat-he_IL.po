@@ -1,0 +1,1656 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-shabbat v1.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 12:47+0000\n"
+"PO-Revision-Date: 2017-05-03 12:56+0000\n"
+"Last-Translator: drmosko <drmosko@hotmail.com>\n"
+"Language-Team: Hebrew\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-Language: Hebrew\n"
+"X-Poedit-Country: ISRAEL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"Language: he-IL"
+
+#: wp-shabbat.php:40
+msgid "Disable email update notice"
+msgstr "השבת את הודעת עדכון האימייל"
+
+#: wp-shabbat.php:95
+msgid "click to disable Email update notice"
+msgstr "לחץ כדי להשבית את הודעת עדכון בסיס הנתונים לדואר האלקטרוני"
+
+#: wp-shabbat/1.3/wp-shabbat.php:29 wp-shabbat/1.7/wp-shabbat.php:29
+#: wp-shabbat/0.07/wp-shabbat.php:27 wp-shabbat/0.08/wp-shabbat.php:28
+#: wp-shabbat/1.2/wp-shabbat.php:29 wp-shabbat/1.5/wp-shabbat.php:29
+#: wp-shabbat/0.06/wp-shabbat.php:27 wp-shabbat/0.05/wp-shabbat.php:27
+#: wp-shabbat/1.00/wp-shabbat.php:28 wp-shabbat/1.6/wp-shabbat.php:29
+#: wp-shabbat/1.4/wp-shabbat.php:29 wp-shabbat/1.1/wp-shabbat.php:29
+msgid ""
+"WP-Shabbat correctly using a free database that need to be updated every "
+"month , the plugin will download it from our servers automatically every "
+"month"
+msgstr ""
+"WP-Shabbat משתמש באמצעות מסד נתונים חינמי, הצריך להתעדכן מדי חודש, התוסף "
+"יוריד אותו מהשרתים שלנו באופן אוטומטי בכל חודש"
+
+#: wp-shabbat/1.3/wp-shabbat.php:61 wp-shabbat/1.7/wp-shabbat.php:61
+#: wp-shabbat/0.08/wp-shabbat.php:53 wp-shabbat/1.2/wp-shabbat.php:61
+#: wp-shabbat/1.5/wp-shabbat.php:61 wp-shabbat/1.00/wp-shabbat.php:53
+#: wp-shabbat/1.6/wp-shabbat.php:61 wp-shabbat/1.4/wp-shabbat.php:61
+#: wp-shabbat/1.1/wp-shabbat.php:61
+msgid "click to disable Site Observe Shabbat BY WP-Shabbat link "
+msgstr "לחץ להשבית את הקישור 'Site Observe Shabbat BY WP-Shabbat'"
+
+#: wp-shabbat/1.3/wp-shabbat.php:130 wp-shabbat/1.7/wp-shabbat.php:130
+#: wp-shabbat/0.07/wp-shabbat.php:101 wp-shabbat/0.08/wp-shabbat.php:115
+#: wp-shabbat/1.2/wp-shabbat.php:130 wp-shabbat/1.5/wp-shabbat.php:130
+#: wp-shabbat/0.06/wp-shabbat.php:100 wp-shabbat/1.00/wp-shabbat.php:115
+#: wp-shabbat/1.6/wp-shabbat.php:130 wp-shabbat/1.4/wp-shabbat.php:130
+#: wp-shabbat/1.1/wp-shabbat.php:130
+msgid "WP-Shabbat Plugin is Working"
+msgstr "הפלאגין WP-Shabbat עובד"
+
+#: wp-shabbat/1.3/wp-shabbat.php:156 wp-shabbat/1.7/wp-shabbat.php:157
+#: wp-shabbat/0.07/wp-shabbat.php:125 wp-shabbat/0.08/wp-shabbat.php:139
+#: wp-shabbat/1.2/wp-shabbat.php:156 wp-shabbat/1.5/wp-shabbat.php:157
+#: wp-shabbat/0.06/wp-shabbat.php:124 wp-shabbat/0.05/wp-shabbat.php:106
+#: wp-shabbat/1.00/wp-shabbat.php:139 wp-shabbat/1.6/wp-shabbat.php:157
+#: wp-shabbat/1.4/wp-shabbat.php:157 wp-shabbat/1.1/wp-shabbat.php:156
+msgid "5$ for this plugin is not much, pls make a donation"
+msgstr ""
+
+#: wp-shabbat/0.07/wp-shabbat.php:21 wp-shabbat/0.08/wp-shabbat.php:21
+#: wp-shabbat/0.06/wp-shabbat.php:21 wp-shabbat/1.00/wp-shabbat.php:21
+msgid "Display announcement message"
+msgstr ""
+
+#: wp-shabbat/0.07/wp-shabbat.php:34 wp-shabbat/0.08/wp-shabbat.php:35
+#: wp-shabbat/0.06/wp-shabbat.php:34 wp-shabbat/1.00/wp-shabbat.php:35
+msgid "click to display popup message and not close the site"
+msgstr "לחץ כדי להציג את ההודעה המוקפצת ולא לסגור את האתר"
+
+#: wp-shabbat/0.07/wp-shabbat.php:110 wp-shabbat/0.08/wp-shabbat.php:124
+#: wp-shabbat/0.03/wp-shabbat.php:98 wp-shabbat/0.04/wp-shabbat.php:98
+#: wp-shabbat/0.02/wp-shabbat.php:98 wp-shabbat/0.01/wp-shabbat.php:98
+#: wp-shabbat/0.06/wp-shabbat.php:109 wp-shabbat/0.05/wp-shabbat.php:98
+#: wp-shabbat/1.00/wp-shabbat.php:124
+msgid "How closed page look like?"
+msgstr "איך נראה דף סגור?"
+
+#: wp-shabbat/0.03/wp-shabbat.php:26 wp-shabbat/0.04/wp-shabbat.php:26
+#: wp-shabbat/0.02/wp-shabbat.php:26 wp-shabbat/0.01/wp-shabbat.php:26
+msgid ""
+"the website will close to user based on his location, when it is shabbat in "
+"one country the site will be closed but for the other country where its not "
+"shabbat the site is open"
+msgstr ""
+"האתר ייסגר למשתמש על פי מיקומו, כאשר הוא שבת במדינה אחת האתר יהיה סגור אבל "
+"עבור המדינה שבה לא שבת האתר פתוח"
+
+#: wp-shabbat/0.03/wp-shabbat.php:27 wp-shabbat/0.04/wp-shabbat.php:27
+#: wp-shabbat/0.02/wp-shabbat.php:27 wp-shabbat/0.01/wp-shabbat.php:27
+msgid ""
+"WP-Shabbat correctly using a free database that we update every month , the "
+"plugin will download it from our servers automatically every month"
+msgstr ""
+
+#: wp-shabbat/0.03/wp-shabbat.php:29 wp-shabbat/0.04/wp-shabbat.php:29
+#: wp-shabbat/0.02/wp-shabbat.php:29 wp-shabbat/0.01/wp-shabbat.php:29
+msgid ""
+"WP-Shabbat is wordpress plugin to close a website in shabbat and holidays,"
+msgstr "WP-Shabbat הוא תוסף לסגירת אתרים בשבתות וחגים,"
+
+#: wp-shabbat/0.03/wp-shabbat.php:106 wp-shabbat/0.04/wp-shabbat.php:106
+#: wp-shabbat/0.02/wp-shabbat.php:106 wp-shabbat/0.01/wp-shabbat.php:106
+msgid "Want to keep this plugin free, please make a donation"
+msgstr "רוצה לשמור על תוסף זה בחינם?, תרום לנו"
+
+#: wp-shabbat/1.00/wp-shabbat-countdown.php:21
+msgid "Site will close in"
+msgstr "האתר יסגר בתוך"
+
+#: wp-shabbat/1.00/wp-shabbat-countdown.php:30
+msgid "Site is closed"
+msgstr "האתר סגור"
+
+#. translators: plugin header field 'Name'
+msgid "wp-shabbat"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+msgid "www.dossihost.net"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+msgid "DrMosko"
+msgstr ""
+
+#: wp-shabbat-update.php:35 wp-shabbat/2.1/wp-shabbat-update.php:35
+#: wp-shabbat/2.0/wp-shabbat-update.php:34
+#: wp-shabbat/1.9/wp-shabbat-update.php:31
+#: wp-shabbat/1.8/wp-shabbat-update.php:31
+msgid "file downloaded and extracted successfully"
+msgstr "הקובץ הורד וחולץ בהצלחה"
+
+#: wp-shabbat-update.php:39 wp-shabbat/2.1/wp-shabbat-update.php:39
+#: wp-shabbat/2.0/wp-shabbat-update.php:38
+#: wp-shabbat/1.9/wp-shabbat-update.php:35
+#: wp-shabbat/1.8/wp-shabbat-update.php:35
+msgid "problem with file extraction"
+msgstr "בעיה עם חילוץ הקובץ"
+
+#: wp-shabbat-update.php:44 wp-shabbat/2.1/wp-shabbat-update.php:44
+#: wp-shabbat/2.0/wp-shabbat-update.php:43
+#: wp-shabbat/1.9/wp-shabbat-update.php:40
+#: wp-shabbat/1.8/wp-shabbat-update.php:40
+msgid "problem with file download"
+msgstr "בעיה עם הורדת הקובץ"
+
+#: wp-shabbat-update.php:63 wp-shabbat/2.1/wp-shabbat-update.php:61
+#: wp-shabbat/2.0/wp-shabbat-update.php:60
+#: wp-shabbat/1.9/wp-shabbat-update.php:57
+#: wp-shabbat/1.8/wp-shabbat-update.php:57
+msgid "WP-Shabbat plugin DB update status"
+msgstr "תוסף השבת - עדכון בסיס נתונים "
+
+#: wp-shabbat-update.php:73 wp-shabbat/2.1/wp-shabbat-update.php:71
+#: wp-shabbat/2.0/wp-shabbat-update.php:70
+#: wp-shabbat/1.9/wp-shabbat-update.php:67
+#: wp-shabbat/1.8/wp-shabbat-update.php:67
+msgid "Hello "
+msgstr "שלום "
+
+#: wp-shabbat-update.php:74 wp-shabbat/2.1/wp-shabbat-update.php:72
+#: wp-shabbat/2.0/wp-shabbat-update.php:71
+#: wp-shabbat/1.9/wp-shabbat-update.php:68
+#: wp-shabbat/1.8/wp-shabbat-update.php:68
+msgid "this email sent to inform you the DB update status"
+msgstr "מצב עדכון בסיס הנתונים"
+
+#: wp-shabbat-update.php:75 wp-shabbat/2.1/wp-shabbat-update.php:73
+#: wp-shabbat/2.0/wp-shabbat-update.php:72
+#: wp-shabbat/1.9/wp-shabbat-update.php:69
+#: wp-shabbat/1.8/wp-shabbat-update.php:69
+msgid "and thank you for using WP-Shabbat Plugin this plugin is"
+msgstr "אנו שמחים כי בחרת להשתמש בתוסף שמירת השבת שלנו, תוסף זה"
+
+#: wp-shabbat-update.php:75 wp-shabbat/2.1/wp-shabbat-update.php:73
+#: wp-shabbat/2.0/wp-shabbat-update.php:72
+#: wp-shabbat/1.9/wp-shabbat-update.php:69
+#: wp-shabbat/1.8/wp-shabbat-update.php:69
+msgid "free so please support us"
+msgstr "חינמי ונודה לך אם"
+
+#: wp-shabbat-update.php:75 wp-shabbat/2.1/wp-shabbat-update.php:73
+#: wp-shabbat/2.0/wp-shabbat-update.php:72
+#: wp-shabbat/1.9/wp-shabbat-update.php:69
+#: wp-shabbat/1.8/wp-shabbat-update.php:69
+msgid "By helping us with the cost of the plugin"
+msgstr "תוכל לעזור לנו בתרומה ובכך לתרום להמשך פיתוח ותחזוקת התוסף"
+
+#: wp-shabbat-update.php:77 wp-shabbat/2.1/wp-shabbat-update.php:75
+#: wp-shabbat/2.0/wp-shabbat-update.php:73
+#: wp-shabbat/1.9/wp-shabbat-update.php:70
+#: wp-shabbat/1.8/wp-shabbat-update.php:70
+msgid "and by helping us with your important review at "
+msgstr "כמו כן, נודה אם תדרגו אותנו באתר"
+
+#: wp-shabbat-update.php:77 wp-shabbat/2.1/wp-shabbat-update.php:75
+#: wp-shabbat/2.0/wp-shabbat-update.php:73
+#: wp-shabbat/1.9/wp-shabbat-update.php:70
+#: wp-shabbat/1.8/wp-shabbat-update.php:70
+msgid "the wordpress.org plugin page"
+msgstr "של דף התוסף"
+
+#: wp-shabbat.php:21 wp-shabbat/1.3/wp-shabbat.php:20
+#: wp-shabbat/1.7/wp-shabbat.php:20 wp-shabbat/0.07/wp-shabbat.php:20
+#: wp-shabbat/0.08/wp-shabbat.php:20 wp-shabbat/1.2/wp-shabbat.php:20
+#: wp-shabbat/2.1/wp-shabbat.php:21 wp-shabbat/1.5/wp-shabbat.php:20
+#: wp-shabbat/0.06/wp-shabbat.php:20 wp-shabbat/2.0/wp-shabbat.php:21
+#: wp-shabbat/1.00/wp-shabbat.php:20 wp-shabbat/1.9/wp-shabbat.php:21
+#: wp-shabbat/1.6/wp-shabbat.php:20 wp-shabbat/1.8/wp-shabbat.php:21
+#: wp-shabbat/1.4/wp-shabbat.php:20 wp-shabbat/1.1/wp-shabbat.php:20
+msgid "WP Shabbat Plugin Settings"
+msgstr "עמוד הגדרות"
+
+#: wp-shabbat.php:22 wp-shabbat/1.3/wp-shabbat.php:21
+#: wp-shabbat/1.7/wp-shabbat.php:21 wp-shabbat/1.2/wp-shabbat.php:21
+#: wp-shabbat/2.1/wp-shabbat.php:22 wp-shabbat/1.5/wp-shabbat.php:21
+#: wp-shabbat/2.0/wp-shabbat.php:22 wp-shabbat/1.9/wp-shabbat.php:22
+#: wp-shabbat/1.6/wp-shabbat.php:21 wp-shabbat/1.8/wp-shabbat.php:22
+#: wp-shabbat/1.4/wp-shabbat.php:21 wp-shabbat/1.1/wp-shabbat.php:21
+msgid "Display popup announcement message"
+msgstr "הצגת חלונית הודעת פופאפ"
+
+#: wp-shabbat.php:23 wp-shabbat/1.3/wp-shabbat.php:22
+#: wp-shabbat/1.7/wp-shabbat.php:22 wp-shabbat/0.07/wp-shabbat.php:22
+#: wp-shabbat/0.08/wp-shabbat.php:22 wp-shabbat/1.2/wp-shabbat.php:22
+#: wp-shabbat/2.1/wp-shabbat.php:23 wp-shabbat/0.03/wp-shabbat.php:21
+#: wp-shabbat/0.04/wp-shabbat.php:21 wp-shabbat/0.02/wp-shabbat.php:21
+#: wp-shabbat/0.01/wp-shabbat.php:21 wp-shabbat/1.5/wp-shabbat.php:22
+#: wp-shabbat/0.06/wp-shabbat.php:22 wp-shabbat/0.05/wp-shabbat.php:21
+#: wp-shabbat/2.0/wp-shabbat.php:23 wp-shabbat/1.00/wp-shabbat.php:22
+#: wp-shabbat/1.9/wp-shabbat.php:23 wp-shabbat/1.6/wp-shabbat.php:22
+#: wp-shabbat/1.8/wp-shabbat.php:23 wp-shabbat/1.4/wp-shabbat.php:22
+#: wp-shabbat/1.1/wp-shabbat.php:22
+msgid "Candle light Minutes"
+msgstr "זמן כניסת שבת"
+
+#: wp-shabbat.php:24 wp-shabbat/1.3/wp-shabbat.php:23
+#: wp-shabbat/1.7/wp-shabbat.php:23 wp-shabbat/0.07/wp-shabbat.php:23
+#: wp-shabbat/0.08/wp-shabbat.php:23 wp-shabbat/1.2/wp-shabbat.php:23
+#: wp-shabbat/2.1/wp-shabbat.php:24 wp-shabbat/0.03/wp-shabbat.php:22
+#: wp-shabbat/0.04/wp-shabbat.php:22 wp-shabbat/0.02/wp-shabbat.php:22
+#: wp-shabbat/0.01/wp-shabbat.php:22 wp-shabbat/1.5/wp-shabbat.php:23
+#: wp-shabbat/0.06/wp-shabbat.php:23 wp-shabbat/0.05/wp-shabbat.php:22
+#: wp-shabbat/2.0/wp-shabbat.php:24 wp-shabbat/1.00/wp-shabbat.php:23
+#: wp-shabbat/1.9/wp-shabbat.php:24 wp-shabbat/1.6/wp-shabbat.php:23
+#: wp-shabbat/1.8/wp-shabbat.php:24 wp-shabbat/1.4/wp-shabbat.php:23
+#: wp-shabbat/1.1/wp-shabbat.php:23
+msgid "Havdala Minutes"
+msgstr "זמן הבדלה"
+
+#: wp-shabbat.php:25 wp-shabbat.php:31 wp-shabbat/1.3/wp-shabbat.php:24
+#: wp-shabbat/1.7/wp-shabbat.php:24 wp-shabbat/1.2/wp-shabbat.php:24
+#: wp-shabbat/2.1/wp-shabbat.php:25 wp-shabbat/2.1/wp-shabbat.php:31
+#: wp-shabbat/1.5/wp-shabbat.php:24 wp-shabbat/2.0/wp-shabbat.php:25
+#: wp-shabbat/2.0/wp-shabbat.php:31 wp-shabbat/1.9/wp-shabbat.php:25
+#: wp-shabbat/1.9/wp-shabbat.php:31 wp-shabbat/1.6/wp-shabbat.php:24
+#: wp-shabbat/1.8/wp-shabbat.php:25 wp-shabbat/1.8/wp-shabbat.php:31
+#: wp-shabbat/1.4/wp-shabbat.php:24 wp-shabbat/1.1/wp-shabbat.php:24
+msgid "Enter your message"
+msgstr "רשום את הודעתך"
+
+#: wp-shabbat.php:29 wp-shabbat/2.1/wp-shabbat.php:29
+#: wp-shabbat/2.0/wp-shabbat.php:29 wp-shabbat/1.9/wp-shabbat.php:29
+#: wp-shabbat/1.8/wp-shabbat.php:29
+msgid "WP Shabbat rich editor Settings"
+msgstr "הגדרות עורך טקסט עשיר"
+
+#: wp-shabbat.php:30 wp-shabbat/2.1/wp-shabbat.php:30
+#: wp-shabbat/2.0/wp-shabbat.php:30 wp-shabbat/1.9/wp-shabbat.php:30
+#: wp-shabbat/1.8/wp-shabbat.php:30
+msgid "Enable user content"
+msgstr "אפשר תוכן משתמש"
+
+#: wp-shabbat.php:37 wp-shabbat/2.1/wp-shabbat.php:37
+#: wp-shabbat/2.0/wp-shabbat.php:37 wp-shabbat/1.9/wp-shabbat.php:37
+#: wp-shabbat/1.8/wp-shabbat.php:37
+msgid "WP Shabbat hide css class/id"
+msgstr "WP Shabbat hide css class/id"
+
+#: wp-shabbat.php:38 wp-shabbat/2.1/wp-shabbat.php:38
+#: wp-shabbat/2.0/wp-shabbat.php:38 wp-shabbat/1.9/wp-shabbat.php:38
+#: wp-shabbat/1.8/wp-shabbat.php:38
+msgid "css class/id to hide"
+msgstr "css class/id to hide"
+
+#: wp-shabbat.php:39 wp-shabbat/1.3/wp-shabbat.php:25
+#: wp-shabbat/1.7/wp-shabbat.php:25 wp-shabbat/0.08/wp-shabbat.php:24
+#: wp-shabbat/1.2/wp-shabbat.php:25 wp-shabbat/2.1/wp-shabbat.php:39
+#: wp-shabbat/1.5/wp-shabbat.php:25 wp-shabbat/2.0/wp-shabbat.php:39
+#: wp-shabbat/1.00/wp-shabbat.php:24 wp-shabbat/1.9/wp-shabbat.php:39
+#: wp-shabbat/1.6/wp-shabbat.php:25 wp-shabbat/1.8/wp-shabbat.php:39
+#: wp-shabbat/1.4/wp-shabbat.php:25 wp-shabbat/1.1/wp-shabbat.php:25
+msgid "Disable support link"
+msgstr "נטרל קישור"
+
+#: wp-shabbat.php:43 wp-shabbat/1.3/wp-shabbat.php:28
+#: wp-shabbat/1.7/wp-shabbat.php:28 wp-shabbat/0.07/wp-shabbat.php:26
+#: wp-shabbat/0.08/wp-shabbat.php:27 wp-shabbat/1.2/wp-shabbat.php:28
+#: wp-shabbat/2.1/wp-shabbat.php:42 wp-shabbat/1.5/wp-shabbat.php:28
+#: wp-shabbat/0.06/wp-shabbat.php:26 wp-shabbat/0.05/wp-shabbat.php:26
+#: wp-shabbat/2.0/wp-shabbat.php:42 wp-shabbat/1.00/wp-shabbat.php:27
+#: wp-shabbat/1.9/wp-shabbat.php:42 wp-shabbat/1.6/wp-shabbat.php:28
+#: wp-shabbat/1.8/wp-shabbat.php:42 wp-shabbat/1.4/wp-shabbat.php:28
+#: wp-shabbat/1.1/wp-shabbat.php:28
+msgid ""
+"the website will close to user based on his location, when it is shabbat in "
+"user location the site will be closed but for user from other location where "
+"its not shabbat the site will be open"
+msgstr ""
+"האתר יסגר למשתמש כאשר באזורו שבת, אך למשתמש אחר שבאזורו לא שבת האתר ישאר פתוח"
+
+#: wp-shabbat.php:44 wp-shabbat/2.1/wp-shabbat.php:43
+#: wp-shabbat/2.0/wp-shabbat.php:43 wp-shabbat/1.9/wp-shabbat.php:43
+#: wp-shabbat/1.8/wp-shabbat.php:43
+msgid ""
+"WP-Shabbat currently using a free database that needed to be updated weekly ,"
+" the plugin will download it automatically"
+msgstr ""
+"WP-Shabbat עובד כיום באמצעות מסד נתונים חינמי שצריך להתעדכן כל שבוע, התוסף "
+"יוריד אותו באופן אוטומטי"
+
+#: wp-shabbat.php:45 wp-shabbat/1.3/wp-shabbat.php:30
+#: wp-shabbat/1.7/wp-shabbat.php:30 wp-shabbat/0.07/wp-shabbat.php:28
+#: wp-shabbat/0.08/wp-shabbat.php:29 wp-shabbat/1.2/wp-shabbat.php:30
+#: wp-shabbat/2.1/wp-shabbat.php:44 wp-shabbat/0.03/wp-shabbat.php:28
+#: wp-shabbat/0.04/wp-shabbat.php:28 wp-shabbat/0.02/wp-shabbat.php:28
+#: wp-shabbat/0.01/wp-shabbat.php:28 wp-shabbat/1.5/wp-shabbat.php:30
+#: wp-shabbat/0.06/wp-shabbat.php:28 wp-shabbat/0.05/wp-shabbat.php:28
+#: wp-shabbat/2.0/wp-shabbat.php:44 wp-shabbat/1.00/wp-shabbat.php:29
+#: wp-shabbat/1.9/wp-shabbat.php:44 wp-shabbat/1.6/wp-shabbat.php:30
+#: wp-shabbat/1.8/wp-shabbat.php:44 wp-shabbat/1.4/wp-shabbat.php:30
+#: wp-shabbat/1.1/wp-shabbat.php:30
+msgid ""
+"We recommend that every site owner will consult with a rabbi for the time to "
+"close his site"
+msgstr "אנו ממליצים לכל בעל אתר להתייעץ עם רב לגבי זמן סגירת האתר שלו"
+
+#: wp-shabbat.php:46 wp-shabbat/1.3/wp-shabbat.php:31
+#: wp-shabbat/1.7/wp-shabbat.php:31 wp-shabbat/1.2/wp-shabbat.php:31
+#: wp-shabbat/2.1/wp-shabbat.php:45 wp-shabbat/1.5/wp-shabbat.php:31
+#: wp-shabbat/2.0/wp-shabbat.php:45 wp-shabbat/1.9/wp-shabbat.php:45
+#: wp-shabbat/1.6/wp-shabbat.php:31 wp-shabbat/1.8/wp-shabbat.php:45
+#: wp-shabbat/1.4/wp-shabbat.php:31 wp-shabbat/1.1/wp-shabbat.php:31
+msgid ""
+"WP-Shabbat is SEO friendly and as requested by Google, search engine bots "
+"get http header 503"
+msgstr ""
+"התוסף הנו מותאם לצרכיי קידום, הדף הסגור מציג הודעת 503 כפי הנדרש מגוגל."
+
+#: wp-shabbat.php:47 wp-shabbat/1.3/wp-shabbat.php:32
+#: wp-shabbat/1.7/wp-shabbat.php:32 wp-shabbat/0.07/wp-shabbat.php:29
+#: wp-shabbat/0.08/wp-shabbat.php:30 wp-shabbat/1.2/wp-shabbat.php:32
+#: wp-shabbat/2.1/wp-shabbat.php:46 wp-shabbat/1.5/wp-shabbat.php:32
+#: wp-shabbat/0.06/wp-shabbat.php:29 wp-shabbat/0.05/wp-shabbat.php:29
+#: wp-shabbat/2.0/wp-shabbat.php:46 wp-shabbat/1.00/wp-shabbat.php:30
+#: wp-shabbat/1.9/wp-shabbat.php:46 wp-shabbat/1.6/wp-shabbat.php:32
+#: wp-shabbat/1.8/wp-shabbat.php:46 wp-shabbat/1.4/wp-shabbat.php:32
+#: wp-shabbat/1.1/wp-shabbat.php:32
+msgid ""
+"WP-Shabbat is wordpress plugin that close website in shabbat and holidays "
+"base on user location,"
+msgstr "תוסף זה סוגר את האתר למשתמש שבאזורו שבת או חג - גם יום שני של גלויות"
+
+#: wp-shabbat.php:51 wp-shabbat/2.1/wp-shabbat.php:50
+#: wp-shabbat/2.0/wp-shabbat.php:50 wp-shabbat/1.9/wp-shabbat.php:50
+#: wp-shabbat/1.8/wp-shabbat.php:50
+msgid ""
+"Here you can enable and add your own content below the default message of "
+"the plugin"
+msgstr "כאן תוכל להפעיל ולהוסיף תוכן משלך שיוצג תחת הודעת ברירת המחדל של התוסף"
+
+#: wp-shabbat.php:55 wp-shabbat/2.1/wp-shabbat.php:54
+#: wp-shabbat/2.0/wp-shabbat.php:54 wp-shabbat/1.9/wp-shabbat.php:54
+#: wp-shabbat/1.8/wp-shabbat.php:54
+msgid ""
+"Here you can add css classes or id's to be disabled when the site is closed"
+msgstr "כאן תוכל יכול להוסיף CSS classes או ID שלא יוצגו כאשר האתר סגור"
+
+#: wp-shabbat.php:61 wp-shabbat/1.3/wp-shabbat.php:38
+#: wp-shabbat/1.7/wp-shabbat.php:38 wp-shabbat/1.2/wp-shabbat.php:38
+#: wp-shabbat/2.1/wp-shabbat.php:60 wp-shabbat/1.5/wp-shabbat.php:38
+#: wp-shabbat/2.0/wp-shabbat.php:60 wp-shabbat/1.9/wp-shabbat.php:60
+#: wp-shabbat/1.6/wp-shabbat.php:38 wp-shabbat/1.8/wp-shabbat.php:60
+#: wp-shabbat/1.4/wp-shabbat.php:38 wp-shabbat/1.1/wp-shabbat.php:38
+msgid ""
+"click to display popup message and not close the site - for some Poskim "
+"opinion its enough"
+msgstr ""
+"לחץ להצגת הודעת פופאפ שהאתר סגור ולא לסגור אותו הרמטית - לכמה פוסקים זה מספיק"
+
+#: wp-shabbat.php:66 wp-shabbat/1.3/wp-shabbat.php:45
+#: wp-shabbat/1.7/wp-shabbat.php:45 wp-shabbat/0.07/wp-shabbat.php:41
+#: wp-shabbat/0.08/wp-shabbat.php:42 wp-shabbat/1.2/wp-shabbat.php:45
+#: wp-shabbat/2.1/wp-shabbat.php:65 wp-shabbat/0.03/wp-shabbat.php:34
+#: wp-shabbat/0.04/wp-shabbat.php:34 wp-shabbat/0.02/wp-shabbat.php:34
+#: wp-shabbat/0.01/wp-shabbat.php:34 wp-shabbat/1.5/wp-shabbat.php:45
+#: wp-shabbat/0.06/wp-shabbat.php:41 wp-shabbat/0.05/wp-shabbat.php:34
+#: wp-shabbat/2.0/wp-shabbat.php:65 wp-shabbat/1.00/wp-shabbat.php:42
+#: wp-shabbat/1.9/wp-shabbat.php:65 wp-shabbat/1.6/wp-shabbat.php:45
+#: wp-shabbat/1.8/wp-shabbat.php:65 wp-shabbat/1.4/wp-shabbat.php:45
+#: wp-shabbat/1.1/wp-shabbat.php:45
+msgid ""
+"insert minutes for candle light time, number of minutes before sunset "
+"minimum - 20 min ,max - 600 min."
+msgstr ""
+"הכנס דקות לזמן כניסת שבת, מספר דקות לפני שקיעה מינימלי - 20 דקות, מקסימום - "
+"600 דקות."
+
+#: wp-shabbat.php:71 wp-shabbat/1.3/wp-shabbat.php:50
+#: wp-shabbat/1.7/wp-shabbat.php:50 wp-shabbat/0.07/wp-shabbat.php:46
+#: wp-shabbat/0.08/wp-shabbat.php:47 wp-shabbat/1.2/wp-shabbat.php:50
+#: wp-shabbat/2.1/wp-shabbat.php:70 wp-shabbat/0.03/wp-shabbat.php:42
+#: wp-shabbat/0.04/wp-shabbat.php:42 wp-shabbat/0.02/wp-shabbat.php:42
+#: wp-shabbat/0.01/wp-shabbat.php:42 wp-shabbat/1.5/wp-shabbat.php:50
+#: wp-shabbat/0.06/wp-shabbat.php:46 wp-shabbat/0.05/wp-shabbat.php:42
+#: wp-shabbat/2.0/wp-shabbat.php:70 wp-shabbat/1.00/wp-shabbat.php:47
+#: wp-shabbat/1.9/wp-shabbat.php:70 wp-shabbat/1.6/wp-shabbat.php:50
+#: wp-shabbat/1.8/wp-shabbat.php:70 wp-shabbat/1.4/wp-shabbat.php:50
+#: wp-shabbat/1.1/wp-shabbat.php:50
+msgid ""
+"insert minutes for havdala time, number of jewish minutes after sunset "
+"minimum - 18 min ,max - 72 min."
+msgstr ""
+"הכנס דקות לזמן הבדלה, מספר דקות לאחר שקיעה מינימלי - 18 דקות, מקסימום - 72 "
+"דקות.\n"
+
+#: wp-shabbat.php:71 wp-shabbat/1.3/wp-shabbat.php:50
+#: wp-shabbat/1.7/wp-shabbat.php:50 wp-shabbat/0.07/wp-shabbat.php:46
+#: wp-shabbat/0.08/wp-shabbat.php:47 wp-shabbat/1.2/wp-shabbat.php:50
+#: wp-shabbat/2.1/wp-shabbat.php:70 wp-shabbat/0.03/wp-shabbat.php:42
+#: wp-shabbat/0.04/wp-shabbat.php:42 wp-shabbat/0.02/wp-shabbat.php:42
+#: wp-shabbat/0.01/wp-shabbat.php:42 wp-shabbat/1.5/wp-shabbat.php:50
+#: wp-shabbat/0.06/wp-shabbat.php:46 wp-shabbat/0.05/wp-shabbat.php:42
+#: wp-shabbat/2.0/wp-shabbat.php:70 wp-shabbat/1.00/wp-shabbat.php:47
+#: wp-shabbat/1.9/wp-shabbat.php:70 wp-shabbat/1.6/wp-shabbat.php:50
+#: wp-shabbat/1.8/wp-shabbat.php:70 wp-shabbat/1.4/wp-shabbat.php:50
+#: wp-shabbat/1.1/wp-shabbat.php:50
+msgid "(jewish hour is calculated from sunrise to sunset divided by 12)"
+msgstr "(שעה יהודית מחושבת מזריחה לשקיעה לחלק ל -12)"
+
+#: wp-shabbat.php:76 wp-shabbat/1.3/wp-shabbat.php:55
+#: wp-shabbat/1.7/wp-shabbat.php:55 wp-shabbat/1.2/wp-shabbat.php:55
+#: wp-shabbat/2.1/wp-shabbat.php:75 wp-shabbat/1.5/wp-shabbat.php:55
+#: wp-shabbat/2.0/wp-shabbat.php:75 wp-shabbat/1.9/wp-shabbat.php:75
+#: wp-shabbat/1.6/wp-shabbat.php:55 wp-shabbat/1.8/wp-shabbat.php:75
+#: wp-shabbat/1.4/wp-shabbat.php:55 wp-shabbat/1.1/wp-shabbat.php:55
+msgid "please enter your message for the user or leave blank for default"
+msgstr "רשום את ההודעה שברצונך להשאיר למשתמש או השאר ריק לטעינת ברירת המחדל"
+
+#: wp-shabbat.php:81 wp-shabbat/2.1/wp-shabbat.php:80
+#: wp-shabbat/2.0/wp-shabbat.php:80 wp-shabbat/1.9/wp-shabbat.php:80
+#: wp-shabbat/1.8/wp-shabbat.php:80
+msgid ""
+"Enter css class/id that you want to hide when site closed, separated by "
+"space or leave blank to use/restore default"
+msgstr ""
+"הזן css class/id שאתה רוצה להסתיר כאשר האתר סגור הפרד על ידי רווח או השאר "
+"ריק כדי לשחזר את ברירת מחדל"
+
+#: wp-shabbat.php:88 wp-shabbat/2.1/wp-shabbat.php:87
+#: wp-shabbat/2.0/wp-shabbat.php:87 wp-shabbat/1.9/wp-shabbat.php:87
+#: wp-shabbat/1.8/wp-shabbat.php:87
+msgid ""
+"click to disable Site Observe Shabbat BY WP-Shabbat link (please dont and "
+"show us your support)"
+msgstr ""
+"לחץ להשבית את הקישור של אתר שומר שבת על ידי WP-Shabbat  (בבקשה אל תשבית "
+"והראה לנו את התמיכה שלך)"
+
+#: wp-shabbat.php:102 wp-shabbat/2.1/wp-shabbat.php:94
+#: wp-shabbat/2.0/wp-shabbat.php:94 wp-shabbat/1.9/wp-shabbat.php:94
+#: wp-shabbat/1.8/wp-shabbat.php:94
+msgid ""
+"Click to enable rich text editor content below the default plugin message"
+msgstr ""
+"לחץ כדי להפעיל את עורך הטקסט העשיר שיציג את התוכן מתחת להודעת ברירת המחדל של "
+"התוסף"
+
+#: wp-shabbat.php:152 wp-shabbat.php:377 wp-shabbat/2.1/wp-shabbat.php:137
+#: wp-shabbat/2.1/wp-shabbat.php:362 wp-shabbat/2.0/wp-shabbat.php:137
+#: wp-shabbat/2.0/wp-shabbat.php:362 wp-shabbat/1.9/wp-shabbat.php:137
+#: wp-shabbat/1.9/wp-shabbat.php:362 wp-shabbat/1.8/wp-shabbat.php:137
+#: wp-shabbat/1.8/wp-shabbat.php:362
+msgid "Enter your own content, it will be presented below the original message"
+msgstr "הזן את התוכן שלך, תוכן זה יוצג תחת ההודעה המקורית"
+
+#: wp-shabbat.php:182 wp-shabbat/1.3/wp-shabbat.php:89
+#: wp-shabbat/1.7/wp-shabbat.php:89 wp-shabbat/0.07/wp-shabbat.php:71
+#: wp-shabbat/0.08/wp-shabbat.php:80 wp-shabbat/1.2/wp-shabbat.php:89
+#: wp-shabbat/2.1/wp-shabbat.php:167 wp-shabbat/0.03/wp-shabbat.php:59
+#: wp-shabbat/0.04/wp-shabbat.php:59 wp-shabbat/0.02/wp-shabbat.php:59
+#: wp-shabbat/0.01/wp-shabbat.php:59 wp-shabbat/1.5/wp-shabbat.php:89
+#: wp-shabbat/0.06/wp-shabbat.php:70 wp-shabbat/0.05/wp-shabbat.php:59
+#: wp-shabbat/2.0/wp-shabbat.php:167 wp-shabbat/1.00/wp-shabbat.php:80
+#: wp-shabbat/1.9/wp-shabbat.php:167 wp-shabbat/1.6/wp-shabbat.php:89
+#: wp-shabbat/1.8/wp-shabbat.php:167 wp-shabbat/1.4/wp-shabbat.php:89
+#: wp-shabbat/1.1/wp-shabbat.php:89
+msgid ""
+"Invalid Candle light time, please enter valid input, default was loaded."
+msgstr "זמן כניסת שבת לא חוקי , אנא הכנס קלט חוקי, ברירת המחדל נטענה."
+
+#: wp-shabbat.php:192 wp-shabbat/1.3/wp-shabbat.php:99
+#: wp-shabbat/1.7/wp-shabbat.php:99 wp-shabbat/0.07/wp-shabbat.php:81
+#: wp-shabbat/0.08/wp-shabbat.php:90 wp-shabbat/1.2/wp-shabbat.php:99
+#: wp-shabbat/2.1/wp-shabbat.php:177 wp-shabbat/0.03/wp-shabbat.php:69
+#: wp-shabbat/0.04/wp-shabbat.php:69 wp-shabbat/0.02/wp-shabbat.php:69
+#: wp-shabbat/0.01/wp-shabbat.php:69 wp-shabbat/1.5/wp-shabbat.php:99
+#: wp-shabbat/0.06/wp-shabbat.php:80 wp-shabbat/0.05/wp-shabbat.php:69
+#: wp-shabbat/2.0/wp-shabbat.php:177 wp-shabbat/1.00/wp-shabbat.php:90
+#: wp-shabbat/1.9/wp-shabbat.php:177 wp-shabbat/1.6/wp-shabbat.php:99
+#: wp-shabbat/1.8/wp-shabbat.php:177 wp-shabbat/1.4/wp-shabbat.php:99
+#: wp-shabbat/1.1/wp-shabbat.php:99
+msgid ""
+"Invalid Havdalah light time, please enter valid input, default was loaded."
+msgstr "זמן הבדלה לא חוקי, אנא הכנס קלט חוקי, ברירת המחדל נטענה."
+
+#: wp-shabbat.php:214 wp-shabbat/2.1/wp-shabbat.php:199
+#: wp-shabbat/2.0/wp-shabbat.php:199 wp-shabbat/1.9/wp-shabbat.php:199
+#: wp-shabbat/1.8/wp-shabbat.php:199
+msgid "General"
+msgstr "כללי"
+
+#: wp-shabbat.php:215 wp-shabbat/2.1/wp-shabbat.php:200
+#: wp-shabbat/2.0/wp-shabbat.php:200 wp-shabbat/1.9/wp-shabbat.php:200
+#: wp-shabbat/1.8/wp-shabbat.php:200
+msgid "Add content"
+msgstr "הוסף תוכן"
+
+#: wp-shabbat.php:216 wp-shabbat/2.1/wp-shabbat.php:201
+#: wp-shabbat/2.0/wp-shabbat.php:201 wp-shabbat/1.9/wp-shabbat.php:201
+#: wp-shabbat/1.8/wp-shabbat.php:201
+msgid "Disable class/id"
+msgstr "הסר classe/id"
+
+#: wp-shabbat.php:238 wp-shabbat/2.1/wp-shabbat.php:223
+#: wp-shabbat/2.0/wp-shabbat.php:223 wp-shabbat/1.9/wp-shabbat.php:223
+#: wp-shabbat/1.8/wp-shabbat.php:223
+msgid ""
+"This plugin is currently free please help us keep it that way and show us "
+"your sincere support by your considerate donation"
+msgstr ""
+"עזור לנו לשמור על תוסף חינמי זה והראה לנו את תמיכתך על ידי תרומה מתחשבת"
+
+#: wp-shabbat.php:248 wp-shabbat/1.3/wp-shabbat.php:139
+#: wp-shabbat/1.7/wp-shabbat.php:139 wp-shabbat/1.2/wp-shabbat.php:139
+#: wp-shabbat/2.1/wp-shabbat.php:233 wp-shabbat/1.5/wp-shabbat.php:139
+#: wp-shabbat/2.0/wp-shabbat.php:233 wp-shabbat/1.9/wp-shabbat.php:233
+#: wp-shabbat/1.6/wp-shabbat.php:139 wp-shabbat/1.8/wp-shabbat.php:233
+#: wp-shabbat/1.4/wp-shabbat.php:139 wp-shabbat/1.1/wp-shabbat.php:139
+msgid "How hermetically closed page look like?"
+msgstr "איך נראה האתר בסגירה הרמטית?"
+
+#: wp-shabbat.php:249 wp-shabbat-functions.php:197 wp-shabbat-functions.php:202
+#: wp-shabbat-functions.php:207 wp-shabbat-functions.php:217
+#: wp-shabbat-functions.php:221 wp-shabbat-functions.php:226
+#: wp-shabbat-functions.php:231 wp-shabbat-functions.php:279
+#: wp-shabbat-functions.php:284 wp-shabbat-functions.php:289
+#: wp-shabbat-functions.php:296 wp-shabbat-functions.php:301
+#: wp-shabbat-functions.php:309 wp-shabbat-functions.php:314
+#: wp-shabbat/1.3/wp-shabbat.php:140
+#: wp-shabbat/1.3/wp-shabbat-functions.php:180
+#: wp-shabbat/1.3/wp-shabbat-functions.php:185
+#: wp-shabbat/1.3/wp-shabbat-functions.php:190
+#: wp-shabbat/1.3/wp-shabbat-functions.php:200
+#: wp-shabbat/1.3/wp-shabbat-functions.php:204
+#: wp-shabbat/1.3/wp-shabbat-functions.php:209
+#: wp-shabbat/1.3/wp-shabbat-functions.php:214
+#: wp-shabbat/1.3/wp-shabbat-functions.php:262
+#: wp-shabbat/1.3/wp-shabbat-functions.php:267
+#: wp-shabbat/1.3/wp-shabbat-functions.php:272
+#: wp-shabbat/1.3/wp-shabbat-functions.php:279
+#: wp-shabbat/1.3/wp-shabbat-functions.php:284
+#: wp-shabbat/1.3/wp-shabbat-functions.php:292
+#: wp-shabbat/1.3/wp-shabbat-functions.php:297
+#: wp-shabbat/1.7/wp-shabbat.php:140
+#: wp-shabbat/1.7/wp-shabbat-functions.php:196
+#: wp-shabbat/1.7/wp-shabbat-functions.php:201
+#: wp-shabbat/1.7/wp-shabbat-functions.php:206
+#: wp-shabbat/1.7/wp-shabbat-functions.php:216
+#: wp-shabbat/1.7/wp-shabbat-functions.php:220
+#: wp-shabbat/1.7/wp-shabbat-functions.php:225
+#: wp-shabbat/1.7/wp-shabbat-functions.php:230
+#: wp-shabbat/1.7/wp-shabbat-functions.php:278
+#: wp-shabbat/1.7/wp-shabbat-functions.php:283
+#: wp-shabbat/1.7/wp-shabbat-functions.php:288
+#: wp-shabbat/1.7/wp-shabbat-functions.php:295
+#: wp-shabbat/1.7/wp-shabbat-functions.php:300
+#: wp-shabbat/1.7/wp-shabbat-functions.php:308
+#: wp-shabbat/1.7/wp-shabbat-functions.php:313
+#: wp-shabbat/0.07/wp-shabbat.php:111
+#: wp-shabbat/0.07/wp-shabbat-functions.php:180
+#: wp-shabbat/0.07/wp-shabbat-functions.php:185
+#: wp-shabbat/0.07/wp-shabbat-functions.php:194
+#: wp-shabbat/0.07/wp-shabbat-functions.php:199
+#: wp-shabbat/0.07/wp-shabbat-functions.php:241
+#: wp-shabbat/0.07/wp-shabbat-functions.php:246
+#: wp-shabbat/0.07/wp-shabbat-functions.php:253
+#: wp-shabbat/0.07/wp-shabbat-functions.php:258
+#: wp-shabbat/0.07/wp-shabbat-functions.php:266
+#: wp-shabbat/0.07/wp-shabbat-functions.php:271
+#: wp-shabbat/0.08/wp-shabbat.php:125
+#: wp-shabbat/0.08/wp-shabbat-functions.php:180
+#: wp-shabbat/0.08/wp-shabbat-functions.php:185
+#: wp-shabbat/0.08/wp-shabbat-functions.php:194
+#: wp-shabbat/0.08/wp-shabbat-functions.php:199
+#: wp-shabbat/0.08/wp-shabbat-functions.php:241
+#: wp-shabbat/0.08/wp-shabbat-functions.php:246
+#: wp-shabbat/0.08/wp-shabbat-functions.php:253
+#: wp-shabbat/0.08/wp-shabbat-functions.php:258
+#: wp-shabbat/0.08/wp-shabbat-functions.php:266
+#: wp-shabbat/0.08/wp-shabbat-functions.php:271
+#: wp-shabbat/1.2/wp-shabbat.php:140
+#: wp-shabbat/1.2/wp-shabbat-functions.php:180
+#: wp-shabbat/1.2/wp-shabbat-functions.php:185
+#: wp-shabbat/1.2/wp-shabbat-functions.php:190
+#: wp-shabbat/1.2/wp-shabbat-functions.php:200
+#: wp-shabbat/1.2/wp-shabbat-functions.php:204
+#: wp-shabbat/1.2/wp-shabbat-functions.php:209
+#: wp-shabbat/1.2/wp-shabbat-functions.php:214
+#: wp-shabbat/1.2/wp-shabbat-functions.php:262
+#: wp-shabbat/1.2/wp-shabbat-functions.php:267
+#: wp-shabbat/1.2/wp-shabbat-functions.php:272
+#: wp-shabbat/1.2/wp-shabbat-functions.php:279
+#: wp-shabbat/1.2/wp-shabbat-functions.php:284
+#: wp-shabbat/1.2/wp-shabbat-functions.php:292
+#: wp-shabbat/1.2/wp-shabbat-functions.php:297
+#: wp-shabbat/2.1/wp-shabbat.php:234
+#: wp-shabbat/2.1/wp-shabbat-functions.php:197
+#: wp-shabbat/2.1/wp-shabbat-functions.php:202
+#: wp-shabbat/2.1/wp-shabbat-functions.php:207
+#: wp-shabbat/2.1/wp-shabbat-functions.php:217
+#: wp-shabbat/2.1/wp-shabbat-functions.php:221
+#: wp-shabbat/2.1/wp-shabbat-functions.php:226
+#: wp-shabbat/2.1/wp-shabbat-functions.php:231
+#: wp-shabbat/2.1/wp-shabbat-functions.php:279
+#: wp-shabbat/2.1/wp-shabbat-functions.php:284
+#: wp-shabbat/2.1/wp-shabbat-functions.php:289
+#: wp-shabbat/2.1/wp-shabbat-functions.php:296
+#: wp-shabbat/2.1/wp-shabbat-functions.php:301
+#: wp-shabbat/2.1/wp-shabbat-functions.php:309
+#: wp-shabbat/2.1/wp-shabbat-functions.php:314
+#: wp-shabbat/0.03/wp-shabbat.php:99
+#: wp-shabbat/0.03/wp-shabbat-functions.php:156
+#: wp-shabbat/0.03/wp-shabbat-functions.php:164
+#: wp-shabbat/0.03/wp-shabbat-functions.php:195
+#: wp-shabbat/0.03/wp-shabbat-functions.php:202
+#: wp-shabbat/0.03/wp-shabbat-functions.php:209
+#: wp-shabbat/0.04/wp-shabbat.php:99
+#: wp-shabbat/0.04/wp-shabbat-functions.php:156
+#: wp-shabbat/0.04/wp-shabbat-functions.php:164
+#: wp-shabbat/0.04/wp-shabbat-functions.php:195
+#: wp-shabbat/0.04/wp-shabbat-functions.php:202
+#: wp-shabbat/0.04/wp-shabbat-functions.php:209
+#: wp-shabbat/0.02/wp-shabbat.php:99
+#: wp-shabbat/0.02/wp-shabbat-functions.php:233
+#: wp-shabbat/0.02/wp-shabbat-functions.php:241
+#: wp-shabbat/0.02/wp-shabbat-functions.php:271
+#: wp-shabbat/0.02/wp-shabbat-functions.php:278
+#: wp-shabbat/0.02/wp-shabbat-functions.php:285
+#: wp-shabbat/0.01/wp-shabbat.php:99
+#: wp-shabbat/0.01/wp-shabbat-functions.php:233
+#: wp-shabbat/0.01/wp-shabbat-functions.php:241
+#: wp-shabbat/0.01/wp-shabbat-functions.php:271
+#: wp-shabbat/0.01/wp-shabbat-functions.php:278
+#: wp-shabbat/0.01/wp-shabbat-functions.php:285
+#: wp-shabbat/1.5/wp-shabbat.php:140
+#: wp-shabbat/1.5/wp-shabbat-functions.php:178
+#: wp-shabbat/1.5/wp-shabbat-functions.php:183
+#: wp-shabbat/1.5/wp-shabbat-functions.php:188
+#: wp-shabbat/1.5/wp-shabbat-functions.php:198
+#: wp-shabbat/1.5/wp-shabbat-functions.php:202
+#: wp-shabbat/1.5/wp-shabbat-functions.php:207
+#: wp-shabbat/1.5/wp-shabbat-functions.php:212
+#: wp-shabbat/1.5/wp-shabbat-functions.php:260
+#: wp-shabbat/1.5/wp-shabbat-functions.php:265
+#: wp-shabbat/1.5/wp-shabbat-functions.php:270
+#: wp-shabbat/1.5/wp-shabbat-functions.php:277
+#: wp-shabbat/1.5/wp-shabbat-functions.php:282
+#: wp-shabbat/1.5/wp-shabbat-functions.php:290
+#: wp-shabbat/1.5/wp-shabbat-functions.php:295
+#: wp-shabbat/0.06/wp-shabbat.php:110
+#: wp-shabbat/0.06/wp-shabbat-functions.php:180
+#: wp-shabbat/0.06/wp-shabbat-functions.php:185
+#: wp-shabbat/0.06/wp-shabbat-functions.php:194
+#: wp-shabbat/0.06/wp-shabbat-functions.php:199
+#: wp-shabbat/0.06/wp-shabbat-functions.php:241
+#: wp-shabbat/0.06/wp-shabbat-functions.php:246
+#: wp-shabbat/0.06/wp-shabbat-functions.php:253
+#: wp-shabbat/0.06/wp-shabbat-functions.php:258
+#: wp-shabbat/0.06/wp-shabbat-functions.php:266
+#: wp-shabbat/0.06/wp-shabbat-functions.php:271
+#: wp-shabbat/0.05/wp-shabbat.php:99
+#: wp-shabbat/0.05/wp-shabbat-functions.php:156
+#: wp-shabbat/0.05/wp-shabbat-functions.php:164
+#: wp-shabbat/0.05/wp-shabbat-functions.php:195
+#: wp-shabbat/0.05/wp-shabbat-functions.php:202
+#: wp-shabbat/0.05/wp-shabbat-functions.php:209
+#: wp-shabbat/2.0/wp-shabbat.php:234
+#: wp-shabbat/2.0/wp-shabbat-functions.php:197
+#: wp-shabbat/2.0/wp-shabbat-functions.php:202
+#: wp-shabbat/2.0/wp-shabbat-functions.php:207
+#: wp-shabbat/2.0/wp-shabbat-functions.php:217
+#: wp-shabbat/2.0/wp-shabbat-functions.php:221
+#: wp-shabbat/2.0/wp-shabbat-functions.php:226
+#: wp-shabbat/2.0/wp-shabbat-functions.php:231
+#: wp-shabbat/2.0/wp-shabbat-functions.php:279
+#: wp-shabbat/2.0/wp-shabbat-functions.php:284
+#: wp-shabbat/2.0/wp-shabbat-functions.php:289
+#: wp-shabbat/2.0/wp-shabbat-functions.php:296
+#: wp-shabbat/2.0/wp-shabbat-functions.php:301
+#: wp-shabbat/2.0/wp-shabbat-functions.php:309
+#: wp-shabbat/2.0/wp-shabbat-functions.php:314
+#: wp-shabbat/1.00/wp-shabbat.php:125
+#: wp-shabbat/1.00/wp-shabbat-functions.php:180
+#: wp-shabbat/1.00/wp-shabbat-functions.php:185
+#: wp-shabbat/1.00/wp-shabbat-functions.php:199
+#: wp-shabbat/1.00/wp-shabbat-functions.php:203
+#: wp-shabbat/1.00/wp-shabbat-functions.php:208
+#: wp-shabbat/1.00/wp-shabbat-functions.php:213
+#: wp-shabbat/1.00/wp-shabbat-functions.php:260
+#: wp-shabbat/1.00/wp-shabbat-functions.php:265
+#: wp-shabbat/1.00/wp-shabbat-functions.php:276
+#: wp-shabbat/1.00/wp-shabbat-functions.php:281
+#: wp-shabbat/1.00/wp-shabbat-functions.php:289
+#: wp-shabbat/1.00/wp-shabbat-functions.php:294
+#: wp-shabbat/1.9/wp-shabbat.php:234
+#: wp-shabbat/1.9/wp-shabbat-functions.php:197
+#: wp-shabbat/1.9/wp-shabbat-functions.php:202
+#: wp-shabbat/1.9/wp-shabbat-functions.php:207
+#: wp-shabbat/1.9/wp-shabbat-functions.php:217
+#: wp-shabbat/1.9/wp-shabbat-functions.php:221
+#: wp-shabbat/1.9/wp-shabbat-functions.php:226
+#: wp-shabbat/1.9/wp-shabbat-functions.php:231
+#: wp-shabbat/1.9/wp-shabbat-functions.php:279
+#: wp-shabbat/1.9/wp-shabbat-functions.php:284
+#: wp-shabbat/1.9/wp-shabbat-functions.php:289
+#: wp-shabbat/1.9/wp-shabbat-functions.php:296
+#: wp-shabbat/1.9/wp-shabbat-functions.php:301
+#: wp-shabbat/1.9/wp-shabbat-functions.php:309
+#: wp-shabbat/1.9/wp-shabbat-functions.php:314
+#: wp-shabbat/1.6/wp-shabbat.php:140
+#: wp-shabbat/1.6/wp-shabbat-functions.php:196
+#: wp-shabbat/1.6/wp-shabbat-functions.php:201
+#: wp-shabbat/1.6/wp-shabbat-functions.php:206
+#: wp-shabbat/1.6/wp-shabbat-functions.php:216
+#: wp-shabbat/1.6/wp-shabbat-functions.php:220
+#: wp-shabbat/1.6/wp-shabbat-functions.php:225
+#: wp-shabbat/1.6/wp-shabbat-functions.php:230
+#: wp-shabbat/1.6/wp-shabbat-functions.php:278
+#: wp-shabbat/1.6/wp-shabbat-functions.php:283
+#: wp-shabbat/1.6/wp-shabbat-functions.php:288
+#: wp-shabbat/1.6/wp-shabbat-functions.php:295
+#: wp-shabbat/1.6/wp-shabbat-functions.php:300
+#: wp-shabbat/1.6/wp-shabbat-functions.php:308
+#: wp-shabbat/1.6/wp-shabbat-functions.php:313
+#: wp-shabbat/1.8/wp-shabbat.php:234
+#: wp-shabbat/1.8/wp-shabbat-functions.php:197
+#: wp-shabbat/1.8/wp-shabbat-functions.php:202
+#: wp-shabbat/1.8/wp-shabbat-functions.php:207
+#: wp-shabbat/1.8/wp-shabbat-functions.php:217
+#: wp-shabbat/1.8/wp-shabbat-functions.php:221
+#: wp-shabbat/1.8/wp-shabbat-functions.php:226
+#: wp-shabbat/1.8/wp-shabbat-functions.php:231
+#: wp-shabbat/1.8/wp-shabbat-functions.php:279
+#: wp-shabbat/1.8/wp-shabbat-functions.php:284
+#: wp-shabbat/1.8/wp-shabbat-functions.php:289
+#: wp-shabbat/1.8/wp-shabbat-functions.php:296
+#: wp-shabbat/1.8/wp-shabbat-functions.php:301
+#: wp-shabbat/1.8/wp-shabbat-functions.php:309
+#: wp-shabbat/1.8/wp-shabbat-functions.php:314
+#: wp-shabbat/1.4/wp-shabbat.php:140
+#: wp-shabbat/1.4/wp-shabbat-functions.php:180
+#: wp-shabbat/1.4/wp-shabbat-functions.php:185
+#: wp-shabbat/1.4/wp-shabbat-functions.php:190
+#: wp-shabbat/1.4/wp-shabbat-functions.php:200
+#: wp-shabbat/1.4/wp-shabbat-functions.php:204
+#: wp-shabbat/1.4/wp-shabbat-functions.php:209
+#: wp-shabbat/1.4/wp-shabbat-functions.php:214
+#: wp-shabbat/1.4/wp-shabbat-functions.php:262
+#: wp-shabbat/1.4/wp-shabbat-functions.php:267
+#: wp-shabbat/1.4/wp-shabbat-functions.php:272
+#: wp-shabbat/1.4/wp-shabbat-functions.php:279
+#: wp-shabbat/1.4/wp-shabbat-functions.php:284
+#: wp-shabbat/1.4/wp-shabbat-functions.php:292
+#: wp-shabbat/1.4/wp-shabbat-functions.php:297
+#: wp-shabbat/1.1/wp-shabbat.php:140
+#: wp-shabbat/1.1/wp-shabbat-functions.php:180
+#: wp-shabbat/1.1/wp-shabbat-functions.php:185
+#: wp-shabbat/1.1/wp-shabbat-functions.php:190
+#: wp-shabbat/1.1/wp-shabbat-functions.php:200
+#: wp-shabbat/1.1/wp-shabbat-functions.php:204
+#: wp-shabbat/1.1/wp-shabbat-functions.php:209
+#: wp-shabbat/1.1/wp-shabbat-functions.php:214
+#: wp-shabbat/1.1/wp-shabbat-functions.php:262
+#: wp-shabbat/1.1/wp-shabbat-functions.php:267
+#: wp-shabbat/1.1/wp-shabbat-functions.php:272
+#: wp-shabbat/1.1/wp-shabbat-functions.php:279
+#: wp-shabbat/1.1/wp-shabbat-functions.php:284
+#: wp-shabbat/1.1/wp-shabbat-functions.php:292
+#: wp-shabbat/1.1/wp-shabbat-functions.php:297
+msgid "Holiday"
+msgstr "חג"
+
+#: wp-shabbat.php:249 wp-shabbat-functions.php:198 wp-shabbat-functions.php:202
+#: wp-shabbat-functions.php:244 wp-shabbat-functions.php:248
+#: wp-shabbat-functions.php:297 wp-shabbat-functions.php:301
+#: wp-shabbat-functions.php:325 wp-shabbat-functions.php:329
+#: wp-shabbat/1.3/wp-shabbat.php:140
+#: wp-shabbat/1.3/wp-shabbat-functions.php:181
+#: wp-shabbat/1.3/wp-shabbat-functions.php:185
+#: wp-shabbat/1.3/wp-shabbat-functions.php:227
+#: wp-shabbat/1.3/wp-shabbat-functions.php:231
+#: wp-shabbat/1.3/wp-shabbat-functions.php:280
+#: wp-shabbat/1.3/wp-shabbat-functions.php:284
+#: wp-shabbat/1.3/wp-shabbat-functions.php:308
+#: wp-shabbat/1.3/wp-shabbat-functions.php:312
+#: wp-shabbat/1.7/wp-shabbat.php:140
+#: wp-shabbat/1.7/wp-shabbat-functions.php:197
+#: wp-shabbat/1.7/wp-shabbat-functions.php:201
+#: wp-shabbat/1.7/wp-shabbat-functions.php:243
+#: wp-shabbat/1.7/wp-shabbat-functions.php:247
+#: wp-shabbat/1.7/wp-shabbat-functions.php:296
+#: wp-shabbat/1.7/wp-shabbat-functions.php:300
+#: wp-shabbat/1.7/wp-shabbat-functions.php:324
+#: wp-shabbat/1.7/wp-shabbat-functions.php:328
+#: wp-shabbat/0.07/wp-shabbat.php:111
+#: wp-shabbat/0.07/wp-shabbat-functions.php:181
+#: wp-shabbat/0.07/wp-shabbat-functions.php:185
+#: wp-shabbat/0.07/wp-shabbat-functions.php:211
+#: wp-shabbat/0.07/wp-shabbat-functions.php:215
+#: wp-shabbat/0.07/wp-shabbat-functions.php:254
+#: wp-shabbat/0.07/wp-shabbat-functions.php:258
+#: wp-shabbat/0.07/wp-shabbat-functions.php:282
+#: wp-shabbat/0.07/wp-shabbat-functions.php:286
+#: wp-shabbat/0.08/wp-shabbat.php:125
+#: wp-shabbat/0.08/wp-shabbat-functions.php:181
+#: wp-shabbat/0.08/wp-shabbat-functions.php:185
+#: wp-shabbat/0.08/wp-shabbat-functions.php:211
+#: wp-shabbat/0.08/wp-shabbat-functions.php:215
+#: wp-shabbat/0.08/wp-shabbat-functions.php:254
+#: wp-shabbat/0.08/wp-shabbat-functions.php:258
+#: wp-shabbat/0.08/wp-shabbat-functions.php:282
+#: wp-shabbat/0.08/wp-shabbat-functions.php:286
+#: wp-shabbat/1.2/wp-shabbat.php:140
+#: wp-shabbat/1.2/wp-shabbat-functions.php:181
+#: wp-shabbat/1.2/wp-shabbat-functions.php:185
+#: wp-shabbat/1.2/wp-shabbat-functions.php:227
+#: wp-shabbat/1.2/wp-shabbat-functions.php:231
+#: wp-shabbat/1.2/wp-shabbat-functions.php:280
+#: wp-shabbat/1.2/wp-shabbat-functions.php:284
+#: wp-shabbat/1.2/wp-shabbat-functions.php:308
+#: wp-shabbat/1.2/wp-shabbat-functions.php:312
+#: wp-shabbat/2.1/wp-shabbat.php:234
+#: wp-shabbat/2.1/wp-shabbat-functions.php:198
+#: wp-shabbat/2.1/wp-shabbat-functions.php:202
+#: wp-shabbat/2.1/wp-shabbat-functions.php:244
+#: wp-shabbat/2.1/wp-shabbat-functions.php:248
+#: wp-shabbat/2.1/wp-shabbat-functions.php:297
+#: wp-shabbat/2.1/wp-shabbat-functions.php:301
+#: wp-shabbat/2.1/wp-shabbat-functions.php:325
+#: wp-shabbat/2.1/wp-shabbat-functions.php:329
+#: wp-shabbat/0.03/wp-shabbat.php:99
+#: wp-shabbat/0.03/wp-shabbat-functions.php:156
+#: wp-shabbat/0.03/wp-shabbat-functions.php:174
+#: wp-shabbat/0.03/wp-shabbat-functions.php:202
+#: wp-shabbat/0.03/wp-shabbat-functions.php:218
+#: wp-shabbat/0.04/wp-shabbat.php:99
+#: wp-shabbat/0.04/wp-shabbat-functions.php:156
+#: wp-shabbat/0.04/wp-shabbat-functions.php:174
+#: wp-shabbat/0.04/wp-shabbat-functions.php:202
+#: wp-shabbat/0.04/wp-shabbat-functions.php:218
+#: wp-shabbat/0.02/wp-shabbat.php:99
+#: wp-shabbat/0.02/wp-shabbat-functions.php:233
+#: wp-shabbat/0.02/wp-shabbat-functions.php:251
+#: wp-shabbat/0.02/wp-shabbat-functions.php:278
+#: wp-shabbat/0.02/wp-shabbat-functions.php:294
+#: wp-shabbat/0.01/wp-shabbat.php:99
+#: wp-shabbat/0.01/wp-shabbat-functions.php:233
+#: wp-shabbat/0.01/wp-shabbat-functions.php:251
+#: wp-shabbat/0.01/wp-shabbat-functions.php:278
+#: wp-shabbat/0.01/wp-shabbat-functions.php:294
+#: wp-shabbat/1.5/wp-shabbat.php:140
+#: wp-shabbat/1.5/wp-shabbat-functions.php:179
+#: wp-shabbat/1.5/wp-shabbat-functions.php:183
+#: wp-shabbat/1.5/wp-shabbat-functions.php:225
+#: wp-shabbat/1.5/wp-shabbat-functions.php:229
+#: wp-shabbat/1.5/wp-shabbat-functions.php:278
+#: wp-shabbat/1.5/wp-shabbat-functions.php:282
+#: wp-shabbat/1.5/wp-shabbat-functions.php:306
+#: wp-shabbat/1.5/wp-shabbat-functions.php:310
+#: wp-shabbat/0.06/wp-shabbat.php:110
+#: wp-shabbat/0.06/wp-shabbat-functions.php:181
+#: wp-shabbat/0.06/wp-shabbat-functions.php:185
+#: wp-shabbat/0.06/wp-shabbat-functions.php:211
+#: wp-shabbat/0.06/wp-shabbat-functions.php:215
+#: wp-shabbat/0.06/wp-shabbat-functions.php:254
+#: wp-shabbat/0.06/wp-shabbat-functions.php:258
+#: wp-shabbat/0.06/wp-shabbat-functions.php:282
+#: wp-shabbat/0.06/wp-shabbat-functions.php:286
+#: wp-shabbat/0.05/wp-shabbat.php:99
+#: wp-shabbat/0.05/wp-shabbat-functions.php:156
+#: wp-shabbat/0.05/wp-shabbat-functions.php:174
+#: wp-shabbat/0.05/wp-shabbat-functions.php:202
+#: wp-shabbat/0.05/wp-shabbat-functions.php:218
+#: wp-shabbat/2.0/wp-shabbat.php:234
+#: wp-shabbat/2.0/wp-shabbat-functions.php:198
+#: wp-shabbat/2.0/wp-shabbat-functions.php:202
+#: wp-shabbat/2.0/wp-shabbat-functions.php:244
+#: wp-shabbat/2.0/wp-shabbat-functions.php:248
+#: wp-shabbat/2.0/wp-shabbat-functions.php:297
+#: wp-shabbat/2.0/wp-shabbat-functions.php:301
+#: wp-shabbat/2.0/wp-shabbat-functions.php:325
+#: wp-shabbat/2.0/wp-shabbat-functions.php:329
+#: wp-shabbat/1.00/wp-shabbat.php:125
+#: wp-shabbat/1.00/wp-shabbat-functions.php:181
+#: wp-shabbat/1.00/wp-shabbat-functions.php:185
+#: wp-shabbat/1.00/wp-shabbat-functions.php:226
+#: wp-shabbat/1.00/wp-shabbat-functions.php:230
+#: wp-shabbat/1.00/wp-shabbat-functions.php:277
+#: wp-shabbat/1.00/wp-shabbat-functions.php:281
+#: wp-shabbat/1.00/wp-shabbat-functions.php:305
+#: wp-shabbat/1.00/wp-shabbat-functions.php:309
+#: wp-shabbat/1.9/wp-shabbat.php:234
+#: wp-shabbat/1.9/wp-shabbat-functions.php:198
+#: wp-shabbat/1.9/wp-shabbat-functions.php:202
+#: wp-shabbat/1.9/wp-shabbat-functions.php:244
+#: wp-shabbat/1.9/wp-shabbat-functions.php:248
+#: wp-shabbat/1.9/wp-shabbat-functions.php:297
+#: wp-shabbat/1.9/wp-shabbat-functions.php:301
+#: wp-shabbat/1.9/wp-shabbat-functions.php:325
+#: wp-shabbat/1.9/wp-shabbat-functions.php:329
+#: wp-shabbat/1.6/wp-shabbat.php:140
+#: wp-shabbat/1.6/wp-shabbat-functions.php:197
+#: wp-shabbat/1.6/wp-shabbat-functions.php:201
+#: wp-shabbat/1.6/wp-shabbat-functions.php:243
+#: wp-shabbat/1.6/wp-shabbat-functions.php:247
+#: wp-shabbat/1.6/wp-shabbat-functions.php:296
+#: wp-shabbat/1.6/wp-shabbat-functions.php:300
+#: wp-shabbat/1.6/wp-shabbat-functions.php:324
+#: wp-shabbat/1.6/wp-shabbat-functions.php:328
+#: wp-shabbat/1.8/wp-shabbat.php:234
+#: wp-shabbat/1.8/wp-shabbat-functions.php:198
+#: wp-shabbat/1.8/wp-shabbat-functions.php:202
+#: wp-shabbat/1.8/wp-shabbat-functions.php:244
+#: wp-shabbat/1.8/wp-shabbat-functions.php:248
+#: wp-shabbat/1.8/wp-shabbat-functions.php:297
+#: wp-shabbat/1.8/wp-shabbat-functions.php:301
+#: wp-shabbat/1.8/wp-shabbat-functions.php:325
+#: wp-shabbat/1.8/wp-shabbat-functions.php:329
+#: wp-shabbat/1.4/wp-shabbat.php:140
+#: wp-shabbat/1.4/wp-shabbat-functions.php:181
+#: wp-shabbat/1.4/wp-shabbat-functions.php:185
+#: wp-shabbat/1.4/wp-shabbat-functions.php:227
+#: wp-shabbat/1.4/wp-shabbat-functions.php:231
+#: wp-shabbat/1.4/wp-shabbat-functions.php:280
+#: wp-shabbat/1.4/wp-shabbat-functions.php:284
+#: wp-shabbat/1.4/wp-shabbat-functions.php:308
+#: wp-shabbat/1.4/wp-shabbat-functions.php:312
+#: wp-shabbat/1.1/wp-shabbat.php:140
+#: wp-shabbat/1.1/wp-shabbat-functions.php:181
+#: wp-shabbat/1.1/wp-shabbat-functions.php:185
+#: wp-shabbat/1.1/wp-shabbat-functions.php:227
+#: wp-shabbat/1.1/wp-shabbat-functions.php:231
+#: wp-shabbat/1.1/wp-shabbat-functions.php:280
+#: wp-shabbat/1.1/wp-shabbat-functions.php:284
+#: wp-shabbat/1.1/wp-shabbat-functions.php:308
+#: wp-shabbat/1.1/wp-shabbat-functions.php:312
+msgid "tommorow at "
+msgstr "מחר בשעה "
+
+#: wp-shabbat.php:249 wp-shabbat.php:251 wp-shabbat/1.3/wp-shabbat.php:140
+#: wp-shabbat/1.3/wp-shabbat.php:142 wp-shabbat/1.7/wp-shabbat.php:140
+#: wp-shabbat/1.7/wp-shabbat.php:142 wp-shabbat/0.07/wp-shabbat.php:111
+#: wp-shabbat/0.08/wp-shabbat.php:125 wp-shabbat/1.2/wp-shabbat.php:140
+#: wp-shabbat/1.2/wp-shabbat.php:142 wp-shabbat/2.1/wp-shabbat.php:234
+#: wp-shabbat/2.1/wp-shabbat.php:236 wp-shabbat/0.03/wp-shabbat.php:99
+#: wp-shabbat/0.04/wp-shabbat.php:99 wp-shabbat/0.02/wp-shabbat.php:99
+#: wp-shabbat/0.01/wp-shabbat.php:99 wp-shabbat/1.5/wp-shabbat.php:140
+#: wp-shabbat/1.5/wp-shabbat.php:142 wp-shabbat/0.06/wp-shabbat.php:110
+#: wp-shabbat/0.05/wp-shabbat.php:99 wp-shabbat/2.0/wp-shabbat.php:234
+#: wp-shabbat/2.0/wp-shabbat.php:236 wp-shabbat/1.00/wp-shabbat.php:125
+#: wp-shabbat/1.9/wp-shabbat.php:234 wp-shabbat/1.9/wp-shabbat.php:236
+#: wp-shabbat/1.6/wp-shabbat.php:140 wp-shabbat/1.6/wp-shabbat.php:142
+#: wp-shabbat/1.8/wp-shabbat.php:234 wp-shabbat/1.8/wp-shabbat.php:236
+#: wp-shabbat/1.4/wp-shabbat.php:140 wp-shabbat/1.4/wp-shabbat.php:142
+#: wp-shabbat/1.1/wp-shabbat.php:140 wp-shabbat/1.1/wp-shabbat.php:142
+msgid "Test Page"
+msgstr "האתר סגור דף ניסיון"
+
+#: wp-shabbat.php:250 wp-shabbat/1.3/wp-shabbat.php:141
+#: wp-shabbat/1.7/wp-shabbat.php:141 wp-shabbat/1.2/wp-shabbat.php:141
+#: wp-shabbat/2.1/wp-shabbat.php:235 wp-shabbat/1.5/wp-shabbat.php:141
+#: wp-shabbat/2.0/wp-shabbat.php:235 wp-shabbat/1.9/wp-shabbat.php:235
+#: wp-shabbat/1.6/wp-shabbat.php:141 wp-shabbat/1.8/wp-shabbat.php:235
+#: wp-shabbat/1.4/wp-shabbat.php:141 wp-shabbat/1.1/wp-shabbat.php:141
+msgid "How popup message look like?"
+msgstr "איך נראה חלונית הודעת פופאפ?"
+
+#: wp-shabbat.php:267 wp-shabbat/1.3/wp-shabbat.php:154
+#: wp-shabbat/1.7/wp-shabbat.php:154 wp-shabbat/0.07/wp-shabbat.php:123
+#: wp-shabbat/0.08/wp-shabbat.php:137 wp-shabbat/1.2/wp-shabbat.php:154
+#: wp-shabbat/2.1/wp-shabbat.php:252 wp-shabbat/0.03/wp-shabbat.php:104
+#: wp-shabbat/0.04/wp-shabbat.php:104 wp-shabbat/0.02/wp-shabbat.php:104
+#: wp-shabbat/0.01/wp-shabbat.php:104 wp-shabbat/1.5/wp-shabbat.php:154
+#: wp-shabbat/0.06/wp-shabbat.php:122 wp-shabbat/0.05/wp-shabbat.php:104
+#: wp-shabbat/2.0/wp-shabbat.php:252 wp-shabbat/1.00/wp-shabbat.php:137
+#: wp-shabbat/1.9/wp-shabbat.php:252 wp-shabbat/1.6/wp-shabbat.php:154
+#: wp-shabbat/1.8/wp-shabbat.php:252 wp-shabbat/1.4/wp-shabbat.php:154
+#: wp-shabbat/1.1/wp-shabbat.php:154
+msgid "Ip DataBase last updated at : "
+msgstr "בסיס הנתונים התעדכן בתאריך : "
+
+#: wp-shabbat.php:268 wp-shabbat/1.3/wp-shabbat.php:155
+#: wp-shabbat/1.7/wp-shabbat.php:155 wp-shabbat/0.07/wp-shabbat.php:124
+#: wp-shabbat/0.08/wp-shabbat.php:138 wp-shabbat/1.2/wp-shabbat.php:155
+#: wp-shabbat/2.1/wp-shabbat.php:253 wp-shabbat/0.03/wp-shabbat.php:105
+#: wp-shabbat/0.04/wp-shabbat.php:105 wp-shabbat/0.02/wp-shabbat.php:105
+#: wp-shabbat/0.01/wp-shabbat.php:105 wp-shabbat/1.5/wp-shabbat.php:155
+#: wp-shabbat/0.06/wp-shabbat.php:123 wp-shabbat/0.05/wp-shabbat.php:105
+#: wp-shabbat/2.0/wp-shabbat.php:253 wp-shabbat/1.00/wp-shabbat.php:138
+#: wp-shabbat/1.9/wp-shabbat.php:253 wp-shabbat/1.6/wp-shabbat.php:155
+#: wp-shabbat/1.8/wp-shabbat.php:253 wp-shabbat/1.4/wp-shabbat.php:155
+#: wp-shabbat/1.1/wp-shabbat.php:155
+msgid "Update Status : "
+msgstr "מצב העדכון : "
+
+#: wp-shabbat.php:269 wp-shabbat/1.7/wp-shabbat.php:156
+#: wp-shabbat/2.1/wp-shabbat.php:254 wp-shabbat/1.5/wp-shabbat.php:156
+#: wp-shabbat/2.0/wp-shabbat.php:254 wp-shabbat/1.9/wp-shabbat.php:254
+#: wp-shabbat/1.6/wp-shabbat.php:156 wp-shabbat/1.8/wp-shabbat.php:254
+#: wp-shabbat/1.4/wp-shabbat.php:156
+msgid "Next Update : "
+msgstr "עדכון הבא :"
+
+#: wp-shabbat.php:289 wp-shabbat/1.3/wp-shabbat.php:168
+#: wp-shabbat/1.7/wp-shabbat.php:169 wp-shabbat/0.07/wp-shabbat.php:137
+#: wp-shabbat/0.08/wp-shabbat.php:151 wp-shabbat/1.2/wp-shabbat.php:168
+#: wp-shabbat/2.1/wp-shabbat.php:274 wp-shabbat/0.03/wp-shabbat.php:118
+#: wp-shabbat/0.04/wp-shabbat.php:118 wp-shabbat/0.02/wp-shabbat.php:118
+#: wp-shabbat/0.01/wp-shabbat.php:118 wp-shabbat/1.5/wp-shabbat.php:169
+#: wp-shabbat/0.06/wp-shabbat.php:136 wp-shabbat/0.05/wp-shabbat.php:118
+#: wp-shabbat/2.0/wp-shabbat.php:274 wp-shabbat/1.00/wp-shabbat.php:151
+#: wp-shabbat/1.9/wp-shabbat.php:274 wp-shabbat/1.6/wp-shabbat.php:169
+#: wp-shabbat/1.8/wp-shabbat.php:274 wp-shabbat/1.4/wp-shabbat.php:169
+#: wp-shabbat/1.1/wp-shabbat.php:168
+msgid "This product includes GeoLite data created by MaxMind, available from"
+msgstr "מוצר זה כולל נתונים GeoLite על ידי MaxMind, זמין ב "
+
+#: wp-shabbat.php:369 wp-shabbat.php:370 wp-shabbat/1.3/wp-shabbat.php:105
+#: wp-shabbat/1.3/wp-shabbat.php:200 wp-shabbat/1.7/wp-shabbat.php:105
+#: wp-shabbat/1.7/wp-shabbat.php:207
+#: wp-shabbat/0.07/wp-shabbat-closed-page.php:19
+#: wp-shabbat/0.07/wp-shabbat-popup.php:25
+#: wp-shabbat/0.08/wp-shabbat-closed-page.php:19
+#: wp-shabbat/0.08/wp-shabbat-popup.php:25 wp-shabbat/1.2/wp-shabbat.php:105
+#: wp-shabbat/1.2/wp-shabbat.php:200 wp-shabbat/2.1/wp-shabbat.php:354
+#: wp-shabbat/2.1/wp-shabbat.php:355
+#: wp-shabbat/0.03/wp-shabbat-closed-page.php:19
+#: wp-shabbat/0.04/wp-shabbat-closed-page.php:19
+#: wp-shabbat/0.02/wp-shabbat-closed-page.php:9
+#: wp-shabbat/0.01/wp-shabbat-closed-page.php:9
+#: wp-shabbat/1.5/wp-shabbat.php:105 wp-shabbat/1.5/wp-shabbat.php:205
+#: wp-shabbat/0.06/wp-shabbat-closed-page.php:19
+#: wp-shabbat/0.06/wp-shabbat-popup.php:25
+#: wp-shabbat/0.05/wp-shabbat-closed-page.php:19
+#: wp-shabbat/2.0/wp-shabbat.php:354 wp-shabbat/2.0/wp-shabbat.php:355
+#: wp-shabbat/1.00/wp-shabbat-closed-page.php:19
+#: wp-shabbat/1.00/wp-shabbat-popup.php:25 wp-shabbat/1.9/wp-shabbat.php:354
+#: wp-shabbat/1.9/wp-shabbat.php:355 wp-shabbat/1.6/wp-shabbat.php:105
+#: wp-shabbat/1.6/wp-shabbat.php:205 wp-shabbat/1.8/wp-shabbat.php:354
+#: wp-shabbat/1.8/wp-shabbat.php:355 wp-shabbat/1.4/wp-shabbat.php:105
+#: wp-shabbat/1.4/wp-shabbat.php:203 wp-shabbat/1.1/wp-shabbat.php:105
+#: wp-shabbat/1.1/wp-shabbat.php:200
+msgid "We Dont Work Today"
+msgstr "אנחנו לא עובדים היום"
+
+#: wp-shabbat.php:392 wp-shabbat/2.1/wp-shabbat.php:375
+#: wp-shabbat/2.0/wp-shabbat.php:375 wp-shabbat/1.9/wp-shabbat.php:375
+#: wp-shabbat/1.8/wp-shabbat.php:375
+msgid "Plugin DataBase need to be updated"
+msgstr "בסיס הנתונים של התוסף צריך עדכון"
+
+#: wp-shabbat.php:440 wp-shabbat/1.3/wp-shabbat.php:250
+#: wp-shabbat/1.3/wp-shabbat.php:252 wp-shabbat/1.7/wp-shabbat.php:257
+#: wp-shabbat/1.7/wp-shabbat.php:259 wp-shabbat/0.07/wp-shabbat.php:217
+#: wp-shabbat/0.08/wp-shabbat.php:233 wp-shabbat/0.08/wp-shabbat.php:235
+#: wp-shabbat/1.2/wp-shabbat.php:250 wp-shabbat/1.2/wp-shabbat.php:252
+#: wp-shabbat/2.1/wp-shabbat.php:423 wp-shabbat/2.1/wp-shabbat.php:425
+#: wp-shabbat/1.5/wp-shabbat.php:255 wp-shabbat/1.5/wp-shabbat.php:257
+#: wp-shabbat/2.0/wp-shabbat.php:423 wp-shabbat/2.0/wp-shabbat.php:425
+#: wp-shabbat/1.00/wp-shabbat.php:233 wp-shabbat/1.00/wp-shabbat.php:235
+#: wp-shabbat/1.9/wp-shabbat.php:423 wp-shabbat/1.9/wp-shabbat.php:425
+#: wp-shabbat/1.6/wp-shabbat.php:255 wp-shabbat/1.6/wp-shabbat.php:257
+#: wp-shabbat/1.8/wp-shabbat.php:420 wp-shabbat/1.8/wp-shabbat.php:422
+#: wp-shabbat/1.4/wp-shabbat.php:253 wp-shabbat/1.4/wp-shabbat.php:255
+#: wp-shabbat/1.1/wp-shabbat.php:250 wp-shabbat/1.1/wp-shabbat.php:252
+msgid "Site Observe Shabbat BY WP-Shabbat"
+msgstr "אתר שומר שבת ע'י WP-Shabbat"
+
+#: wp-shabbat-closed-page.php:30 wp-shabbat-closed-page.php:35
+#: wp-shabbat-popup.php:29 wp-shabbat-popup.php:34
+#: wp-shabbat/1.3/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.3/wp-shabbat-popup.php:26
+#: wp-shabbat/1.7/wp-shabbat-closed-page.php:29
+#: wp-shabbat/1.7/wp-shabbat-popup.php:26
+#: wp-shabbat/0.07/wp-shabbat-closed-page.php:20
+#: wp-shabbat/0.07/wp-shabbat-popup.php:26
+#: wp-shabbat/0.08/wp-shabbat-closed-page.php:20
+#: wp-shabbat/0.08/wp-shabbat-popup.php:26
+#: wp-shabbat/1.2/wp-shabbat-closed-page.php:30
+#: wp-shabbat/1.2/wp-shabbat-popup.php:26
+#: wp-shabbat/2.1/wp-shabbat-closed-page.php:30
+#: wp-shabbat/2.1/wp-shabbat-closed-page.php:35
+#: wp-shabbat/2.1/wp-shabbat-popup.php:29
+#: wp-shabbat/2.1/wp-shabbat-popup.php:34
+#: wp-shabbat/0.03/wp-shabbat-closed-page.php:20
+#: wp-shabbat/0.04/wp-shabbat-closed-page.php:20
+#: wp-shabbat/0.02/wp-shabbat-closed-page.php:10
+#: wp-shabbat/0.01/wp-shabbat-closed-page.php:10
+#: wp-shabbat/1.5/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.5/wp-shabbat-popup.php:26
+#: wp-shabbat/0.06/wp-shabbat-closed-page.php:20
+#: wp-shabbat/0.06/wp-shabbat-popup.php:26
+#: wp-shabbat/0.05/wp-shabbat-closed-page.php:20
+#: wp-shabbat/2.0/wp-shabbat-closed-page.php:30
+#: wp-shabbat/2.0/wp-shabbat-closed-page.php:35
+#: wp-shabbat/2.0/wp-shabbat-popup.php:29
+#: wp-shabbat/2.0/wp-shabbat-popup.php:34
+#: wp-shabbat/1.00/wp-shabbat-closed-page.php:20
+#: wp-shabbat/1.00/wp-shabbat-popup.php:26
+#: wp-shabbat/1.9/wp-shabbat-closed-page.php:30
+#: wp-shabbat/1.9/wp-shabbat-closed-page.php:35
+#: wp-shabbat/1.9/wp-shabbat-popup.php:29
+#: wp-shabbat/1.9/wp-shabbat-popup.php:34
+#: wp-shabbat/1.6/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.6/wp-shabbat-popup.php:26
+#: wp-shabbat/1.8/wp-shabbat-closed-page.php:30
+#: wp-shabbat/1.8/wp-shabbat-closed-page.php:35
+#: wp-shabbat/1.8/wp-shabbat-popup.php:29
+#: wp-shabbat/1.8/wp-shabbat-popup.php:34
+#: wp-shabbat/1.4/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.4/wp-shabbat-popup.php:26
+#: wp-shabbat/1.1/wp-shabbat-closed-page.php:30
+#: wp-shabbat/1.1/wp-shabbat-popup.php:26
+msgid "Today is : "
+msgstr "היום "
+
+#: wp-shabbat-closed-page.php:31 wp-shabbat-closed-page.php:36
+#: wp-shabbat-popup.php:30 wp-shabbat-popup.php:35
+#: wp-shabbat/1.3/wp-shabbat-closed-page.php:32
+#: wp-shabbat/1.3/wp-shabbat-popup.php:27
+#: wp-shabbat/1.7/wp-shabbat-closed-page.php:30
+#: wp-shabbat/1.7/wp-shabbat-popup.php:27
+#: wp-shabbat/0.07/wp-shabbat-closed-page.php:21
+#: wp-shabbat/0.07/wp-shabbat-popup.php:27
+#: wp-shabbat/0.08/wp-shabbat-closed-page.php:21
+#: wp-shabbat/0.08/wp-shabbat-popup.php:27
+#: wp-shabbat/1.2/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.2/wp-shabbat-popup.php:27
+#: wp-shabbat/2.1/wp-shabbat-closed-page.php:31
+#: wp-shabbat/2.1/wp-shabbat-closed-page.php:36
+#: wp-shabbat/2.1/wp-shabbat-popup.php:30
+#: wp-shabbat/2.1/wp-shabbat-popup.php:35
+#: wp-shabbat/0.03/wp-shabbat-closed-page.php:21
+#: wp-shabbat/0.04/wp-shabbat-closed-page.php:21
+#: wp-shabbat/0.02/wp-shabbat-closed-page.php:11
+#: wp-shabbat/0.01/wp-shabbat-closed-page.php:11
+#: wp-shabbat/1.5/wp-shabbat-closed-page.php:32
+#: wp-shabbat/1.5/wp-shabbat-popup.php:27
+#: wp-shabbat/0.06/wp-shabbat-closed-page.php:21
+#: wp-shabbat/0.06/wp-shabbat-popup.php:27
+#: wp-shabbat/0.05/wp-shabbat-closed-page.php:21
+#: wp-shabbat/2.0/wp-shabbat-closed-page.php:31
+#: wp-shabbat/2.0/wp-shabbat-closed-page.php:36
+#: wp-shabbat/2.0/wp-shabbat-popup.php:30
+#: wp-shabbat/2.0/wp-shabbat-popup.php:35
+#: wp-shabbat/1.00/wp-shabbat-closed-page.php:21
+#: wp-shabbat/1.00/wp-shabbat-popup.php:27
+#: wp-shabbat/1.9/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.9/wp-shabbat-closed-page.php:36
+#: wp-shabbat/1.9/wp-shabbat-popup.php:30
+#: wp-shabbat/1.9/wp-shabbat-popup.php:35
+#: wp-shabbat/1.6/wp-shabbat-closed-page.php:32
+#: wp-shabbat/1.6/wp-shabbat-popup.php:27
+#: wp-shabbat/1.8/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.8/wp-shabbat-closed-page.php:36
+#: wp-shabbat/1.8/wp-shabbat-popup.php:30
+#: wp-shabbat/1.8/wp-shabbat-popup.php:35
+#: wp-shabbat/1.4/wp-shabbat-closed-page.php:32
+#: wp-shabbat/1.4/wp-shabbat-popup.php:27
+#: wp-shabbat/1.1/wp-shabbat-closed-page.php:31
+#: wp-shabbat/1.1/wp-shabbat-popup.php:27
+msgid "Please come back "
+msgstr "אנא חזור "
+
+#: wp-shabbat-popup.php:41 wp-shabbat/1.3/wp-shabbat-popup.php:32
+#: wp-shabbat/1.7/wp-shabbat-popup.php:32
+#: wp-shabbat/0.07/wp-shabbat-popup.php:32
+#: wp-shabbat/0.08/wp-shabbat-popup.php:32
+#: wp-shabbat/1.2/wp-shabbat-popup.php:32
+#: wp-shabbat/2.1/wp-shabbat-popup.php:41
+#: wp-shabbat/1.5/wp-shabbat-popup.php:32
+#: wp-shabbat/0.06/wp-shabbat-popup.php:32
+#: wp-shabbat/2.0/wp-shabbat-popup.php:41
+#: wp-shabbat/1.00/wp-shabbat-popup.php:32
+#: wp-shabbat/1.9/wp-shabbat-popup.php:41
+#: wp-shabbat/1.6/wp-shabbat-popup.php:32
+#: wp-shabbat/1.8/wp-shabbat-popup.php:41
+#: wp-shabbat/1.4/wp-shabbat-popup.php:32
+#: wp-shabbat/1.1/wp-shabbat-popup.php:32
+msgid "Close Window "
+msgstr "סגור חלון "
+
+#: wp-shabbat-functions.php:218 wp-shabbat-functions.php:221
+#: wp-shabbat-functions.php:280 wp-shabbat-functions.php:284
+#: wp-shabbat/1.3/wp-shabbat-functions.php:201
+#: wp-shabbat/1.3/wp-shabbat-functions.php:204
+#: wp-shabbat/1.3/wp-shabbat-functions.php:263
+#: wp-shabbat/1.3/wp-shabbat-functions.php:267
+#: wp-shabbat/1.7/wp-shabbat-functions.php:217
+#: wp-shabbat/1.7/wp-shabbat-functions.php:220
+#: wp-shabbat/1.7/wp-shabbat-functions.php:279
+#: wp-shabbat/1.7/wp-shabbat-functions.php:283
+#: wp-shabbat/0.07/wp-shabbat-functions.php:242
+#: wp-shabbat/0.07/wp-shabbat-functions.php:246
+#: wp-shabbat/0.08/wp-shabbat-functions.php:242
+#: wp-shabbat/0.08/wp-shabbat-functions.php:246
+#: wp-shabbat/1.2/wp-shabbat-functions.php:201
+#: wp-shabbat/1.2/wp-shabbat-functions.php:204
+#: wp-shabbat/1.2/wp-shabbat-functions.php:263
+#: wp-shabbat/1.2/wp-shabbat-functions.php:267
+#: wp-shabbat/2.1/wp-shabbat-functions.php:218
+#: wp-shabbat/2.1/wp-shabbat-functions.php:221
+#: wp-shabbat/2.1/wp-shabbat-functions.php:280
+#: wp-shabbat/2.1/wp-shabbat-functions.php:284
+#: wp-shabbat/0.03/wp-shabbat-functions.php:195
+#: wp-shabbat/0.04/wp-shabbat-functions.php:195
+#: wp-shabbat/0.02/wp-shabbat-functions.php:271
+#: wp-shabbat/0.01/wp-shabbat-functions.php:271
+#: wp-shabbat/1.5/wp-shabbat-functions.php:199
+#: wp-shabbat/1.5/wp-shabbat-functions.php:202
+#: wp-shabbat/1.5/wp-shabbat-functions.php:261
+#: wp-shabbat/1.5/wp-shabbat-functions.php:265
+#: wp-shabbat/0.06/wp-shabbat-functions.php:242
+#: wp-shabbat/0.06/wp-shabbat-functions.php:246
+#: wp-shabbat/0.05/wp-shabbat-functions.php:195
+#: wp-shabbat/2.0/wp-shabbat-functions.php:218
+#: wp-shabbat/2.0/wp-shabbat-functions.php:221
+#: wp-shabbat/2.0/wp-shabbat-functions.php:280
+#: wp-shabbat/2.0/wp-shabbat-functions.php:284
+#: wp-shabbat/1.00/wp-shabbat-functions.php:200
+#: wp-shabbat/1.00/wp-shabbat-functions.php:203
+#: wp-shabbat/1.00/wp-shabbat-functions.php:261
+#: wp-shabbat/1.00/wp-shabbat-functions.php:265
+#: wp-shabbat/1.9/wp-shabbat-functions.php:218
+#: wp-shabbat/1.9/wp-shabbat-functions.php:221
+#: wp-shabbat/1.9/wp-shabbat-functions.php:280
+#: wp-shabbat/1.9/wp-shabbat-functions.php:284
+#: wp-shabbat/1.6/wp-shabbat-functions.php:217
+#: wp-shabbat/1.6/wp-shabbat-functions.php:220
+#: wp-shabbat/1.6/wp-shabbat-functions.php:279
+#: wp-shabbat/1.6/wp-shabbat-functions.php:283
+#: wp-shabbat/1.8/wp-shabbat-functions.php:218
+#: wp-shabbat/1.8/wp-shabbat-functions.php:221
+#: wp-shabbat/1.8/wp-shabbat-functions.php:280
+#: wp-shabbat/1.8/wp-shabbat-functions.php:284
+#: wp-shabbat/1.4/wp-shabbat-functions.php:201
+#: wp-shabbat/1.4/wp-shabbat-functions.php:204
+#: wp-shabbat/1.4/wp-shabbat-functions.php:263
+#: wp-shabbat/1.4/wp-shabbat-functions.php:267
+#: wp-shabbat/1.1/wp-shabbat-functions.php:201
+#: wp-shabbat/1.1/wp-shabbat-functions.php:204
+#: wp-shabbat/1.1/wp-shabbat-functions.php:263
+#: wp-shabbat/1.1/wp-shabbat-functions.php:267
+msgid "two day at "
+msgstr "מחרתיים בשעה "
+
+#: wp-shabbat-functions.php:227 wp-shabbat-functions.php:231
+#: wp-shabbat-functions.php:262 wp-shabbat-functions.php:266
+#: wp-shabbat-functions.php:310 wp-shabbat-functions.php:314
+#: wp-shabbat-functions.php:343 wp-shabbat-functions.php:347
+#: wp-shabbat/1.3/wp-shabbat-functions.php:210
+#: wp-shabbat/1.3/wp-shabbat-functions.php:214
+#: wp-shabbat/1.3/wp-shabbat-functions.php:245
+#: wp-shabbat/1.3/wp-shabbat-functions.php:249
+#: wp-shabbat/1.3/wp-shabbat-functions.php:293
+#: wp-shabbat/1.3/wp-shabbat-functions.php:297
+#: wp-shabbat/1.3/wp-shabbat-functions.php:326
+#: wp-shabbat/1.3/wp-shabbat-functions.php:330
+#: wp-shabbat/1.7/wp-shabbat-functions.php:226
+#: wp-shabbat/1.7/wp-shabbat-functions.php:230
+#: wp-shabbat/1.7/wp-shabbat-functions.php:261
+#: wp-shabbat/1.7/wp-shabbat-functions.php:265
+#: wp-shabbat/1.7/wp-shabbat-functions.php:309
+#: wp-shabbat/1.7/wp-shabbat-functions.php:313
+#: wp-shabbat/1.7/wp-shabbat-functions.php:342
+#: wp-shabbat/1.7/wp-shabbat-functions.php:346
+#: wp-shabbat/0.07/wp-shabbat-functions.php:195
+#: wp-shabbat/0.07/wp-shabbat-functions.php:199
+#: wp-shabbat/0.07/wp-shabbat-functions.php:224
+#: wp-shabbat/0.07/wp-shabbat-functions.php:228
+#: wp-shabbat/0.07/wp-shabbat-functions.php:267
+#: wp-shabbat/0.07/wp-shabbat-functions.php:271
+#: wp-shabbat/0.07/wp-shabbat-functions.php:295
+#: wp-shabbat/0.07/wp-shabbat-functions.php:299
+#: wp-shabbat/0.08/wp-shabbat-functions.php:195
+#: wp-shabbat/0.08/wp-shabbat-functions.php:199
+#: wp-shabbat/0.08/wp-shabbat-functions.php:224
+#: wp-shabbat/0.08/wp-shabbat-functions.php:228
+#: wp-shabbat/0.08/wp-shabbat-functions.php:267
+#: wp-shabbat/0.08/wp-shabbat-functions.php:271
+#: wp-shabbat/0.08/wp-shabbat-functions.php:295
+#: wp-shabbat/0.08/wp-shabbat-functions.php:299
+#: wp-shabbat/1.2/wp-shabbat-functions.php:210
+#: wp-shabbat/1.2/wp-shabbat-functions.php:214
+#: wp-shabbat/1.2/wp-shabbat-functions.php:245
+#: wp-shabbat/1.2/wp-shabbat-functions.php:249
+#: wp-shabbat/1.2/wp-shabbat-functions.php:293
+#: wp-shabbat/1.2/wp-shabbat-functions.php:297
+#: wp-shabbat/1.2/wp-shabbat-functions.php:326
+#: wp-shabbat/1.2/wp-shabbat-functions.php:330
+#: wp-shabbat/2.1/wp-shabbat-functions.php:227
+#: wp-shabbat/2.1/wp-shabbat-functions.php:231
+#: wp-shabbat/2.1/wp-shabbat-functions.php:262
+#: wp-shabbat/2.1/wp-shabbat-functions.php:266
+#: wp-shabbat/2.1/wp-shabbat-functions.php:310
+#: wp-shabbat/2.1/wp-shabbat-functions.php:314
+#: wp-shabbat/2.1/wp-shabbat-functions.php:343
+#: wp-shabbat/2.1/wp-shabbat-functions.php:347
+#: wp-shabbat/0.03/wp-shabbat-functions.php:164
+#: wp-shabbat/0.03/wp-shabbat-functions.php:183
+#: wp-shabbat/0.03/wp-shabbat-functions.php:209
+#: wp-shabbat/0.03/wp-shabbat-functions.php:225
+#: wp-shabbat/0.04/wp-shabbat-functions.php:164
+#: wp-shabbat/0.04/wp-shabbat-functions.php:183
+#: wp-shabbat/0.04/wp-shabbat-functions.php:209
+#: wp-shabbat/0.04/wp-shabbat-functions.php:225
+#: wp-shabbat/0.02/wp-shabbat-functions.php:241
+#: wp-shabbat/0.02/wp-shabbat-functions.php:259
+#: wp-shabbat/0.02/wp-shabbat-functions.php:285
+#: wp-shabbat/0.02/wp-shabbat-functions.php:301
+#: wp-shabbat/0.01/wp-shabbat-functions.php:241
+#: wp-shabbat/0.01/wp-shabbat-functions.php:259
+#: wp-shabbat/0.01/wp-shabbat-functions.php:285
+#: wp-shabbat/0.01/wp-shabbat-functions.php:301
+#: wp-shabbat/1.5/wp-shabbat-functions.php:208
+#: wp-shabbat/1.5/wp-shabbat-functions.php:212
+#: wp-shabbat/1.5/wp-shabbat-functions.php:243
+#: wp-shabbat/1.5/wp-shabbat-functions.php:247
+#: wp-shabbat/1.5/wp-shabbat-functions.php:291
+#: wp-shabbat/1.5/wp-shabbat-functions.php:295
+#: wp-shabbat/1.5/wp-shabbat-functions.php:324
+#: wp-shabbat/1.5/wp-shabbat-functions.php:328
+#: wp-shabbat/0.06/wp-shabbat-functions.php:195
+#: wp-shabbat/0.06/wp-shabbat-functions.php:199
+#: wp-shabbat/0.06/wp-shabbat-functions.php:224
+#: wp-shabbat/0.06/wp-shabbat-functions.php:228
+#: wp-shabbat/0.06/wp-shabbat-functions.php:267
+#: wp-shabbat/0.06/wp-shabbat-functions.php:271
+#: wp-shabbat/0.06/wp-shabbat-functions.php:295
+#: wp-shabbat/0.06/wp-shabbat-functions.php:299
+#: wp-shabbat/0.05/wp-shabbat-functions.php:164
+#: wp-shabbat/0.05/wp-shabbat-functions.php:183
+#: wp-shabbat/0.05/wp-shabbat-functions.php:209
+#: wp-shabbat/0.05/wp-shabbat-functions.php:225
+#: wp-shabbat/2.0/wp-shabbat-functions.php:227
+#: wp-shabbat/2.0/wp-shabbat-functions.php:231
+#: wp-shabbat/2.0/wp-shabbat-functions.php:262
+#: wp-shabbat/2.0/wp-shabbat-functions.php:266
+#: wp-shabbat/2.0/wp-shabbat-functions.php:310
+#: wp-shabbat/2.0/wp-shabbat-functions.php:314
+#: wp-shabbat/2.0/wp-shabbat-functions.php:343
+#: wp-shabbat/2.0/wp-shabbat-functions.php:347
+#: wp-shabbat/1.00/wp-shabbat-functions.php:209
+#: wp-shabbat/1.00/wp-shabbat-functions.php:213
+#: wp-shabbat/1.00/wp-shabbat-functions.php:243
+#: wp-shabbat/1.00/wp-shabbat-functions.php:247
+#: wp-shabbat/1.00/wp-shabbat-functions.php:290
+#: wp-shabbat/1.00/wp-shabbat-functions.php:294
+#: wp-shabbat/1.00/wp-shabbat-functions.php:322
+#: wp-shabbat/1.00/wp-shabbat-functions.php:326
+#: wp-shabbat/1.9/wp-shabbat-functions.php:227
+#: wp-shabbat/1.9/wp-shabbat-functions.php:231
+#: wp-shabbat/1.9/wp-shabbat-functions.php:262
+#: wp-shabbat/1.9/wp-shabbat-functions.php:266
+#: wp-shabbat/1.9/wp-shabbat-functions.php:310
+#: wp-shabbat/1.9/wp-shabbat-functions.php:314
+#: wp-shabbat/1.9/wp-shabbat-functions.php:343
+#: wp-shabbat/1.9/wp-shabbat-functions.php:347
+#: wp-shabbat/1.6/wp-shabbat-functions.php:226
+#: wp-shabbat/1.6/wp-shabbat-functions.php:230
+#: wp-shabbat/1.6/wp-shabbat-functions.php:261
+#: wp-shabbat/1.6/wp-shabbat-functions.php:265
+#: wp-shabbat/1.6/wp-shabbat-functions.php:309
+#: wp-shabbat/1.6/wp-shabbat-functions.php:313
+#: wp-shabbat/1.6/wp-shabbat-functions.php:342
+#: wp-shabbat/1.6/wp-shabbat-functions.php:346
+#: wp-shabbat/1.8/wp-shabbat-functions.php:227
+#: wp-shabbat/1.8/wp-shabbat-functions.php:231
+#: wp-shabbat/1.8/wp-shabbat-functions.php:262
+#: wp-shabbat/1.8/wp-shabbat-functions.php:266
+#: wp-shabbat/1.8/wp-shabbat-functions.php:310
+#: wp-shabbat/1.8/wp-shabbat-functions.php:314
+#: wp-shabbat/1.8/wp-shabbat-functions.php:343
+#: wp-shabbat/1.8/wp-shabbat-functions.php:347
+#: wp-shabbat/1.4/wp-shabbat-functions.php:210
+#: wp-shabbat/1.4/wp-shabbat-functions.php:214
+#: wp-shabbat/1.4/wp-shabbat-functions.php:245
+#: wp-shabbat/1.4/wp-shabbat-functions.php:249
+#: wp-shabbat/1.4/wp-shabbat-functions.php:293
+#: wp-shabbat/1.4/wp-shabbat-functions.php:297
+#: wp-shabbat/1.4/wp-shabbat-functions.php:326
+#: wp-shabbat/1.4/wp-shabbat-functions.php:330
+#: wp-shabbat/1.1/wp-shabbat-functions.php:210
+#: wp-shabbat/1.1/wp-shabbat-functions.php:214
+#: wp-shabbat/1.1/wp-shabbat-functions.php:245
+#: wp-shabbat/1.1/wp-shabbat-functions.php:249
+#: wp-shabbat/1.1/wp-shabbat-functions.php:293
+#: wp-shabbat/1.1/wp-shabbat-functions.php:297
+#: wp-shabbat/1.1/wp-shabbat-functions.php:326
+#: wp-shabbat/1.1/wp-shabbat-functions.php:330
+msgid "at "
+msgstr "בשעה "
+
+#: wp-shabbat-functions.php:243 wp-shabbat-functions.php:248
+#: wp-shabbat-functions.php:253 wp-shabbat-functions.php:261
+#: wp-shabbat-functions.php:266 wp-shabbat-functions.php:324
+#: wp-shabbat-functions.php:329 wp-shabbat-functions.php:334
+#: wp-shabbat-functions.php:342 wp-shabbat-functions.php:347
+#: wp-shabbat/1.3/wp-shabbat-functions.php:226
+#: wp-shabbat/1.3/wp-shabbat-functions.php:231
+#: wp-shabbat/1.3/wp-shabbat-functions.php:236
+#: wp-shabbat/1.3/wp-shabbat-functions.php:244
+#: wp-shabbat/1.3/wp-shabbat-functions.php:249
+#: wp-shabbat/1.3/wp-shabbat-functions.php:307
+#: wp-shabbat/1.3/wp-shabbat-functions.php:312
+#: wp-shabbat/1.3/wp-shabbat-functions.php:317
+#: wp-shabbat/1.3/wp-shabbat-functions.php:325
+#: wp-shabbat/1.3/wp-shabbat-functions.php:330
+#: wp-shabbat/1.7/wp-shabbat-functions.php:242
+#: wp-shabbat/1.7/wp-shabbat-functions.php:247
+#: wp-shabbat/1.7/wp-shabbat-functions.php:252
+#: wp-shabbat/1.7/wp-shabbat-functions.php:260
+#: wp-shabbat/1.7/wp-shabbat-functions.php:265
+#: wp-shabbat/1.7/wp-shabbat-functions.php:323
+#: wp-shabbat/1.7/wp-shabbat-functions.php:328
+#: wp-shabbat/1.7/wp-shabbat-functions.php:333
+#: wp-shabbat/1.7/wp-shabbat-functions.php:341
+#: wp-shabbat/1.7/wp-shabbat-functions.php:346
+#: wp-shabbat/0.07/wp-shabbat-functions.php:210
+#: wp-shabbat/0.07/wp-shabbat-functions.php:215
+#: wp-shabbat/0.07/wp-shabbat-functions.php:223
+#: wp-shabbat/0.07/wp-shabbat-functions.php:228
+#: wp-shabbat/0.07/wp-shabbat-functions.php:281
+#: wp-shabbat/0.07/wp-shabbat-functions.php:286
+#: wp-shabbat/0.07/wp-shabbat-functions.php:294
+#: wp-shabbat/0.07/wp-shabbat-functions.php:299
+#: wp-shabbat/0.08/wp-shabbat-functions.php:210
+#: wp-shabbat/0.08/wp-shabbat-functions.php:215
+#: wp-shabbat/0.08/wp-shabbat-functions.php:223
+#: wp-shabbat/0.08/wp-shabbat-functions.php:228
+#: wp-shabbat/0.08/wp-shabbat-functions.php:281
+#: wp-shabbat/0.08/wp-shabbat-functions.php:286
+#: wp-shabbat/0.08/wp-shabbat-functions.php:294
+#: wp-shabbat/0.08/wp-shabbat-functions.php:299
+#: wp-shabbat/1.2/wp-shabbat-functions.php:226
+#: wp-shabbat/1.2/wp-shabbat-functions.php:231
+#: wp-shabbat/1.2/wp-shabbat-functions.php:236
+#: wp-shabbat/1.2/wp-shabbat-functions.php:244
+#: wp-shabbat/1.2/wp-shabbat-functions.php:249
+#: wp-shabbat/1.2/wp-shabbat-functions.php:307
+#: wp-shabbat/1.2/wp-shabbat-functions.php:312
+#: wp-shabbat/1.2/wp-shabbat-functions.php:317
+#: wp-shabbat/1.2/wp-shabbat-functions.php:325
+#: wp-shabbat/1.2/wp-shabbat-functions.php:330
+#: wp-shabbat/2.1/wp-shabbat-functions.php:243
+#: wp-shabbat/2.1/wp-shabbat-functions.php:248
+#: wp-shabbat/2.1/wp-shabbat-functions.php:253
+#: wp-shabbat/2.1/wp-shabbat-functions.php:261
+#: wp-shabbat/2.1/wp-shabbat-functions.php:266
+#: wp-shabbat/2.1/wp-shabbat-functions.php:324
+#: wp-shabbat/2.1/wp-shabbat-functions.php:329
+#: wp-shabbat/2.1/wp-shabbat-functions.php:334
+#: wp-shabbat/2.1/wp-shabbat-functions.php:342
+#: wp-shabbat/2.1/wp-shabbat-functions.php:347
+#: wp-shabbat/0.03/wp-shabbat-functions.php:174
+#: wp-shabbat/0.03/wp-shabbat-functions.php:183
+#: wp-shabbat/0.03/wp-shabbat-functions.php:218
+#: wp-shabbat/0.03/wp-shabbat-functions.php:225
+#: wp-shabbat/0.04/wp-shabbat-functions.php:174
+#: wp-shabbat/0.04/wp-shabbat-functions.php:183
+#: wp-shabbat/0.04/wp-shabbat-functions.php:218
+#: wp-shabbat/0.04/wp-shabbat-functions.php:225
+#: wp-shabbat/0.02/wp-shabbat-functions.php:251
+#: wp-shabbat/0.02/wp-shabbat-functions.php:259
+#: wp-shabbat/0.02/wp-shabbat-functions.php:294
+#: wp-shabbat/0.02/wp-shabbat-functions.php:301
+#: wp-shabbat/0.01/wp-shabbat-functions.php:251
+#: wp-shabbat/0.01/wp-shabbat-functions.php:259
+#: wp-shabbat/0.01/wp-shabbat-functions.php:294
+#: wp-shabbat/0.01/wp-shabbat-functions.php:301
+#: wp-shabbat/1.5/wp-shabbat-functions.php:224
+#: wp-shabbat/1.5/wp-shabbat-functions.php:229
+#: wp-shabbat/1.5/wp-shabbat-functions.php:234
+#: wp-shabbat/1.5/wp-shabbat-functions.php:242
+#: wp-shabbat/1.5/wp-shabbat-functions.php:247
+#: wp-shabbat/1.5/wp-shabbat-functions.php:305
+#: wp-shabbat/1.5/wp-shabbat-functions.php:310
+#: wp-shabbat/1.5/wp-shabbat-functions.php:315
+#: wp-shabbat/1.5/wp-shabbat-functions.php:323
+#: wp-shabbat/1.5/wp-shabbat-functions.php:328
+#: wp-shabbat/0.06/wp-shabbat-functions.php:210
+#: wp-shabbat/0.06/wp-shabbat-functions.php:215
+#: wp-shabbat/0.06/wp-shabbat-functions.php:223
+#: wp-shabbat/0.06/wp-shabbat-functions.php:228
+#: wp-shabbat/0.06/wp-shabbat-functions.php:281
+#: wp-shabbat/0.06/wp-shabbat-functions.php:286
+#: wp-shabbat/0.06/wp-shabbat-functions.php:294
+#: wp-shabbat/0.06/wp-shabbat-functions.php:299
+#: wp-shabbat/0.05/wp-shabbat-functions.php:174
+#: wp-shabbat/0.05/wp-shabbat-functions.php:183
+#: wp-shabbat/0.05/wp-shabbat-functions.php:218
+#: wp-shabbat/0.05/wp-shabbat-functions.php:225
+#: wp-shabbat/2.0/wp-shabbat-functions.php:243
+#: wp-shabbat/2.0/wp-shabbat-functions.php:248
+#: wp-shabbat/2.0/wp-shabbat-functions.php:253
+#: wp-shabbat/2.0/wp-shabbat-functions.php:261
+#: wp-shabbat/2.0/wp-shabbat-functions.php:266
+#: wp-shabbat/2.0/wp-shabbat-functions.php:324
+#: wp-shabbat/2.0/wp-shabbat-functions.php:329
+#: wp-shabbat/2.0/wp-shabbat-functions.php:334
+#: wp-shabbat/2.0/wp-shabbat-functions.php:342
+#: wp-shabbat/2.0/wp-shabbat-functions.php:347
+#: wp-shabbat/1.00/wp-shabbat-functions.php:225
+#: wp-shabbat/1.00/wp-shabbat-functions.php:230
+#: wp-shabbat/1.00/wp-shabbat-functions.php:242
+#: wp-shabbat/1.00/wp-shabbat-functions.php:247
+#: wp-shabbat/1.00/wp-shabbat-functions.php:304
+#: wp-shabbat/1.00/wp-shabbat-functions.php:309
+#: wp-shabbat/1.00/wp-shabbat-functions.php:321
+#: wp-shabbat/1.00/wp-shabbat-functions.php:326
+#: wp-shabbat/1.9/wp-shabbat-functions.php:243
+#: wp-shabbat/1.9/wp-shabbat-functions.php:248
+#: wp-shabbat/1.9/wp-shabbat-functions.php:253
+#: wp-shabbat/1.9/wp-shabbat-functions.php:261
+#: wp-shabbat/1.9/wp-shabbat-functions.php:266
+#: wp-shabbat/1.9/wp-shabbat-functions.php:324
+#: wp-shabbat/1.9/wp-shabbat-functions.php:329
+#: wp-shabbat/1.9/wp-shabbat-functions.php:334
+#: wp-shabbat/1.9/wp-shabbat-functions.php:342
+#: wp-shabbat/1.9/wp-shabbat-functions.php:347
+#: wp-shabbat/1.6/wp-shabbat-functions.php:242
+#: wp-shabbat/1.6/wp-shabbat-functions.php:247
+#: wp-shabbat/1.6/wp-shabbat-functions.php:252
+#: wp-shabbat/1.6/wp-shabbat-functions.php:260
+#: wp-shabbat/1.6/wp-shabbat-functions.php:265
+#: wp-shabbat/1.6/wp-shabbat-functions.php:323
+#: wp-shabbat/1.6/wp-shabbat-functions.php:328
+#: wp-shabbat/1.6/wp-shabbat-functions.php:333
+#: wp-shabbat/1.6/wp-shabbat-functions.php:341
+#: wp-shabbat/1.6/wp-shabbat-functions.php:346
+#: wp-shabbat/1.8/wp-shabbat-functions.php:243
+#: wp-shabbat/1.8/wp-shabbat-functions.php:248
+#: wp-shabbat/1.8/wp-shabbat-functions.php:253
+#: wp-shabbat/1.8/wp-shabbat-functions.php:261
+#: wp-shabbat/1.8/wp-shabbat-functions.php:266
+#: wp-shabbat/1.8/wp-shabbat-functions.php:324
+#: wp-shabbat/1.8/wp-shabbat-functions.php:329
+#: wp-shabbat/1.8/wp-shabbat-functions.php:334
+#: wp-shabbat/1.8/wp-shabbat-functions.php:342
+#: wp-shabbat/1.8/wp-shabbat-functions.php:347
+#: wp-shabbat/1.4/wp-shabbat-functions.php:226
+#: wp-shabbat/1.4/wp-shabbat-functions.php:231
+#: wp-shabbat/1.4/wp-shabbat-functions.php:236
+#: wp-shabbat/1.4/wp-shabbat-functions.php:244
+#: wp-shabbat/1.4/wp-shabbat-functions.php:249
+#: wp-shabbat/1.4/wp-shabbat-functions.php:307
+#: wp-shabbat/1.4/wp-shabbat-functions.php:312
+#: wp-shabbat/1.4/wp-shabbat-functions.php:317
+#: wp-shabbat/1.4/wp-shabbat-functions.php:325
+#: wp-shabbat/1.4/wp-shabbat-functions.php:330
+#: wp-shabbat/1.1/wp-shabbat-functions.php:226
+#: wp-shabbat/1.1/wp-shabbat-functions.php:231
+#: wp-shabbat/1.1/wp-shabbat-functions.php:236
+#: wp-shabbat/1.1/wp-shabbat-functions.php:244
+#: wp-shabbat/1.1/wp-shabbat-functions.php:249
+#: wp-shabbat/1.1/wp-shabbat-functions.php:307
+#: wp-shabbat/1.1/wp-shabbat-functions.php:312
+#: wp-shabbat/1.1/wp-shabbat-functions.php:317
+#: wp-shabbat/1.1/wp-shabbat-functions.php:325
+#: wp-shabbat/1.1/wp-shabbat-functions.php:330
+msgid "Shabbat"
+msgstr "שבת"
+
+#: wp-shabbat-countdown.php:22 wp-shabbat/1.3/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.7/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.2/wp-shabbat-countdown.php:22
+#: wp-shabbat/2.1/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.5/wp-shabbat-countdown.php:22
+#: wp-shabbat/2.0/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.9/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.6/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.8/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.4/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.1/wp-shabbat-countdown.php:22
+msgid "site will close due to "
+msgstr "האתר יסגר בשל "
+
+#: wp-shabbat-countdown.php:22 wp-shabbat/1.3/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.7/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.2/wp-shabbat-countdown.php:22
+#: wp-shabbat/2.1/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.5/wp-shabbat-countdown.php:22
+#: wp-shabbat/2.0/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.9/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.6/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.8/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.4/wp-shabbat-countdown.php:22
+#: wp-shabbat/1.1/wp-shabbat-countdown.php:22
+msgid " in"
+msgstr " בתוך"
+
+#: wp-shabbat-countdown.php:31 wp-shabbat/1.3/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.7/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.2/wp-shabbat-countdown.php:31
+#: wp-shabbat/2.1/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.5/wp-shabbat-countdown.php:31
+#: wp-shabbat/2.0/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.9/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.6/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.8/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.4/wp-shabbat-countdown.php:31
+#: wp-shabbat/1.1/wp-shabbat-countdown.php:31
+msgid "The site is now closed for browsing"
+msgstr "האתר סגור לגלישה כעת"
+
+#. translators: plugin header field 'Description'
+msgid ""
+"Site closing on Saturday and Holidays by identifying the address of the user "
+"IP and close to 40 km"
+msgstr ""
+"סגירת אתר בשבת ובחגים על ידי זיהוי כתובת ה-IP של המשתמש וקרוב ל -40 ק'מ"

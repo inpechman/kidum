@@ -1,0 +1,5 @@
+[18-May-2016 13:41:14 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method PHPPC::register_admin_menu() should not be called statically in /home/kidum105/public_html/wp-includes/plugin.php on line 525
+[18-May-2016 13:41:33 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method PHPPC::register_admin_menu() should not be called statically in /home/kidum105/public_html/wp-includes/plugin.php on line 525
+[18-May-2016 13:41:45 UTC] PHP Notice:  add_object_page <strong>לא קיים</strong> מאז גרסה 4.5! השתמשו ב add_menu_page() במקום. in /home/kidum105/public_html/wp-includes/functions.php on line 3658
+[18-May-2016 13:41:45 UTC] PHP Strict Standards:  call_user_func_array() expects parameter 1 to be a valid callback, non-static method PHPPC::register_admin_menu() should not be called statically in /home/kidum105/public_html/wp-includes/plugin.php on line 525
+[18-May-2016 13:41:46 UTC] PHP Warning:  printf(): Too few arguments in /home/kidum105/public_html/wp-admin/about.php on line 151
